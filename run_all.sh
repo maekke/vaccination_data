@@ -5,6 +5,7 @@ cantons=(
 	ar
 	be
 	bl
+	bs
 	so
 )
 
