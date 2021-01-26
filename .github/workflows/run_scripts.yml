@@ -1,0 +1,38 @@
+name: Run scripts
+
+on:
+  schedule:
+    - cron:  '0 * * * *' # run every hour
+
+jobs:
+  scrape_cantons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: setup python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+
+    - name: install pip dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Scrape cantons
+      shell: bash
+      run: |
+        ./run_all.sh
+
+    # Commit to repo with updated file
+    - name: Commit and push to repo
+      uses: github-actions-x/commit@v2.6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: master
+        name: GitHub Action Scraper
+        commit-message: Automatic update of vaccination data
+        rebase: 'true'
+
