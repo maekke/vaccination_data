@@ -1,0 +1,4 @@
+arrow
+beautifulsoup4
+requests
+xlrd==1.2.0
