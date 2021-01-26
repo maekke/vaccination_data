@@ -20,7 +20,7 @@ assert res
 date = res[1]
 date = parse_so_date(date)
 
-element = soup.find('td', string=re.compile('Anzahl Impfungen \(kumuliert\)'))
+element = soup.find('td', string=re.compile(r'Anzahl Impfungen \(kumuliert\)'))
 element = element.find_next('td')
 
 vd = sc.VaccinationData(canton='SO', url=url)
