@@ -3,6 +3,7 @@
 cantons=(
 	ai
 	ar
+	be
 	so
 )
 
