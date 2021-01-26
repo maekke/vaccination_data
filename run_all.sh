@@ -2,6 +2,7 @@
 
 cantons=(
 	ai
+	ar
 )
 
 for canton in ${cantons[*]} ; do
