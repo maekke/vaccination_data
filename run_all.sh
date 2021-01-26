@@ -6,6 +6,7 @@ cantons=(
 	be
 	bl
 	bs
+	ge
 	so
 )
 
