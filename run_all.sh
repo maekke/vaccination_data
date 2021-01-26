@@ -4,6 +4,7 @@ cantons=(
 	ai
 	ar
 	be
+	bl
 	so
 )
 
