@@ -10,6 +10,7 @@ cantons=(
 	so
 	tg
 	vd
+	zg
 )
 
 for canton in ${cantons[*]} ; do
