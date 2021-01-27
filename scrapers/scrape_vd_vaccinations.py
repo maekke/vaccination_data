@@ -20,9 +20,12 @@ data = req.json()
 assert data['results']['A']['series'][0]['name'] == 'Nombre de vaccinations'
 points = data['results']['A']['series'][0]['points']
 
+# daily data, needs summing up
+total_vaccinations = 0
 for point in points:
     date = datetime.date.fromtimestamp(point[1] / 1000)
     vd = sc.VaccinationData(canton='VS', url=main_url)
     vd.date = date.isoformat()
-    vd.total_vaccinations = point[0]
+    total_vaccinations += int(point[0])
+    vd.total_vaccinations = total_vaccinations
     print(vd)
