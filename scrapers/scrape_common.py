@@ -83,3 +83,7 @@ def _download(url, encoding='utf-8'):
 
 def download(url, encoding='utf-8'):
     return _download(url, encoding).text
+
+
+def download_data(url, encoding='utf-8'):
+    return _download(url, encoding).content

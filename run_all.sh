@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cantons=(
+	ag
 	ai
 	ar
 	be
