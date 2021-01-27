@@ -7,6 +7,7 @@ cantons=(
 	bl
 	bs
 	ge
+	nw
 	so
 	tg
 	vd
