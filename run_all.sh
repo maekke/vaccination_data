@@ -22,7 +22,7 @@ for canton in ${cantons[*]} ; do
 		python scrapers/print_header.py > ${out_file}
 	fi
 	python scrapers/scrape_${canton}_vaccinations.py > tmp.csv
-	new_items=$(cut -d ',' -f 1-4 tmp.csv | sort -n | uniq)
+	new_items=$(cut -d ',' -f 1-4 tmp.csv | sort | uniq)
 	for new_item in ${new_items} ; do
 		echo "removing items with: ${new_item}"
 		sed -i -e "/^${new_item}/d" ${out_file}
@@ -30,6 +30,6 @@ for canton in ${cantons[*]} ; do
 
 	cat tmp.csv >> ${out_file}
 	head -n 1 ${out_file} > tmp.csv
-	tail -n +2 ${out_file} | sort -n >> tmp.csv
+	tail -n +2 ${out_file} | sort --field-separator=',' -n -k 2,2 -k 4,4 -k 3,3 >> tmp.csv
 	mv tmp.csv ${out_file}
 done
