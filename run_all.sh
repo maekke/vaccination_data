@@ -9,6 +9,7 @@ cantons=(
 	ge
 	so
 	tg
+	vd
 )
 
 for canton in ${cantons[*]} ; do
