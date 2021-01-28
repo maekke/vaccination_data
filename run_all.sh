@@ -13,6 +13,7 @@ cantons=(
 	so
 	tg
 	vd
+	vs
 	zg
 )
 
