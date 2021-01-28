@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import re
+import subprocess
 import requests
 
 
@@ -87,3 +89,28 @@ def download(url, encoding='utf-8'):
 
 def download_data(url, encoding='utf-8'):
     return _download(url, encoding).content
+
+
+def pdf_to_text(pdf, page=None, layout=False):
+    #pdf_command = ['pdftotext', '-layout', path, '-']
+    pdf_command = ['pdftotext', ]
+    if page:
+        pdf_command += ['-f', str(page), '-l', str(page)]
+    if layout:
+        pdf_command.append('-layout')
+    pdf_command.append('-')
+    pdf_command.append('-')
+    p = subprocess.Popen(pdf_command, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+    out = p.communicate(input=pdf)[0]
+    return out.decode('utf-8')
+
+
+def pdfinfo(pdf, attribute='Pages', encoding='utf-8'):
+    pdf_command = ['pdfinfo', '-']
+    p = subprocess.Popen(pdf_command, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+    out = p.communicate(input=pdf)[0]
+    out = out.decode(encoding)
+    res = re.search(r'(\n|^)' + attribute + r':\s+(.*)(\n|$)', out)
+    if res:
+        return res[2]
+    return None
