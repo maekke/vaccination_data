@@ -92,7 +92,6 @@ def download_data(url, encoding='utf-8'):
 
 
 def pdf_to_text(pdf, page=None, layout=False):
-    #pdf_command = ['pdftotext', '-layout', path, '-']
     pdf_command = ['pdftotext', ]
     if page:
         pdf_command += ['-f', str(page), '-l', str(page)]

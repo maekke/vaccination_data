@@ -8,10 +8,6 @@ import xlrd
 import scrape_common as sc
 
 
-def parse_be_date(date_str):
-    return arrow.get(date_str, 'DD.MM.YY', locale='de').datetime.date()
-
-
 base_url = 'https://www.ag.ch'
 url = f'{base_url}/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp'
 d = sc.download(url)
