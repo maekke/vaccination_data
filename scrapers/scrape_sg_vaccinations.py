@@ -1,13 +1,8 @@
 #!/usr/bin/env python3
 
 import re
-import arrow
 from bs4 import BeautifulSoup
 import scrape_common as sc
-
-
-def parse_be_date(date_str):
-    return arrow.get(date_str, 'DD.MM.YY', locale='de').datetime.date()
 
 
 url = 'https://www.sg.ch/tools/informationen-coronavirus/impfung-gegen-covid-19-im-kanton-st-gallen.html'
