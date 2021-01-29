@@ -23,6 +23,11 @@ cantons=(
 
 err=""
 
+total_file=vaccination_data_total.csv
+total_tmp=vaccination_data_total.tmp
+rm -f ${total_file} ${total_tmp}
+python scrapers/print_header.py > ${total_file}
+
 for canton in ${cantons[*]} ; do
 	echo "running canton: ${canton}"
 	out_file="vaccination_data_${canton}.csv"
@@ -41,7 +46,11 @@ for canton in ${cantons[*]} ; do
 	head -n 1 ${out_file} > tmp.csv
 	tail -n +2 ${out_file} | sort --field-separator=',' -n -k 2,2 -k 4,4 -k 3,3 >> tmp.csv
 	mv tmp.csv ${out_file}
+	tail -n +2 ${out_file} >> ${total_tmp}
 done
+
+sort --field-separator=',' -k 2,2 -k 4,4n -k 3,3n -k 1,1 ${total_tmp} >> ${total_file}
+rm ${total_tmp}
 
 if [[ -n ${err} ]] ; then
 	echo "error in run_all.sh for ${err}"
