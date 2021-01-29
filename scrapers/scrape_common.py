@@ -91,6 +91,10 @@ def download_data(url, encoding='utf-8'):
     return _download(url, encoding).content
 
 
+def download_json(url, encoding='utf-8'):
+    return _download(url, encoding).json()
+
+
 def pdf_to_text(pdf, page=None, layout=False):
     pdf_command = ['pdftotext', ]
     if page:

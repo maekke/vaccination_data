@@ -11,6 +11,7 @@ cantons=(
 	gr
 	ju
 	nw
+	sh
 	so
 	tg
 	vd
