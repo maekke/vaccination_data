@@ -1,5 +1,13 @@
 canton,date,week,year,doses_delivered,first_doses,second_doses,total_vaccinations,source
-SO,2021-01-26,,,,,,11379,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
-SO,2021-01-27,,,,,,11846,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
-SO,2021-01-28,,,,,,12287,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
-SO,2021-01-29,,,,,,13537,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
+SO,2021-01-13,,,,,,5003,https://corona.so.ch/index.php?id=27979
+SO,2021-01-14,,,,,,5744,https://corona.so.ch/index.php?id=27979
+SO,2021-01-18,,,,,,7232,https://corona.so.ch/index.php?id=27979
+SO,2021-01-19,,,,,,7934,https://corona.so.ch/index.php?id=27979
+SO,2021-01-20,,,,,,8808,https://corona.so.ch/index.php?id=27979
+SO,2021-01-21,,,,,,9387,https://corona.so.ch/index.php?id=27979
+SO,2021-01-22,,,,,,10075,https://corona.so.ch/index.php?id=27979
+SO,2021-01-25,,,,,,10899,https://corona.so.ch/index.php?id=27979
+SO,2021-01-26,,,,,,11379,https://corona.so.ch/index.php?id=27979
+SO,2021-01-27,,,,,,11846,https://corona.so.ch/index.php?id=27979
+SO,2021-01-28,,,,,,12287,https://corona.so.ch/index.php?id=27979
+SO,2021-01-29,,,,,,13537,https://corona.so.ch/index.php?id=27979
