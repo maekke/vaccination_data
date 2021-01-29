@@ -10,6 +10,7 @@ cantons=(
 	ge
 	gr
 	ju
+	ne
 	nw
 	sg
 	sh
