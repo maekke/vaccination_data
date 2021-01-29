@@ -11,6 +11,7 @@ def parse_ai_date(date_str):
 
 url = 'https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung'
 d = sc.download(url)
+d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 
 vd = sc.VaccinationData(canton='AI', url=url)
 
