@@ -8,6 +8,7 @@ cantons=(
 	bl
 	bs
 	ge
+	gr
 	ju
 	nw
 	so
