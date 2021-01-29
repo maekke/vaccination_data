@@ -2,7 +2,6 @@
 
 import datetime
 import re
-import arrow
 from bs4 import BeautifulSoup
 import xlrd
 import scrape_common as sc
