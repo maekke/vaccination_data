@@ -1,30 +1,38 @@
 #!/usr/bin/env python3
 
-import arrow
 import re
+import arrow
 from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
 def parse_so_date(date_str):
-    return arrow.get(date_str, 'DD.M.YYYY', locale='de').datetime.date()
+    return arrow.get(date_str, 'DD.MM.YYYY', locale='de').datetime.date()
 
 
-url = 'https://corona.so.ch/bevoelkerung/daten/impfstatistik/'
+url = 'https://corona.so.ch/index.php?id=27979'
 d = sc.download(url)
 soup = BeautifulSoup(d, 'html.parser')
 
-title = soup.find('h3', string=re.compile(r'^Stand \d+\.')).text
-res = re.search(r'Stand (\d+\.\d+\.20\d{2}),', title)
-assert res
-date = res[1]
-date = parse_so_date(date)
+table = soup.find('h2', string=re.compile(r'Situation Kanton Solothurn')).find_next('table')
 
-element = soup.find('td', string=re.compile(r'Anzahl Impfungen \(kumuliert\)'))
-element = element.find_next('td')
+headers = table.find_all('th')
+vaccination_index = None
+for i in range(0, len(headers)):
+    if headers[i].text == 'Anzahl Impfungen (kumuliert)':
+        vaccination_index = i
 
-vd = sc.VaccinationData(canton='SO', url=url)
-vd.date = date.isoformat()
-vd.total_vaccinations = element.text.replace("'", "")
-assert vd
-print(vd)
+assert vaccination_index, f'Failed to find vaccinations in {headers}'
+
+rows = table.find('tbody').find_all('tr')
+for row in rows:
+    tds = row.find_all('td')
+    value = tds[vaccination_index].text
+    res = re.search(r'(\d+)', value)
+    if res:
+        vd = sc.VaccinationData(canton='SO', url=url)
+        vd.total_vaccinations = res[1]
+
+        date = parse_so_date(tds[0].text)
+        vd.date = date.isoformat()
+        print(vd)
