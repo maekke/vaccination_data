@@ -16,6 +16,7 @@ cantons=(
 	sh
 	so
 	tg
+	ur
 	vd
 	vs
 	zg
