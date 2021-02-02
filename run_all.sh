@@ -55,5 +55,5 @@ rm ${total_tmp}
 
 if [[ -n ${err} ]] ; then
 	echo "error in run_all.sh for ${err}"
-	exit 1
+	#exit 1
 fi
