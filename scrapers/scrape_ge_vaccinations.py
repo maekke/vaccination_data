@@ -44,20 +44,11 @@ assert res
 vd.total_vaccinations = int(res[1])
 vds[vd.date] = vd
 
-"""
-TODO re-enable this, once the dates match
-vd = sc.VaccinationData(canton='GE', url=url)
 element = soup.find(text=re.compile(r'Cumul des 2')).find_next('td')
 date, doses = extract_values(element)
-vd.date = date
-vd.second_doses = doses
-
-if vd.date in vds:
-    vds[vd.date].second_doses = vd.second_doses
-    vds[vd.date].total_vaccinations += vd.second_doses
-else:
-    vds[vd.date] = vd
-"""
+if date == vd.date:
+    vd.second_doses = doses
+    assert vd.first_doses + vd.second_doses == vd.total_vaccinations
 
 for key, values in vds.items():
     print(values)
