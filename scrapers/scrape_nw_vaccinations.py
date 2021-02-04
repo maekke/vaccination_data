@@ -12,6 +12,7 @@ def parse_nw_date(date_str):
 
 url = 'https://www.nw.ch/gesundheitsamtdienste/6044'
 d = sc.download(url)
+d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='NW', url=url)
@@ -30,10 +31,10 @@ for tr in trs:
     assert len(tds) == 2, f'expected 2 items, got: {tds}'
 
     if re.search('(Erhaltene Impfdosen)', tds[0].text):
-        vd.doses_delivered = tds[1].text
+        vd.doses_delivered = int(tds[1].text)
 
     if re.search('(Verabreichte Impfdosen)', tds[0].text):
-        vd.total_vaccinations = tds[1].text
+        vd.total_vaccinations = int(tds[1].text)
 
 assert vd
 print(vd)
