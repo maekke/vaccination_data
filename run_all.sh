@@ -22,6 +22,10 @@ cantons=(
 	zg
 )
 
+manual_cantons=(
+	zh
+)
+
 err=""
 
 total_file=vaccination_data_total.csv
@@ -48,6 +52,16 @@ for canton in ${cantons[*]} ; do
 	tail -n +2 ${out_file} | sort --field-separator=',' -n -k 2,2 -k 4,4 -k 3,3 >> tmp.csv
 	mv tmp.csv ${out_file}
 	tail -n +2 ${out_file} >> ${total_tmp}
+done
+
+for canton in ${manual_cantons[*]} ; do
+	out_file="vaccination_data_${canton}.csv"
+	if [[ ! -f ${out_file} ]] ; then
+		echo "manual canton file does not exist: ${out_file}"
+	else
+		echo "adding manual data from: ${canton}"
+		tail -n +2 ${out_file} >> ${total_tmp}
+	fi
 done
 
 sort --field-separator=',' -k 2,2 -k 4,4n -k 3,3n -k 1,1 ${total_tmp} >> ${total_file}
