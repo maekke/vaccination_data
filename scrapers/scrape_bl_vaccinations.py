@@ -36,7 +36,7 @@ for iframe in soup.find_all('iframe'):
     d = sc.download(iframe_url)
     d = d.replace('\n', ' ')
 
-    res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Mobiles Team&quot;,&quot;Impfzentrum Ost&quot;,&quot;Impfzentrum Mitte&quot;\s*([^<]+)</pre>', d)
+    res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Mobiles Team, andere&quot;,&quot;Impfzentrum Ost&quot;,&quot;Impfzentrum Mitte&quot;\s*([^<]+)</pre>', d)
     assert res
     data = res[1]
     if data:
