@@ -13,7 +13,7 @@ def parse_tg_date(date_str):
 def get_value(row, key):
     value = row[key]
     if value != '':
-        return value
+        return int(value)
     return None
 
 
@@ -21,6 +21,7 @@ url = 'https://statistik.tg.ch/public/upload/assets/94501/COVID19_Fallzahlen_Kan
 d_csv = sc.download(url)
 
 reader = csv.DictReader(StringIO(d_csv), delimiter=';')
+total_doses_delivered = 0
 for row in reader:
     if not row['date']:
         continue
@@ -29,6 +30,9 @@ for row in reader:
     date = parse_tg_date(date)
     vd.date = date.isoformat()
     vd.total_vaccinations = get_value(row, 'total_vaccinations')
-    vd.doses_delivered = get_value(row, 'doses_delivered')
+    doses_delivered = get_value(row, 'doses_delivered')
+    if doses_delivered:
+        total_doses_delivered += doses_delivered
+        vd.doses_delivered = total_doses_delivered
     if vd:
         print(vd)
