@@ -51,8 +51,8 @@ for row in range(title_row + 1, sheet.nrows):
     value = sheet.cell_value(row, second_dose_column)
     if value != '-':
         second_doses += int(sheet.cell_value(row, second_dose_column))
-        vd.second_doses = second_doses
-        vd.total_vaccinations += vd.second_doses
+        vd.total_vaccinations += second_doses
+    vd.second_doses = second_doses
 
     assert vd
     print(vd)
