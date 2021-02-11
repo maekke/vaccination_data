@@ -76,7 +76,10 @@ class VaccinationData:
 
 
 def _download(url, encoding='utf-8'):
-    req = requests.get(url)
+    headers = {
+        'User-Agent': '',
+    }
+    req = requests.get(url, headers=headers)
     req.raise_for_status()
     if encoding:
         req.encoding = encoding
