@@ -126,7 +126,7 @@ BL,2021-01-18,,,,,,5564,https://www.baselland.ch/politik-und-behorden/direktione
 BS,2021-01-18,,,,7227,623,7850,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NE,2021-01-18,,,,,,2585,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SO,2021-01-18,,,,,,7232,https://corona.so.ch/index.php?id=27979
-VD,2021-01-18,,,,7376,,7376,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-01-18,,,,7375,,7375,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-01-18,,,,,,4215,https://www.vs.ch/documents/6756452/7008787/2021 01 18 - Sit Epid - État Stand
 ZG,2021-01-18,,,,2300,210,2508,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2021-01-19,,,,,0,6064,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
@@ -134,7 +134,7 @@ BL,2021-01-19,,,,,,6269,https://www.baselland.ch/politik-und-behorden/direktione
 BS,2021-01-19,,,,8285,1259,9544,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-19,,,,7519,0,7519,https://www.lustat.ch/daten?id=28177
 SO,2021-01-19,,,,,,7934,https://corona.so.ch/index.php?id=27979
-VD,2021-01-19,,,,9094,,9094,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-01-19,,,,9093,,9093,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-01-19,,,,,,6160,https://www.vs.ch/documents/6756452/7008787/2021 01 19 - Sit Epid - État Stand
 ZG,2021-01-19,,,,2939,218,3157,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2021-01-20,,,,,0,7859,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
@@ -142,7 +142,7 @@ BL,2021-01-20,,,,,,6989,https://www.baselland.ch/politik-und-behorden/direktione
 BS,2021-01-20,,,,8428,2128,10556,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-20,,,,8045,0,8045,https://www.lustat.ch/daten?id=28177
 SO,2021-01-20,,,,,,8808,https://corona.so.ch/index.php?id=27979
-VD,2021-01-20,,,,11142,,11142,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-01-20,,,,11141,,11141,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-01-20,,,,,,6825,https://www.vs.ch/documents/6756452/7008787/2021 01 20 - Sit Epid - État Stand
 ZG,2021-01-20,,,,3748,235,3983,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2021-01-21,,,,,0,9904,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
@@ -151,7 +151,7 @@ BS,2021-01-21,,,,8518,2128,10646,https://data.bs.ch/explore/dataset/100111/downl
 LU,2021-01-21,,,,8975,0,8975,https://www.lustat.ch/daten?id=28177
 SO,2021-01-21,,,,,,9387,https://corona.so.ch/index.php?id=27979
 TG,2021-01-21,,,15075,,,3586,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-VD,2021-01-21,,,,13451,,13451,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-01-21,,,,13450,,13450,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-01-21,,,,,,7975,https://www.vs.ch/documents/6756452/7008787/2021 01 21 - Sit Epid - État Stand
 ZG,2021-01-21,,,,4468,335,4803,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AI,2021-01-22,,,,,,823,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
@@ -395,6 +395,10 @@ BE,2021-02-11,,,,,2236,42920,https://www.besondere-lage.sites.be.ch/de/start/imp
 GR,2021-02-11,,,,8482,3985,12467,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 NW,2021-02-11,,,4870,,,4350,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-02-11,,,,6183,961,7144,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
-VD,2021-02-11,,,,44564,6789,51353,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-11,,,,44564,6790,51354,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-02-11,,,,,,19955,https://www.vs.ch/documents/6756452/7008787/2021 02 11 - Sit Epid - État Stand
+ZG,2021-02-11,,,,7372,1384,8756,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-02-11,,,,64145,4996,69141,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
+BE,2021-02-12,,,,,3408,46061,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
+SH,2021-02-12,,,,6199,1267,7466,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+VD,2021-02-12,,,,44693,7052,51745,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
