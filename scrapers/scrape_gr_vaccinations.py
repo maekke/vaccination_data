@@ -13,6 +13,7 @@ def parse_gr_date(date_str):
 url = 'https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx'
 d = sc.download(url)
 d = re.sub(r'(\d+)\s(\d+)', r'\1\2', d)
+d = re.sub(r'(\d+)&#39;(\d+)', r'\1\2', d)
 soup = BeautifulSoup(d, 'html.parser')
 
 table = soup.find('h2', string=re.compile('Impfungen Kanton Graub.nden')).find_next('table')
