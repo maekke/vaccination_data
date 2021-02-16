@@ -38,7 +38,7 @@ date, doses = extract_values(element)
 vd.date = date
 vd.first_doses = doses
 
-element = soup.find('p', text=re.compile(r'\d+ doses ont .t. administr.es'))
+element = soup.find('p', text=re.compile(r'\d+\s+doses ont .t. administr.es'))
 res = re.search(r'(\d+)\s+doses', element.string)
 assert res
 vd.total_vaccinations = int(res[1])
