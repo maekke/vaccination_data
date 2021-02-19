@@ -22,9 +22,15 @@ date = res[1]
 date = parse_ai_date(date)
 vd.date = date.isoformat()
 
-res = re.search(r'<li>([0-9]+)\s+Personen geimpft \(kumuliert\)<\/li>', d)
+res = re.search(r'<li>([0-9]+)\s+Personen geimpft', d)
 assert res
-vd.total_vaccinations = res[1]
+vd.first_doses = int(res[1])
+
+res = re.search(r'davon (\d+) mit 2. Impfdosis\s?</li>', d)
+assert res
+vd.second_doses = int(res[1])
+
+vd.total_vaccinations = vd.first_doses + vd.second_doses
 
 assert vd
 print(vd)
