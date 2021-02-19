@@ -2,8 +2,14 @@
 # -*- coding: utf-8 -*-
 
 import re
+import arrow
 from bs4 import BeautifulSoup
 import scrape_common as sc
+
+
+def parse_ju_date(date_str):
+    return arrow.get(date_str, 'DD.MM.YYYY', locale='de').datetime.date()
+
 
 base_url = 'https://www.jura.ch'
 url = f'{base_url}/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html'
@@ -11,7 +17,7 @@ d = sc.download(url)
 d = d.replace('&nbsp;', ' ')
 soup = BeautifulSoup(d, 'html.parser')
 
-pdf_url = soup.find('a', title=re.compile(r'.*PDF.*')).get('href')
+pdf_url = soup.find('a', title=re.compile(r'Donn.es de vaccination')).get('href')
 if not pdf_url.startswith('http'):
     pdf_url = f'{base_url}{pdf_url}'
 pdf_url = pdf_url.replace('?download=1', '')
@@ -21,24 +27,26 @@ pages = sc.pdfinfo(pdf)
 
 vd = sc.VaccinationData(canton='JU', url=pdf_url)
 
-content = sc.pdf_to_text(pdf, page=1)
-res = re.search(r'Situation semaine .pid.miologique (\d+)', content)
+content = sc.pdf_to_text(pdf, page=1, raw=True)
+content = re.sub(r'(\d+)\'(\d+)', r'\1\2', content)
+res = re.search(r'\d+\.\d+\.\d{4}\s(\d+\.\d+\.\d{4})', content)
 assert res
-vd.week = res[1]
+vd.date = parse_ju_date(res[1])
 
-res = re.search(r'Du \d+.* (\d{4})', content)
-assert res
-vd.year = res[1]
-
-content = sc.pdf_to_text(pdf, page=pages, layout=True)
-
-# get last total (total of all vaccinations)
-pos = content.rfind('Total')
-assert pos > 0
-content = content[pos:]
-
-res = re.search(r'Total\s+\d+\s+\d+\s+\d+\s+(\d+)', content)
+res = re.search(r'(\d+)\s+Injections administr.es', content)
 assert res
 vd.total_vaccinations = res[1]
+
+
+content = sc.pdf_to_text(pdf, page=2, raw=True)
+content = re.sub(r'(\d+)\'(\d+)', r'\1\2', content)
+
+res = re.search(r'(\d+)\s+Nombre de 1.re injection', content)
+assert res
+vd.first_doses = res[1]
+
+res = re.search(r'(\d+)\s+Nombre de 2.me injection', content)
+assert res
+vd.second_doses = res[1]
 
 print(vd)
