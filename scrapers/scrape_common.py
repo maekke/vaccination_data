@@ -98,12 +98,14 @@ def download_json(url, encoding='utf-8'):
     return _download(url, encoding).json()
 
 
-def pdf_to_text(pdf, page=None, layout=False):
+def pdf_to_text(pdf, page=None, layout=False, raw=False):
     pdf_command = ['pdftotext', ]
     if page:
         pdf_command += ['-f', str(page), '-l', str(page)]
     if layout:
         pdf_command.append('-layout')
+    if raw:
+        pdf_command.append('-raw')
     pdf_command.append('-')
     pdf_command.append('-')
     p = subprocess.Popen(pdf_command, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
