@@ -19,7 +19,7 @@ table = soup.find('h2', string=re.compile(r'Situation Kanton Solothurn')).find_n
 headers = table.find_all('th')
 vaccination_index = None
 for i in range(0, len(headers)):
-    if headers[i].text == 'Anzahl Impfungen (kumuliert)':
+    if headers[i].text == 'Anzahl Impfungen (Erstimpfung)':
         vaccination_index = i
 
 assert vaccination_index, f'Failed to find vaccinations in {headers}'
@@ -31,6 +31,7 @@ for row in rows:
     res = re.search(r'(\d+)', value)
     if res:
         vd = sc.VaccinationData(canton='SO', url=url)
+        vd.first_doses = res[1]
         vd.total_vaccinations = res[1]
 
         date = parse_so_date(tds[0].text)
