@@ -21,9 +21,6 @@ url = 'https://statistik.tg.ch/public/upload/assets/94501/COVID19_Fallzahlen_Kan
 d_csv = sc.download(url)
 
 reader = csv.DictReader(StringIO(d_csv), delimiter=';')
-total_doses_delivered = 0
-total_first_doses = 0
-total_second_doses = 0
 for row in reader:
     if not row['date']:
         continue
@@ -34,15 +31,12 @@ for row in reader:
     vd.total_vaccinations = get_value(row, 'total_vaccinations')
     doses_delivered = get_value(row, 'doses_delivered')
     if doses_delivered:
-        total_doses_delivered += doses_delivered
-        vd.doses_delivered = total_doses_delivered
+        vd.doses_delivered = doses_delivered
     first_doses = get_value(row, 'first_doses')
     if first_doses:
-        total_first_doses += first_doses
-        vd.first_doses = total_first_doses
+        vd.first_doses = first_doses
     second_doses = get_value(row, 'second_doses')
     if second_doses:
-        total_second_doses += second_doses
-        vd.second_doses = total_second_doses
+        vd.second_doses = second_doses
     if vd:
         print(vd)
