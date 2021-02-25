@@ -22,6 +22,7 @@ cantons=(
 	vd
 	vs
 	zg
+	fl
 )
 
 manual_cantons=(
