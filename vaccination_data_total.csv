@@ -59,7 +59,7 @@ ZG,2021-01-04,,,,350,0,350,https://www.zg.ch/behoerden/gesundheitsdirektion/stat
 BL,2021-01-05,,,,,,702,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-05,,,,3161,0,3161,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-05,,,,1895,0,1895,https://www.lustat.ch/daten?id=28177
-TG,2021-01-05,,,,446,,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-01-05,,,,446,0,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 ZG,2021-01-05,,,,350,0,350,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2021-01-06,,,,,,1016,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-06,,,,3788,0,3788,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -180,7 +180,7 @@ BL,2021-01-22,,,,,,8315,https://www.baselland.ch/politik-und-behorden/direktione
 BS,2021-01-22,,,,8678,2128,10806,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-22,,,,10239,190,10429,https://www.lustat.ch/daten?id=28177
 SO,2021-01-22,,,,10075,,10075,https://corona.so.ch/index.php?id=27979
-TG,2021-01-22,,,975,3882,134,4016,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-01-22,,,16050,3882,134,4016,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 UR,2021-01-22,,,,,,1134,https://www.ur.ch/_rte/information/74728
 VD,2021-01-22,,,,15446,,15446,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-01-22,,,,,,8945,https://www.vs.ch/documents/6756452/7008787/2021 01 22 - Sit Epid - État Stand
@@ -359,7 +359,7 @@ AG,2021-02-06,,,41600,25378,3291,28669,https://www.ag.ch/de/themen_1/coronavirus
 BL,2021-02-06,,,,,,15321,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-02-06,,,,10436,3759,14195,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NW,2021-02-06,,,4870,,,3740,https://www.nw.ch/gesundheitsamtdienste/6044
-TG,2021-02-06,,,8600,11615,668,12283,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-02-06,,,24650,11615,668,12283,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-02-06,,,,38002,1560,39562,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-02-06,,,,7262,912,8174,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2021-02-07,,,41600,25378,3291,28669,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -488,7 +488,7 @@ LU,2021-02-16,,,,18398,7374,25772,https://www.lustat.ch/daten?id=28177
 NW,2021-02-16,,,6170,,,4926,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-02-16,,,,6216,1636,7852,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 SO,2021-02-16,,,,15443,,15443,https://corona.so.ch/index.php?id=27979
-TG,2021-02-16,,,2925,16644,2436,19080,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-02-16,,,27575,16644,2436,19080,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-02-16,,,,48786,11788,60574,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-02-16,,,,,,23870,https://www.vs.ch/documents/6756452/7008787/2021 02 16 - Sit Epid - Etat Stand
 ZG,2021-02-16,,,,7619,2694,10313,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -580,7 +580,7 @@ LU,2021-02-23,,,,19907,12221,32128,https://www.lustat.ch/daten?id=28177
 NW,2021-02-23,,,,,,3004,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-02-23,,,,6312,3540,9852,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 SO,2021-02-23,,,,17664,,17664,https://corona.so.ch/index.php?id=27979
-TG,2021-02-23,,,2925,18193,4677,22870,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-02-23,,,30500,18193,4677,22870,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-02-23,,,,53416,19026,72442,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-02-23,,,,,,29780,https://www.vs.ch/documents/6756452/7008787/2021 02 23 - Sit Epid - État Stand
 ZG,2021-02-23,,,,7975,6416,14391,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -595,6 +595,7 @@ NW,2021-02-24,,,,,,3004,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-02-24,,,,6463,3570,10033,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 SO,2021-02-24,,,,17828,,17828,https://corona.so.ch/index.php?id=27979
 TG,2021-02-24,,,,18381,5097,23478,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TI,2021-02-24,,,,11470,24038,35508,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-02-24,,,,53981,21164,75145,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-02-24,,,,,,31555,https://www.vs.ch/documents/6756452/7008787/2021 02 24 - Sit Epid - État Stand
 ZG,2021-02-24,,,,8076,6646,14722,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv

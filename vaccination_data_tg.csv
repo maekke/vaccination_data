@@ -1,5 +1,5 @@
 canton,date,week,year,doses_delivered,first_doses,second_doses,total_vaccinations,source
-TG,2021-01-05,,,,446,,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-01-05,,,,446,0,446,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-06,,,,571,1,572,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-07,,,,855,1,856,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-08,,,,1082,1,1083,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -16,7 +16,7 @@ TG,2021-01-18,,,,2156,2,2158,https://www.tg.ch/news/fachstab-gesundheit-coronavi
 TG,2021-01-19,,,,2467,2,2469,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-20,,,,2960,2,2962,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-21,,,15075,3466,72,3538,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-TG,2021-01-22,,,975,3882,134,4016,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-01-22,,,16050,3882,134,4016,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-23,,,,3882,134,4016,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-24,,,,3882,134,4016,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-01-25,,,,4443,200,4643,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -31,7 +31,7 @@ TG,2021-02-02,,,,9590,600,10190,https://www.tg.ch/news/fachstab-gesundheit-coron
 TG,2021-02-03,,,,10166,600,10766,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-04,,,,10839,626,11465,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-05,,,,11462,656,12118,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-TG,2021-02-06,,,8600,11615,668,12283,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-02-06,,,24650,11615,668,12283,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-07,,,,11768,668,12436,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-08,,,,12655,988,13643,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-09,,,,13394,1219,14613,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -41,12 +41,12 @@ TG,2021-02-12,,,,15303,1768,17071,https://www.tg.ch/news/fachstab-gesundheit-cor
 TG,2021-02-13,,,,15456,1768,17224,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-14,,,,15621,1768,17389,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-15,,,,16139,2012,18151,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-TG,2021-02-16,,,2925,16644,2436,19080,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-02-16,,,27575,16644,2436,19080,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-17,,,,17045,2808,19853,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-18,,,,17416,3402,20818,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-19,,,,17493,3805,21298,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-20,,,,17661,3805,21466,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-21,,,,17828,3805,21633,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-22,,,,17999,4135,22134,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-TG,2021-02-23,,,2925,18193,4677,22870,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+TG,2021-02-23,,,30500,18193,4677,22870,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TG,2021-02-24,,,,18381,5097,23478,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
