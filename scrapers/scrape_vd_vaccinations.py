@@ -38,15 +38,25 @@ for data in first_doses_data:
 second_doses = 0
 for data in second_doses_data:
     date = datetime.date.fromtimestamp(data[1] / 1000)
+    if date not in vaccination_data:
+        vd = sc.VaccinationData(canton='VD', url=main_url)
+        vd.date = date.isoformat()
+        vaccination_data[date] = vd
     vd = vaccination_data[date]
     second_doses += int(data[0])
     vd.second_doses = second_doses
-    vd.total_vaccinations = vd.first_doses + vd.second_doses
+    if vd.first_doses:
+        vd.total_vaccinations = vd.first_doses + vd.second_doses
 
-# second doses are not available on each day,
+# first/second doses are not available on each day,
 # add the missing ones with the last value
+first_doses = None
 second_doses = None
 for date, vd in vaccination_data.items():
+    if vd.first_doses:
+        first_doses = vd.first_doses
+    if vd.first_doses is None and first_doses:
+        vd.first_doses = first_doses
     if vd.second_doses:
         second_doses = vd.second_doses
     if second_doses:
