@@ -33,7 +33,13 @@ for tr in trs:
     if re.search('(Erhaltene Impfdosen)', tds[0].text):
         vd.doses_delivered = int(tds[1].text)
 
-    if re.search('(Verabreichte Impfdosen)', tds[0].text):
+    if re.search('(Verabreichte Impfdosen \(1. Impfung\))', tds[0].text):
+        vd.first_doses = int(tds[1].text)
+
+    if re.search('(Verabreichte Impfdosen \(2. Impfung\))', tds[0].text):
+        vd.second_doses = int(tds[1].text)
+
+    if re.search('(Total verabreichte Impfdosen)', tds[0].text):
         vd.total_vaccinations = int(tds[1].text)
 
 assert vd
