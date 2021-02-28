@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 
 import re
+import arrow
 from bs4 import BeautifulSoup
 import scrape_common as sc
+
+
+def parse_sg_date(date_str):
+    return arrow.get(date_str, 'DD. MMMM YYYY', locale='de').datetime.date()
 
 
 url = 'https://www.sg.ch/tools/informationen-coronavirus/impfung-gegen-covid-19-im-kanton-st-gallen.html'
@@ -12,21 +17,21 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='SG', url=url)
 
-element = soup.find('h3', string=re.compile('Impf-Fortschritt')).find_next('h4')
-
-# on 2021-01-29 there is also a news item with the same value
-# maybe worth checking to use the dates at some point
-res = re.search(r'Stand KW (\d+):', element.text)
-assert res
-vd.week = res[1]
-vd.year = 2021
-
+element = soup.find('h3', string=re.compile(r'\*\*\*\s+News'))
 element = element.find_next('p')
-res = re.findall(r'\w+: (\d+)\s?', element.text)
-assert len(res) > 0
+res = re.search(r'\d+\.\s+\w+\s+(\d{4})', element.text)
+assert res
+year = res[1]
+
+res = re.search(r'Bis\s+zum\s+(\d+\.\s+)\w+', element.text)
+assert res
+date = res[0]
+vd.date = parse_sg_date(f'{date} {year}')
+
+vaccinations = re.findall(r'(\d+) Impfungen', element.text)
 vd.total_vaccinations = 0
-for value in res:
-    vd.total_vaccinations += int(value)
+for vaccination in vaccinations:
+    vd.total_vaccinations += int(vaccination)
 
 assert vd
 print(vd)
