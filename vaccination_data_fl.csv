@@ -1,3 +1,4 @@
 canton,date,week,year,doses_delivered,first_doses,second_doses,total_vaccinations,source
 FL,2021-02-12,,,3750,836,329,1165,https://www.llv.li/files/as/impfungen.xlsx
 FL,2021-02-19,,,3750,1358,447,1805,https://www.llv.li/files/as/impfungen.xlsx
+FL,2021-02-26,,,3750,1770,819,2589,https://www.llv.li/files/as/impfungen.xlsx
