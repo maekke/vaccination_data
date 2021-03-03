@@ -635,7 +635,7 @@ BL,2021-02-27,,,,,,29417,https://www.baselland.ch/politik-und-behorden/direktion
 BS,2021-02-27,,,,12733,9363,22096,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-02-27,,,,20603,15725,36328,https://www.lustat.ch/daten?id=28177
 TG,2021-02-27,,,,18659,6863,25522,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-VD,2021-02-27,,,,58352,24937,83289,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-27,,,,58389,24937,83326,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-02-27,,,,8574,6945,15519,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2021-02-28,,,89025,44176,17477,61653,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BL,2021-02-28,,,,,,29417,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -645,7 +645,7 @@ TG,2021-02-28,,,,18671,7305,25976,https://www.tg.ch/news/fachstab-gesundheit-cor
 TI,2021-02-28,,,,23439,13892,37331,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-02-28,,,,54945,25130,80075,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-02-28,,,,8689,6950,15639,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-AG,2021-03-01,,,89025,45870,18100,63970,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
+AG,2021-03-01,,,89025,45871,18100,63971,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 AR,2021-03-01,,,6129,,,6068,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 BE,2021-03-01,,,,,24715,87841,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BL,2021-03-01,,,,,,30223,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -661,6 +661,7 @@ VD,2021-03-01,,,,56351,26225,82576,https://monitoring.unisante.ch/d/krLTmEfGk/do
 VS,2021-03-01,,,,,,33875,https://www.vs.ch/documents/6756452/7008787/2021 03 01 - Sit Epid - État Stand
 ZG,2021-03-01,,,,8793,6957,15750,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-03-01,,,,86538,34886,121424,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
+AG,2021-03-02,,,99750,47166,19361,66527,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 AR,2021-03-02,,,9669,,,6139,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 BE,2021-03-02,,,,,27062,90981,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BL,2021-03-02,,,,,,31200,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -677,4 +678,4 @@ ZH,2021-03-02,,,,86945,36742,123687,https://www.zh.ch/content/dam/zhweb/bilder-d
 BE,2021-03-03,,,,,29561,94346,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 LU,2021-03-03,,,,21273,15725,21273,https://www.lustat.ch/daten?id=28177
 SH,2021-03-03,,,,7317,4102,11419,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
-VD,2021-03-03,,,,58352,27415,85767,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-03-03,,,,58389,27416,85805,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
