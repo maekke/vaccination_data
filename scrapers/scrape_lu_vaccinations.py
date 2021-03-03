@@ -45,14 +45,15 @@ for row in range(title_row + 1, sheet.nrows):
     except:
         break
 
-    first_doses += int(sheet.cell_value(row, first_dose_column))
+    value = sheet.cell_value(row, first_dose_column)
+    if value != '-':
+        first_doses += int(sheet.cell_value(row, first_dose_column))
     vd.first_doses = first_doses
-    vd.total_vaccinations = vd.first_doses
     value = sheet.cell_value(row, second_dose_column)
     if value != '-':
         second_doses += int(sheet.cell_value(row, second_dose_column))
-        vd.total_vaccinations += second_doses
     vd.second_doses = second_doses
+    vd.total_vaccinations = vd.first_doses + vd.second_doses
 
     assert vd
     print(vd)
