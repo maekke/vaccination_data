@@ -17,7 +17,7 @@ d = sc.download(url)
 d = d.replace('&nbsp;', ' ')
 soup = BeautifulSoup(d, 'html.parser')
 
-pdf_url = soup.find('a', title=re.compile(r'Donn.es vaccination')).get('href')
+pdf_url = soup.find('a', title=re.compile(r'Donn.es de vaccination')).get('href')
 if not pdf_url.startswith('http'):
     pdf_url = f'{base_url}{pdf_url}'
 pdf_url = pdf_url.replace('?download=1', '')
