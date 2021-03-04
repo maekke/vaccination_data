@@ -7,7 +7,7 @@ import scrape_common as sc
 
 
 def parse_sg_date(date_str):
-    return arrow.get(date_str, 'DD. MMMM YYYY', locale='de').datetime.date()
+    return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
 
 
 url = 'https://www.sg.ch/tools/informationen-coronavirus/impfung-gegen-covid-19-im-kanton-st-gallen.html'
