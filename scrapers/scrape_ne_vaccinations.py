@@ -49,18 +49,32 @@ vaccinations = vaccination_data['dataValues']
 date_data = data[2]
 dates = date_data['dataValues']
 
+number_of_entries = len(dates)
+first_doses = vaccinations[0:number_of_entries]
+
+# second doses start at 2021-01-25
+idx = dates.index('2021-01-25 00:00:00')
+second_doses = vaccinations[number_of_entries:number_of_entries + idx + 1]
+for i in range(number_of_entries - idx - 1):
+    second_doses.append(0)
+
+
 # data is in a strange ordering
 # first the vaccinations per week newest to oldest
 # afterwards the summed up (only vaccinations, not date).
 # for now take the weekly ones and sum them up manually.
-items = list(zip(vaccinations, dates))
+items = list(zip(first_doses, second_doses, dates))
 items.reverse()
 
-total_vaccinations = 0
+first_doses = 0
+second_doses = 0
 for item in items:
     vd = sc.VaccinationData(canton='NE', url=main_url)
-    vd.date = parse_ne_date(item[1])
-    total_vaccinations += item[0]
-    vd.total_vaccinations = total_vaccinations
+    vd.date = parse_ne_date(item[2])
+    first_doses += item[0]
+    vd.first_doses = first_doses
+    second_doses += item[1]
+    vd.second_doses = second_doses
+    vd.total_vaccinations = vd.first_doses + vd.second_doses
     assert vd
     print(vd)
