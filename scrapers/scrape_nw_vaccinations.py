@@ -17,7 +17,7 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='NW', url=url)
 
-elem = soup.find('em', string=re.compile(r'Nachfolgend die Impfstatistik'))
+elem = soup.find('em', string=re.compile(r'Die Impfstatistik'))
 res = re.search(r'(\d+\. \w+ \d{4})', elem.text)
 assert res
 date = res[1]
