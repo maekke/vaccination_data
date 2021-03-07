@@ -18,7 +18,7 @@ cantons=(
 	so
 	tg
 	ti
-	# ur
+	ur
 	vd
 	vs
 	zg
@@ -27,7 +27,6 @@ cantons=(
 
 manual_cantons=(
 	sz
-	ur
 	zh
 )
 
