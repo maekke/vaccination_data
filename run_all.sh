@@ -7,6 +7,7 @@ cantons=(
 	be
 	bl
 	bs
+	fr
 	ge
 	gr
 	ju
