@@ -14,6 +14,7 @@ cantons=(
 	lu
 	ne
 	nw
+	ow
 	sg
 	sh
 	so
