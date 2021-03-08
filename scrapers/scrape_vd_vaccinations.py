@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from collections import OrderedDict
 import requests
 import scrape_common as sc
 
@@ -32,7 +33,6 @@ for data in first_doses_data:
     vd.date = date.isoformat()
     first_doses += int(data[0])
     vd.first_doses = first_doses
-    vd.total_vaccinations = first_doses
     vaccination_data[date] = vd
 
 second_doses = 0
@@ -45,21 +45,23 @@ for data in second_doses_data:
     vd = vaccination_data[date]
     second_doses += int(data[0])
     vd.second_doses = second_doses
-    if vd.first_doses:
-        vd.total_vaccinations = vd.first_doses + vd.second_doses
+
+ordered_vd = OrderedDict(sorted(vaccination_data.items()))
 
 # first/second doses are not available on each day,
 # add the missing ones with the last value
 first_doses = None
 second_doses = None
-for date, vd in vaccination_data.items():
+for date, vd in ordered_vd.items():
     if vd.first_doses:
         first_doses = vd.first_doses
     if vd.first_doses is None and first_doses:
         vd.first_doses = first_doses
     if vd.second_doses:
         second_doses = vd.second_doses
-    if second_doses:
+    if vd.second_doses is None and second_doses:
         vd.second_doses = second_doses
-        vd.total_vaccinations = vd.first_doses + vd.second_doses
+    vd.total_vaccinations = vd.first_doses
+    if second_doses:
+        vd.total_vaccinations += second_doses
     print(vd)
