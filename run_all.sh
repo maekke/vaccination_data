@@ -9,6 +9,7 @@ cantons=(
 	bs
 	fr
 	ge
+	gl
 	gr
 	ju
 	lu
