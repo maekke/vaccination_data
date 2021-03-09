@@ -7,7 +7,7 @@ import scrape_common as sc
 
 
 def parse_gl_date(date_str):
-    return arrow.get(date_str, 'DD.M.YYYY', locale='de').datetime.date()
+    return arrow.get(date_str, 'D.M.YYYY', locale='de').datetime.date()
 
 
 url = 'https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817'
