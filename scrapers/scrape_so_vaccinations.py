@@ -44,7 +44,7 @@ for row in rows:
     vd = sc.VaccinationData(canton='SO', url=url)
 
     date = tds[date_index].text
-    res = re.search(r'(\d+\.\d+\.\d{4}),', date)
+    res = re.search(r'(\d+\.\d+\.\d{4})', date)
     assert res
     vd.date = parse_so_date(res[1])
 
