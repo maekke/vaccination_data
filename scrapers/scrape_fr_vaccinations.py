@@ -30,7 +30,7 @@ assert res
 vd.doses_delivered = res[1]
 
 element = element.find_next('p')
-res = re.search(r'davon wurden (\d+)\s+Dosen verabreicht', element.text)
+res = re.search(r'Davon wurden (\d+)\s+Dosen durch den Kanton verabreicht', element.text)
 assert res
 vd.total_vaccinations = res[1]
 
