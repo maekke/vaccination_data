@@ -19,19 +19,23 @@ vd = sc.VaccinationData(canton='SG', url=url)
 
 element = soup.find('h3', string=re.compile(r'\*\*\*\s+News'))
 element = element.find_next('p')
-res = re.search(r'\d+\.\s+\w+\s+(\d{4})', element.text)
-assert res
-year = res[1]
+element = element.find_parent('div')
+news = element.find_all('p')
 
-res = re.search(r'Bis\s+zum\s+(\d+\.\s+)\w+', element.text)
-assert res
-date = res[0]
-vd.date = parse_sg_date(f'{date} {year}')
+for element in news:
+    res = re.search(r'\d+\.\s+\w+\s+(\d{4})', element.text)
+    assert res
+    year = res[1]
 
-vaccinations = re.findall(r'(\d+) Impfungen', element.text)
-vd.total_vaccinations = 0
-for vaccination in vaccinations:
-    vd.total_vaccinations += int(vaccination)
+    res = re.search(r'Bis\s+zum\s+(\d+\.\s+)\w+', element.text)
+    if res:
+        date = res[0]
+        vd.date = parse_sg_date(f'{date} {year}')
 
-assert vd
-print(vd)
+        vaccinations = re.findall(r'(\d+) Impfungen', element.text)
+        vd.total_vaccinations = 0
+        for vaccination in vaccinations:
+            vd.total_vaccinations += int(vaccination)
+
+        assert vd
+        print(vd)
