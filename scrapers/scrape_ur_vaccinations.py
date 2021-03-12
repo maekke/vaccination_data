@@ -31,7 +31,7 @@ res = re.search(r'(\d+\. \w+ \d{4})', title.text)
 assert res
 vd.date = parse_ur_date(res[1])
 
-content = soup.find('h3', text=re.compile('Impf')).find_next('p').text
+content = soup.find('h3', text=re.compile('Impf|geimpft')).find_next('p').text
 res = re.search(r'im Kanton Uri (rund )?(\d+) (Impfungen|Personen)', content)
 if res:
     vd.total_vaccinations = int(res[2])
