@@ -29,7 +29,7 @@ for i in range(0, len(headers)):
         first_vaccination_index = i
     elif headers[i].text.find('Anzahl Dosen zweite Impfung') >= 0:
         second_vaccination_index = i
-    elif headers[i].text.find('Datum') >= 0:
+    elif headers[i].text.find('Impfdatum') >= 0:
         date_index = i
 
 assert tot_vaccination_index is not None, f'Failed to find total index in {headers}'
