@@ -28,6 +28,7 @@ cantons=(
 )
 
 manual_cantons=(
+	ow
 	sg
 	sz
 	zh
