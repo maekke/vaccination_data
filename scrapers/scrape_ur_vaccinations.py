@@ -37,6 +37,8 @@ if res:
     vd.total_vaccinations = int(res[2])
 
     res = re.search(r'(\d+) Personen haben bereits die zweite Impfung erhalten', content)
+    if not res:
+        res = re.search(r'(\d+) Urnerinnen und Urner erhielten bereits die zweite Impfdosis', content)
     if res:
         vd.second_doses = int(res[1])
         vd.first_doses = vd.total_vaccinations - vd.second_doses
