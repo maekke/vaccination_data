@@ -21,6 +21,7 @@ res = re.search(r'Stato: (\d+.\d+.\d{2})', element.text)
 assert res
 vd.date = parse_ti_date(res[1])
 
+"""
 element = soup.find('div', string=re.compile(r'Persone con vaccinazione parziale'))
 element = element.find_previous('div')
 vd.first_doses = int(element.text)
@@ -29,6 +30,7 @@ element = soup.find('div', string=re.compile(r'Persone con vaccinazione completa
 element = element.find_previous('div')
 vd.second_doses = int(element.text)
 vd.first_doses += vd.second_doses
+"""
 
 element = soup.find('div', string=re.compile(r'Totale numero dosi somministrate'))
 element = element.find_previous('div')
