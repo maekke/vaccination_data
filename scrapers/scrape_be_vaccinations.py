@@ -15,7 +15,7 @@ d = sc.download(url)
 d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 soup = BeautifulSoup(d, 'html.parser')
 
-table = soup.find('p', string=re.compile('Durchgef.hrte Impfungen im Kanton Bern')).find_next('table')
+table = soup.find('h2', string=re.compile('Anzahl durchgef.hrte Impfungen im Kanton Bern')).find_next('table')
 tbody = table.find_all('tbody')[0]
 trs = tbody.find_all('tr')
 
