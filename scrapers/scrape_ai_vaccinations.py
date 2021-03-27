@@ -6,8 +6,7 @@ import scrape_common as sc
 
 
 def parse_ai_date(date_str):
-    date_str = date_str.replace('Februarr', 'Februar')
-    return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
+    return arrow.get(date_str, 'D MMMM YYYY', locale='de').datetime.date()
 
 
 url = 'https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung'
