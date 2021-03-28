@@ -15,7 +15,7 @@ cantons=(
 	lu
 	ne
 	nw
-	# ow
+	ow
 	sh
 	so
 	tg
@@ -28,7 +28,6 @@ cantons=(
 )
 
 manual_cantons=(
-	ow
 	sg
 	sz
 	zh
