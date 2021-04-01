@@ -17,7 +17,7 @@ d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 
 vd = sc.VaccinationData(canton='AR', url=url)
 
-res = re.search(r'Impfzahlen.*Stand (\d+\.\d+\.\d{4})\)', d)
+res = re.search(r'Impfzahlen.*Stand (\d+\.\d+\.\d{4})', d)
 assert res
 date = res[1]
 date = parse_ar_date(date)
