@@ -6,36 +6,21 @@ from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
-def parse_sg_date(date_str):
-    return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
-
-
-url = 'https://www.sg.ch/tools/informationen-coronavirus/impfung-gegen-covid-19-im-kanton-st-gallen.html'
+main_url = 'https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html'
+url = 'https://stada.sg.ch/covid/Durchimpfung_SG.html'
 d = sc.download(url)
-d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 soup = BeautifulSoup(d, 'html.parser')
 
-vd = sc.VaccinationData(canton='SG', url=url)
+vd = sc.VaccinationData(canton='SG', url=main_url)
 
-element = soup.find('h3', string=re.compile(r'\*\*\*\s+News'))
-element = element.find_next('p')
-element = element.find_parent('div')
-news = element.find_all('p')
+element = soup.find('td', string=re.compile(r'Total verabreichte Impfdosen'))
+element = element.find_next('td')
+vd.total_vaccinations = int(element.text)
 
-for element in news:
-    res = re.search(r'\d+\.\s+\w+\s+(\d{4})', element.text)
-    assert res
-    year = res[1]
+element = soup.find('td', string=re.compile(r'Anzahl vollst.ndig geimpfte Personen'))
+element = element.find_next('td')
+vd.second_doses = int(element.text)
 
-    res = re.search(r'Bis\s+zum\s+(\d+\.\s+)\w+', element.text)
-    if res:
-        date = res[0]
-        vd.date = parse_sg_date(f'{date} {year}')
+vd.first_doses = vd.total_vaccinations - vd.second_doses
 
-        vaccinations = re.findall(r'(\d+) Impfungen', element.text)
-        vd.total_vaccinations = 0
-        for vaccination in vaccinations:
-            vd.total_vaccinations += int(vaccination)
-
-        assert vd
-        print(vd)
+print(vd)
