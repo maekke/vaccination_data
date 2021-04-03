@@ -18,6 +18,7 @@ cantons=(
 	ow
 	sh
 	so
+	sz
 	tg
 	ti
 	ur
@@ -29,7 +30,6 @@ cantons=(
 
 manual_cantons=(
 	sg
-	sz
 	zh
 )
 
