@@ -52,4 +52,5 @@ for row in rows:
     vd.second_doses = tds[second_vaccination_index].text
     vd.total_vaccinations = tds[tot_vaccination_index].text
 
+    assert vd
     print(vd)

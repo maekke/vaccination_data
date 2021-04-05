@@ -64,4 +64,6 @@ for date, vd in ordered_vd.items():
     vd.total_vaccinations = vd.first_doses
     if second_doses:
         vd.total_vaccinations += second_doses
+
+    assert vd
     print(vd)

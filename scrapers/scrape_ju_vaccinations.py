@@ -49,4 +49,5 @@ res = re.search(r'(\d+)\s+Nombre de 2.me injection', content)
 assert res
 vd.second_doses = res[1]
 
+assert vd
 print(vd)

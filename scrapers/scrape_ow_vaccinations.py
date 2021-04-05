@@ -42,4 +42,5 @@ vd.first_doses = get_column(trs[1])
 vd.second_doses = get_column(trs[2])
 vd.total_vaccinations = get_column(trs[3])
 
+assert vd
 print(vd)

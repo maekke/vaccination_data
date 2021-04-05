@@ -42,4 +42,5 @@ res = re.search(r'2. Impfung\\u0022,\\u0022y\\u0022:(\d+)}', d)
 assert res
 vd.second_doses = res[1]
 
+assert vd
 print(vd)

@@ -37,5 +37,5 @@ for tr in trs[1:]:
     res = re.search(r'(\d+)\s?', tds[2].text)
     assert(res)
     vd.second_doses = res[1]
-    if vd:
-        print(vd)
+    assert vd
+    print(vd)

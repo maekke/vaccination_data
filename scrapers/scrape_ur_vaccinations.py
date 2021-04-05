@@ -43,5 +43,5 @@ if res:
         vd.second_doses = int(res[1])
         vd.first_doses = vd.total_vaccinations - vd.second_doses
 
-if vd:
-    print(vd)
+assert vd
+print(vd)

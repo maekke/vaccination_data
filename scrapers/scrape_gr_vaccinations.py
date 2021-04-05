@@ -39,4 +39,6 @@ for tr in trs:
     assert(res)
     vd.second_doses = int(res[1])
     vd.total_vaccinations = vd.first_doses + vd.second_doses
+
+    assert vd
     print(vd)

@@ -15,5 +15,5 @@ for row in reader:
     vd.total_vaccinations = row['Total verabreichte Impfungen']
     vd.first_doses = row['Total Personen mit erster Dosis']
     vd.second_doses = row['Total Personen mit zweiter Dosis']
-    if vd:
-        print(vd)
+    assert vd
+    print(vd)

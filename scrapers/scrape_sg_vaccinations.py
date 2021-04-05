@@ -31,4 +31,5 @@ vd.second_doses = int(element.text)
 
 vd.first_doses = vd.total_vaccinations - vd.second_doses
 
+assert vd
 print(vd)
