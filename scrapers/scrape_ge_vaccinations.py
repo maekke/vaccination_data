@@ -8,7 +8,7 @@ import scrape_common as sc
 
 
 def parse_ge_date(date_str):
-    date = arrow.get(date_str, 'DD MMMM YYYY', locale='fr')
+    date = arrow.get(date_str, 'D MMMM YYYY', locale='fr')
     return datetime.date(year=2021, month=date.month, day=date.day).isoformat()
 
 
