@@ -32,10 +32,11 @@ for tr in trs[1:]:
 
     res = re.search(r'(\d+)\s?', tds[1].text)
     assert res
-    vd.total_vaccinations = res[1]
+    vd.total_vaccinations = int(res[1])
 
     res = re.search(r'(\d+)\s?', tds[2].text)
     assert(res)
-    vd.second_doses = res[1]
+    vd.second_doses = int(res[1])
+    vd.first_doses = vd.total_vaccinations - vd.second_doses
     assert vd
     print(vd)
