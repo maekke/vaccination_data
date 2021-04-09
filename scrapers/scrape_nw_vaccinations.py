@@ -31,7 +31,7 @@ for tr in trs:
     tds = tr.find_all('td')
     assert len(tds) == 2, f'expected 2 items, got: {tds}'
 
-    if re.search('(Erhaltene Impfdosen)', tds[0].text):
+    if re.search('(Bisher erhaltene Impfdosen)', tds[0].text):
         vd.doses_delivered = int(tds[1].text)
 
     if re.search('(Verabreichte Impfdosen \(1. Impfung\))', tds[0].text):
