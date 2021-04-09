@@ -7,6 +7,7 @@ import scrape_common as sc
 
 
 def parse_nw_date(date_str):
+    date_str = date_str.replace(u'\xa0', u' ')
     return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
 
 
@@ -18,7 +19,7 @@ soup = BeautifulSoup(d, 'html.parser')
 vd = sc.VaccinationData(canton='NW', url=url)
 
 elem = soup.find('em', string=re.compile(r'Die Impfstatistik'))
-res = re.search(r'(\d+\. \w+ \d{4})', elem.text)
+res = re.search(r'(\d+\.\s+\w+ \d{4})', elem.text)
 assert res
 date = res[1]
 date = parse_nw_date(date)
