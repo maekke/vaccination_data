@@ -9,7 +9,7 @@ cantons=(
 	bs
 	fr
 	ge
-	gl
+	# gl
 	gr
 	ju
 	lu
@@ -31,6 +31,7 @@ cantons=(
 )
 
 manual_cantons=(
+	gl
 )
 
 err=""
