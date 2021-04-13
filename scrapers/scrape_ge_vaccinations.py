@@ -20,7 +20,7 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='GE', url=url)
 
-tot_vacc_re = r'(\d+) doses ont .* au (\d+\s+\w+\s+\d{4})'
+tot_vacc_re = r'(\d+)\s?doses ont .* au (\d+\s+\w+\s+\d{4})'
 element = soup.find('p', text=re.compile(tot_vacc_re))
 assert element
 res = re.search(tot_vacc_re, element.text)
