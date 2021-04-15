@@ -17,7 +17,7 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='SG', url=main_url)
 
-res = re.search(r'Aktualisierungsdatum: (\d+\.\d+\.\d{4})', d)
+res = re.search(r'Stand: (\d+\.\d+\.\d{4})', d)
 assert res
 vd.date = parse_sg_date(res[0])
 
