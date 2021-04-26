@@ -65,7 +65,7 @@ for link in links:
 
 for pdf_url in pdf_urls:
     pdf = sc.download_data(pdf_url)
-    for page in range(5, 7):
+    for page in range(5, 8):
         content = sc.pdf_to_text(pdf, raw=True, page=page)
         content = re.sub(r'(\d)\‘(\d)', r'\1\2', content)
         content = re.sub(r'(\d)\’(\d)', r'\1\2', content)
