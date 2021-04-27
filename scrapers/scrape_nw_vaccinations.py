@@ -18,14 +18,14 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='NW', url=url)
 
-elem = soup.find('em', string=re.compile(r'Die Impfstatistik'))
-res = re.search(r'(\d+\.\s+\w+ \d{4})', elem.text)
+elem = soup.find(string=re.compile(r'.*zuletzt aktualisiert:.*'))
+res = re.search(r'(\d+\.\s+\w+ \d{4})', elem.string)
 assert res
 date = res[1]
 date = parse_nw_date(date)
 vd.date = date.isoformat()
 
-table = elem.find_next('table')
+table = elem.find_previous('table')
 trs = table.find_all('tr')
 for tr in trs:
     tds = tr.find_all('td')
