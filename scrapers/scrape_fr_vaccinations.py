@@ -34,13 +34,5 @@ res = re.search(r'Davon wurden (\d+)\s+Dosen durch den Kanton verabreicht', elem
 assert res
 vd.total_vaccinations = res[1]
 
-res = re.search(r'1. Impfung\\u0022,\\u0022y\\u0022:(\d+)}', d)
-assert res
-vd.first_doses = res[1]
-
-res = re.search(r'2. Impfung\\u0022,\\u0022y\\u0022:(\d+)}', d)
-assert res
-vd.second_doses = res[1]
-
 assert vd
 print(vd)
