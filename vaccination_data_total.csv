@@ -1446,7 +1446,7 @@ AR,2021-04-26,,,22489,,,16270,https://www.ar.ch/verwaltung/departement-gesundhei
 BE,2021-04-26,,,,193906,102233,296139,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BL,2021-04-26,,,,70533,34605,105138,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-04-26,,,,32522,18267,50789,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-FR,2021-04-26,,,89950,55381,32478,81857,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
+FR,2021-04-26,,,89950,,,81857,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-04-26,,,,112277,62099,174376,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-26,,,,41380,22037,63417,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-26,,,,68246,42705,110951,https://www.lustat.ch/daten?id=28177
@@ -1521,4 +1521,4 @@ VS,2021-04-30,,,,,,108430,https://www.vs.ch/documents/6756452/7008787/2021 04 30
 ZH,2021-04-30,,,,,,402374,https://www.zh.ch/de/gesundheit/coronavirus.html
 BS,2021-05-01,,,,38224,19929,58153,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 VD,2021-05-01,,,,165381,91687,257068,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
-VD,2021-05-02,,,,165389,91687,257076,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-02,,,,165425,91687,257112,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
