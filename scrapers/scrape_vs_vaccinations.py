@@ -69,6 +69,7 @@ for pdf_url in pdf_urls:
         content = sc.pdf_to_text(pdf, raw=True, page=page)
         content = re.sub(r'(\d)\‘(\d)', r'\1\2', content)
         content = re.sub(r'(\d)\’(\d)', r'\1\2', content)
+        content = re.sub(r'(\d)\'(\d)', r'\1\2', content)
 
         vd = sc.VaccinationData(canton='VS', url=pdf_url)
         res = re.search(r'kumuliert am (\d+\.\d+\.\d{4})', content)
