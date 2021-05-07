@@ -9,10 +9,6 @@ from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
-def parse_be_date(date_str):
-    return arrow.get(date_str, 'DD.MM.YY', locale='de').datetime.date()
-
-
 base_url = 'https://sh.ch'
 main_url = f'{base_url}/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html'
 url = f'{base_url}/CMS/content.jsp?contentid=3666465&language=DE&_=1611921384916'
