@@ -1582,7 +1582,7 @@ AG,2021-05-05,,,295850,161455,86274,247729,https://www.ag.ch/de/themen_1/coronav
 AR,2021-05-05,,,28239,,,19031,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 BE,2021-05-05,,,,252201,119832,372033,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BL,2021-05-05,,,,81527,39502,121029,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
-BS,2021-05-05,,,,41296,20007,61303,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-05-05,,,,41338,20007,61345,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-05-05,,,,134370,71213,205583,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-05,,,,47887,25775,73662,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-05,,,,87183,48715,135898,https://www.lustat.ch/daten?id=28177
@@ -1592,9 +1592,11 @@ VD,2021-05-05,,,,184033,96404,280437,https://monitoring.unisante.ch/d/krLTmEfGk/
 VS,2021-05-05,,,,,,118550,https://www.vs.ch/documents/6756452/7008787/2021 05 05 - Sit Epid - État Stand
 AR,2021-05-06,,,28239,,,19882,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 BE,2021-05-06,,,,260539,123181,383720,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
+BS,2021-05-06,,,,43267,20049,63316,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 OW,2021-05-06,,,14810,7666,4815,12481,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SH,2021-05-06,,,,22607,10954,33561,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 TG,2021-05-06,,,112600,,,,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-05-06,,,,190323,98259,288582,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-05-06,,,,,,121420,https://www.vs.ch/documents/6756452/7008787/2021 05 06 - Sit Epid - État Stand
 ZH,2021-05-06,,,,,,439393,https://www.zh.ch/de/gesundheit/coronavirus.html
+VD,2021-05-07,,,,190360,98262,288622,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
