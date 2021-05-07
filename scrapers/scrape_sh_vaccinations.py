@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
 import datetime
+import tempfile
 import json
 import arrow
-import xlrd
+import openpyxl
 from bs4 import BeautifulSoup
 import scrape_common as sc
 
@@ -20,28 +21,35 @@ d = json.loads(d['data_filemeta'])
 url = f"{base_url}{d['url']}"
 
 xls_data = sc.download_data(url)
-book = xlrd.open_workbook(file_contents=xls_data)
-sheet = book.sheet_by_name('Tabelle1')
+fp = tempfile.NamedTemporaryFile(suffix='.xlsx')
+fp.write(xls_data)
 
-start_row = 1
-date_column = 0
-first_dose_column = 11
-second_dose_column = 12
 
-for row in range(start_row, sheet.nrows):
-    value = sheet.cell_value(row, first_dose_column)
+book = openpyxl.load_workbook(fp.name)
+sheet = book['Tabelle1']
+
+start_row = 2
+date_column = 1
+first_dose_column = 12
+second_dose_column = 13
+
+for row in range(start_row, sheet.max_row):
+    value = sheet.cell(row, first_dose_column).value
     if value is None or value == '':
         continue
 
-    vd = sc.VaccinationData(canton='SH', url=main_url)
+    try:
+        vd = sc.VaccinationData(canton='SH', url=main_url)
 
-    date = sheet.cell_value(row, date_column)
-    date = datetime.datetime(*xlrd.xldate_as_tuple(date, book.datemode))
-    vd.date = date.date().isoformat()
+        date = sheet.cell(row, date_column)
+        vd.date = date.value.date().isoformat()
 
-    vd.first_doses = int(sheet.cell_value(row, first_dose_column))
-    vd.second_doses = int(sheet.cell_value(row, second_dose_column))
-    vd.total_vaccinations = vd.first_doses + vd.second_doses
+        vd.first_doses = int(sheet.cell(row, first_dose_column).value)
+        vd.second_doses = int(sheet.cell(row, second_dose_column).value)
+        vd.total_vaccinations = vd.first_doses + vd.second_doses
 
-    assert vd
-    print(vd)
+        assert vd
+        print(vd)
+    except:
+        # TODO?
+        pass
