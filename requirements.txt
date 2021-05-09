@@ -1,4 +1,5 @@
 arrow
 beautifulsoup4
+openpyxl
 requests
 xlrd==1.2.0
