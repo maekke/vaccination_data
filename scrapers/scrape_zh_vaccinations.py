@@ -19,7 +19,7 @@ soup = BeautifulSoup(content, 'html.parser')
 
 vd = sc.VaccinationData(canton='ZH', url=url)
 
-date_re = r'Diese Zahlen wurden publiziert am (\d+\.\s+\w+\s+\d{4})'
+date_re = r'Diese Zahlen wurden am (\d+\.\s+\w+\s+\d{4})'
 element = soup.find('span', string=re.compile(date_re))
 res = re.search(date_re, element.text)
 assert res
