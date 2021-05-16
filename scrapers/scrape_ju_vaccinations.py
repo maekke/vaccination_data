@@ -41,11 +41,11 @@ vd.total_vaccinations = res[1]
 content = sc.pdf_to_text(pdf, page=2, raw=True)
 content = re.sub(r'(\d+)\'(\d+)', r'\1\2', content)
 
-res = re.search(r'(\d+)\s+Nombre de 1.re injection', content)
+res = re.search(r'\n(\d+)\n+Nombre de 1.re injection\n', content)
 assert res
 vd.first_doses = res[1]
 
-res = re.search(r'(\d+)\s+Nombre de 2.me injection', content)
+res = re.search(r'\n(\d+)\n+Nombre de 2.me injection\n', content)
 assert res
 vd.second_doses = res[1]
 
