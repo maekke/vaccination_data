@@ -559,7 +559,6 @@ VD,2021-02-21,,,,52528,15628,68156,https://monitoring.unisante.ch/d/krLTmEfGk/do
 ZG,2021-02-21,,,,7881,5896,13777,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2021-02-22,,,67800,36072,12770,48842,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 AR,2021-02-22,,,6129,,,5102,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
-BE,2021-02-22,,,,363647,186174,549821,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BE,2021-02-22,,,,57762,14094,71856,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BL,2021-02-22,,,,17539,8215,25754,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-02-22,,,,12201,8786,20987,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -1822,5 +1821,6 @@ UR,2021-05-21,,,,,,19155,https://www.ur.ch/_rte/information/79003
 VD,2021-05-21,,,,260966,124809,385775,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-05-21,,,,,,161025,https://www.vs.ch/documents/6756452/7008787/2021 05 21 - Sit Epid - État Stand
 ZH,2021-05-21,,,,,,641615,https://www.zh.ch/de/gesundheit/coronavirus.html
+BE,2021-05-22,,,,363647,186174,549821,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BS,2021-05-22,,,,68971,34169,103140,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 VD,2021-05-22,,,,264175,125917,390092,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
