@@ -33,7 +33,7 @@ res = re.search(r'\d+\.\d+\.\d{4}\s(\d+\.\d+\.\d{4})', content)
 assert res
 vd.date = parse_ju_date(res[1])
 
-res = re.search(r'(\d+)\s+Injections administr.es', content)
+res = re.search(r'(\d+)\s+Nombre d\'injection', content)
 assert res
 vd.total_vaccinations = res[1]
 
