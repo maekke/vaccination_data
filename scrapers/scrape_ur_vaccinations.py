@@ -16,7 +16,7 @@ main_url = f'{base_url}/news.rss'
 d = sc.download(base_url)
 soup = BeautifulSoup(d, 'html.parser')
 
-link = soup.find('a', text=re.compile('Lagebulletin Sonderstab COVID-19 .*2021'))
+link = soup.find('a', text=re.compile('Lagebulletin '))
 
 url = f"{base_url}{link.get('href')}"
 d = sc.download(url)
@@ -26,8 +26,10 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='UR', url=url)
 
-title = soup.find('h1', text=re.compile('Lagebulletin Sonderstab'))
-res = re.search(r'(\d+\. \w+ \d{4})', title.text)
+date_re = r'(\d+\. \w+ \d{4})'
+item = soup.find('div', text=re.compile(date_re))
+assert item
+res = re.search(date_re, item.text)
 assert res
 vd.date = parse_ur_date(res[1])
 
@@ -38,7 +40,7 @@ if res:
 
     res = re.search(r'(\d+) Personen haben bereits die zweite Impfung erhalten', content)
     if not res:
-        res = re.search(r'(\d+) Urnerinnen und Urner erhielten bereits die zweite Impfdosis', content)
+        res = re.search(r'(\d+) Urnerinnen und Urner erhielten bereits (die|ihre) zweite Impfdosis', content)
     if res:
         vd.second_doses = int(res[1])
         vd.first_doses = vd.total_vaccinations - vd.second_doses
