@@ -7,7 +7,7 @@ import scrape_common as sc
 
 
 def parse_ti_date(date_str):
-    return arrow.get(date_str, 'DD.MM.YY', locale='de').datetime.date()
+    return arrow.get(date_str, 'DD.MM.YYYY', locale='de').datetime.date()
 
 
 url = 'https://www4.ti.ch/dss/dsp/covid19/home/'
@@ -19,7 +19,7 @@ soup = BeautifulSoup(d, 'html.parser')
 vd = sc.VaccinationData(canton='TI', url=url)
 
 element = soup.find('h2', string=re.compile('Vaccinazione')).find_next('div')
-res = re.search(r'Stato: (\d+.\d+.\d{2})', element.text)
+res = re.search(r'Stato: (\d+.\d+.\d{4})', element.text)
 assert res
 vd.date = parse_ti_date(res[1])
 
