@@ -1998,7 +1998,7 @@ GE,2021-06-03,,,,214340,130753,93,https://www.ge.ch/se-faire-vacciner-contre-cov
 LU,2021-06-03,,,,154917,87005,241922,https://www.lustat.ch/daten?id=28177
 SH,2021-06-03,,,,31859,22075,53934,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 TG,2021-06-03,,,171725,105530,59101,164631,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-VD,2021-06-03,,,,321323,168554,489877,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-03,,,,321324,168554,489878,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-06-03,,,,49082,28768,77850,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-06-03,,,,556245,294089,850334,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-06-04,,,474325,250979,168918,419897,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -2013,7 +2013,7 @@ SH,2021-06-04,,,,32380,22728,55108,https://sh.ch/CMS/Webseite/Kanton-Schaffhause
 SO,2021-06-04,,,,105390,66396,171786,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-06-04,,,173325,107290,60571,167861,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-06-04,,,,142143,93606,235749,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-06-04,,,,327114,173751,500865,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-04,,,,327115,173751,500866,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-06-04,,,,,,199570,https://www.vs.ch/documents/6756452/7008787/2021 06 04 - Sit Epid - État Stand
 ZG,2021-06-04,,,,49910,29445,79355,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-06-04,,,,570443,304870,875313,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -2024,19 +2024,21 @@ BS,2021-06-05,,,,88148,50386,138534,https://data.bs.ch/explore/dataset/100111/do
 GE,2021-06-05,,,,227796,136623,364419,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 LU,2021-06-05,,,,157475,91703,249178,https://www.lustat.ch/daten?id=28177
 TG,2021-06-05,,,,108816,61643,170459,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-VD,2021-06-05,,,,330774,176575,507349,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-05,,,,330775,176576,507351,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-06-05,,,,50683,30024,80707,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2021-06-06,,,474325,256384,171194,427578,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-06-06,,,,429668,275430,705098,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2021-06-06,,,,89805,51377,141182,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-06-06,,,,158403,93264,251667,https://www.lustat.ch/daten?id=28177
 TG,2021-06-06,,,,110186,62674,172860,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-VD,2021-06-06,,,,332662,177769,510431,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-06,,,,332663,177770,510433,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-06-06,,,,51408,30540,81948,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AR,2021-06-07,,,42089,,,33128,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
-BE,2021-06-07,,,,434286,282255,716541,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2021-06-07,,,,434732,282877,717609,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+FR,2021-06-07,,,207525,,,169910,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 OW,2021-06-07,,,27935,12926,10460,23386,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
+SH,2021-06-07,,,,33245,24091,57336,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 TG,2021-06-07,,,178325,,,,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
-VD,2021-06-07,,,,336917,182159,519076,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-07,,,,337206,182461,519667,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-06-07,,,,,,205995,https://www.vs.ch/documents/6756452/7008787/2021 06 07 - Sit Epid - État Stand
 ZH,2021-06-07,,,,600899,317719,918618,https://www.zh.ch/de/gesundheit/coronavirus.html
