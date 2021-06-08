@@ -2007,6 +2007,7 @@ AR,2021-06-04,,,42089,,,32168,https://www.ar.ch/verwaltung/departement-gesundhei
 BE,2021-06-04,,,,426267,269510,695777,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2021-06-04,,,,118759,81148,199907,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-06-04,,,,86690,48945,135635,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+FL,2021-06-04,,,28235,14223,9799,24022,https://www.llv.li/files/as/impfungen.xlsx
 LU,2021-06-04,,,,156550,89887,246437,https://www.lustat.ch/daten?id=28177
 NW,2021-06-04,,,31105,16128,10162,26290,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-06-04,,,,32380,22728,55108,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -2057,6 +2058,6 @@ AR,2021-06-08,,,42089,,,33674,https://www.ar.ch/verwaltung/departement-gesundhei
 BE,2021-06-08,,,,442033,290338,732371,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 NW,2021-06-08,,,31105,16541,10479,27020,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-06-08,,,,33827,24257,58084,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
-VD,2021-06-08,,,,343525,187979,531504,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-08,,,,343557,188001,531558,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-06-08,,,,,,211700,https://www.vs.ch/documents/6756452/7008787/2021 06 08 - Sit Epid - État Stand
 ZH,2021-06-08,,,,618740,348433,967173,https://www.zh.ch/de/gesundheit/coronavirus.html
