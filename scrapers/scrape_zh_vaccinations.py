@@ -14,7 +14,8 @@ def parse_zh_date(date_str):
 base_url = 'https://www.zh.ch'
 url = f'{base_url}/de/gesundheit/coronavirus.html'
 content = sc.download(url)
-content = re.sub(r'(\d+)\'(\d+)', r'\1\2', content)
+for _ in range(2):
+    content = re.sub(r'(\d+)\'(\d+)', r'\1\2', content)
 soup = BeautifulSoup(content, 'html.parser')
 
 vd = sc.VaccinationData(canton='ZH', url=url)
