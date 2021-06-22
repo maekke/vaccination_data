@@ -3,7 +3,7 @@
 cantons=(
 	ag
 	ai
-	ar
+	# ar
 	be
 	bl
 	bs
@@ -31,6 +31,7 @@ cantons=(
 )
 
 manual_cantons=(
+	ar
 	gl
 )
 
