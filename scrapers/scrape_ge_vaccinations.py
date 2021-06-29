@@ -20,13 +20,17 @@ soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='GE', url=url)
 
-tot_vacc_re = r'(\d+)\s?doses ont .*au (\d+\s+\w+\s+\d{4})'
-element = soup.find('p', text=re.compile(tot_vacc_re))
-assert element
-res = re.search(tot_vacc_re, element.text)
+tot_vacc_re = r'.*\s+(\d+)\s+doses ont .*'
+res = re.search(tot_vacc_re, d)
 assert res
-vd.date = parse_ge_date(res[2])
 vd.total_vaccinations = int(res[1])
+
+date_re = r'[Aa]u (\d+\s+\w+\s+\d{4})'
+element = soup.find('p', text=re.compile(date_re))
+assert element
+res = re.search(date_re, element.text)
+assert res
+vd.date = parse_ge_date(res[1])
 
 res = re.search(r'.*\s+(\d+)\s+personnes\s+ont\s+re.u\s+la\s+1.*', d)
 assert res
