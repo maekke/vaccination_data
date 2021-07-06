@@ -24,21 +24,11 @@ res = re.search(r'aktualisiert am (\d+\.\d+\.\d{4})', element.text)
 assert res
 vd.date = parse_fr_date(res[1])
 
-element = soup.find('strong', string=re.compile('Anzahl der erhaltenen Dosen')).find_parent('h3')
-res = re.search(r'Dosen: (\d+)', element.text)
-assert res
-vd.doses_delivered = res[1]
-
-element = element.find_next('tbody')
+element = soup.find('strong', string=re.compile('Anzahl\s+der\s+v')).find_parent('h3')
 assert element
-
-total_vaccinations = 0
-for tr in element.find_all('tr'):
-    tds = tr.find_all('td')
-    res = re.match(r'(\d+)\s+\(', tds[1].text)
-    assert res
-    total_vaccinations += int(res[1])
-vd.total_vaccinations = total_vaccinations
+res = re.search(r': (\d+)', element.text)
+assert res
+vd.total_vaccinations = res[1]
 
 assert vd
 print(vd)
