@@ -2408,6 +2408,7 @@ AG,2021-07-05,,,643325,337304,257569,594873,https://www.ag.ch/de/themen_1/corona
 BE,2021-07-05,,,,548554,421288,969842,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2021-07-05,,,,155203,118235,273438,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-07-05,,,,111770,88766,200536,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+FR,2021-07-05,,,,,,245259,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-07-05,,,,280059,211101,491160,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 LU,2021-07-05,,,,200718,154743,355461,https://www.lustat.ch/daten?id=28177
 NE,2021-07-05,,,,92006,62437,154443,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
@@ -2419,8 +2420,9 @@ TG,2021-07-05,,,,129659,107536,237195,https://www.tg.ch/news/fachstab-gesundheit
 VD,2021-07-05,,,,433317,301651,734968,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-07-05,,,,,,277505,https://www.vs.ch/documents/6756452/7008787/2021 07 05 - Sit Epid - État Stand
 ZG,2021-07-05,,,,67693,50609,118302,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-BE,2021-07-06,,,,551196,427729,978925,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2021-07-06,,,,551197,427730,978927,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 GE,2021-07-06,,,,280501,214322,494823,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 NW,2021-07-06,,,43590,20856,16378,37234,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-07-06,,,,44504,32782,77286,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
-VD,2021-07-06,,,,435548,307740,743288,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-07-06,,,,435551,307781,743332,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+ZH,2021-07-06,,,,867143,604851,1471994,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
