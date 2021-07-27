@@ -30,6 +30,7 @@ element = soup.find('th', string=re.compile(r'Total verabreichte Impfdosen'))
 element = element.find_next('td')
 vd.total_vaccinations = int(element.text)
 
+"""
 element = soup.find('th', string=re.compile(r'1. Impfdosis'))
 element = element.find_next('td')
 vd.first_doses = int(element.text)
@@ -37,6 +38,7 @@ vd.first_doses = int(element.text)
 element = soup.find('th', string=re.compile(r'2. Impfdosis'))
 element = element.find_next('td')
 vd.second_doses = int(element.text)
+"""
 
 assert vd
 print(vd)

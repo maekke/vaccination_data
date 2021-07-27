@@ -26,14 +26,13 @@ cantons=(
 	vd
 	vs
 	zg
-	# zh
+	zh
 	fl
 )
 
 manual_cantons=(
 	ar
 	gl
-	zh
 )
 
 err=""
