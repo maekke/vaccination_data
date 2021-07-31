@@ -2744,6 +2744,7 @@ BE,2021-07-30,,,,587309,525744,1113053,https://covid-kennzahlen.apps.be.ch/#/de/
 BS,2021-07-30,,,,118844,105661,224505,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NW,2021-07-30,,,46740,22641,19551,42192,https://www.nw.ch/gesundheitsamtdienste/6044
 TI,2021-07-30,,,,204906,183176,388082,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-07-30,,,,475687,383065,858752,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-07-30,,,,475687,383066,858753,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-07-30,,,,,,1739185,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-07-31,,,,587309,525744,1113053,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2021-07-31,,,,587317,525806,1113123,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-07-31,,,,475703,383107,858810,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
