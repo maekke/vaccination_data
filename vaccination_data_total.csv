@@ -2697,7 +2697,7 @@ BL,2021-07-26,,,,162267,146305,308572,https://www.baselland.ch/politik-und-behor
 BS,2021-07-26,,,,118779,103941,222720,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-07-26,,,,,,289533,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-07-26,,,,291309,256574,547883,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
-LU,2021-07-26,,,,210003,184410,394413,https://www.lustat.ch/daten?id=28177
+LU,2021-07-26,,,,210002,184410,394412,https://www.lustat.ch/daten?id=28177
 NE,2021-07-26,,,,96828,80954,177782,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SO,2021-07-26,,,,149674,138110,287784,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-07-26,,,,134832,124121,258953,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -2709,7 +2709,7 @@ AG,2021-07-27,,,769525,360543,323168,683711,https://www.ag.ch/de/themen_1/corona
 BE,2021-07-27,,,,582759,518441,1101200,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2021-07-27,,,,162339,147191,309530,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-07-27,,,,118791,103951,222742,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-LU,2021-07-27,,,,210441,185649,396090,https://www.lustat.ch/daten?id=28177
+LU,2021-07-27,,,,210440,185649,396089,https://www.lustat.ch/daten?id=28177
 SO,2021-07-27,,,,149765,138390,288155,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-07-27,,,,135086,124388,259474,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-07-27,,,,203686,177566,381252,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -2721,6 +2721,7 @@ BE,2021-07-28,,,,584285,520962,1105247,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-07-28,,,,163037,147979,311016,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-07-28,,,,118806,103958,222764,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-07-28,,,,296270,262200,558470,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
+LU,2021-07-28,,,,210819,186803,397622,https://www.lustat.ch/daten?id=28177
 SO,2021-07-28,,,,149843,138516,288359,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-07-28,,,,135346,124681,260027,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-07-28,,,,204060,179824,383884,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -2732,6 +2733,7 @@ BE,2021-07-29,,,,585690,523078,1108768,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-07-29,,,,163067,148506,311573,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-07-29,,,,118846,105666,224512,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-07-29,,,,298893,263940,562833,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
+LU,2021-07-29,,,,211934,188222,400156,https://www.lustat.ch/daten?id=28177
 SO,2021-07-29,,,,149892,138869,288761,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-07-29,,,,135938,124998,260936,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-07-29,,,,204459,181770,386229,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -2744,13 +2746,13 @@ BE,2021-07-30,,,,587309,525744,1113053,https://covid-kennzahlen.apps.be.ch/#/de/
 BS,2021-07-30,,,,119387,106786,226173,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NW,2021-07-30,,,46740,22641,19551,42192,https://www.nw.ch/gesundheitsamtdienste/6044
 TI,2021-07-30,,,,204906,183176,388082,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-07-30,,,,475666,383069,858735,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-07-30,,,,475666,383070,858736,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-07-30,,,,,,1739185,https://www.zh.ch/de/gesundheit/coronavirus.html
 BE,2021-07-31,,,,587409,526130,1113539,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2021-07-31,,,,119387,106786,226173,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-VD,2021-07-31,,,,476153,384003,860156,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-07-31,,,,476153,384004,860157,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 BE,2021-08-01,,,,587409,526156,1113565,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2021-08-01,,,,119387,106786,226173,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-VD,2021-08-01,,,,476287,384191,860478,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
-BE,2021-08-02,,,,587432,526156,1113588,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-VD,2021-08-02,,,,476288,384193,860481,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-08-01,,,,476287,384192,860479,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+BE,2021-08-02,,,,587510,526428,1113938,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-08-02,,,,476382,384376,860758,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
