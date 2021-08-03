@@ -2,34 +2,24 @@
 
 import re
 import arrow
-from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
 def parse_sg_date(date_str):
-    return arrow.get(date_str, 'DD.MM.YYYY', locale='de').datetime.date()
+    return arrow.get(date_str, 'D.MM.YYYY', locale='de').datetime.date()
 
 
 main_url = 'https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html'
 url = 'https://stada.sg.ch/covid/Durchimpfung_SG.html'
+url = 'https://stada.sg.ch/covid/BAG_Impfen_Zeitreihe_absolut.html'
 d = sc.download(url)
-soup = BeautifulSoup(d, 'html.parser')
+d = re.sub(r'<br>', '', d)
 
-vd = sc.VaccinationData(canton='SG', url=main_url)
-
-res = re.search(r'Stand: (\d+\.\d+\.\d{4})', d)
-assert res
-vd.date = parse_sg_date(res[0])
-
-element = soup.find('td', string=re.compile(r'Total verabreichte Impfdosen'))
-element = element.find_next('td')
-vd.total_vaccinations = int(element.text)
-
-element = soup.find('td', string=re.compile(r'Anzahl vollst.ndig geimpfte Personen'))
-element = element.find_next('td')
-vd.second_doses = int(element.text)
-
-vd.first_doses = vd.total_vaccinations - vd.second_doses
-
-assert vd
-print(vd)
+# Datum:   2.08.2021 Total geimpfte Personen:  260448 davon einmal geimpft:  42011 davon zweimal geimpft:  218437"
+for item in re.findall(r'"Datum:\s+(\d+\.\d+\.\d{4})\s+Total geimpfte Personen:\s+(\d+)\s+davon einmal geimpft:\s+(\d+)\s+davon zweimal geimpft:\s+(\d+)"', d):
+    vd = sc.VaccinationData(canton='SG', url=main_url)
+    vd.date = parse_sg_date(item[0])
+    vd.total_vaccinations = int(item[1])
+    vd.first_doses  = int(item[2])
+    vd.second_doses = int(item[3])
+    print(vd)
