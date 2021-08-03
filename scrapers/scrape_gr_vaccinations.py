@@ -1,23 +1,25 @@
 #!/usr/bin/env python3
 
+import datetime
 import re
-import arrow
 from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
 def parse_gr_date(date_str):
-    return arrow.get(date_str, 'DD.MM.YYYY', locale='de').datetime.date()
+    date = datetime.date.fromtimestamp(date_str / 1000)
+    return date.isoformat()
 
 
 url = 'https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx'
 
-hist_url = 'https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=30&ID=g_dbea8372_ed27_48e8_b2c8_b1f7a9643675&FORMAT=JSONRAW'
-d = sc.download_json(hist_url)
-for data in d:
+json_url = 'https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Graub%C3%BCnden_Impfung_Final/FeatureServer/0/query?cacheHint=true&resultOffset=0&resultRecordCount=32000&where=1%3D1&orderByFields=Datum%20ASC&outFields=*&resultType=standard&returnGeometry=false&spatialRel=esriSpatialRelIntersects&f=pjson'
+d = sc.download_json(json_url)
+for feature in d['features']:
+    data = feature['attributes']
+
     vd = sc.VaccinationData(canton='GR', url=url)
-    vd.date = parse_gr_date(data['Stand'])
-    vd.first_doses = int(data['verimpft1'])
-    vd.second_doses = int(data['verimpft2'])
-    vd.total_vaccinations = vd.first_doses + vd.second_doses
+    vd.date = parse_gr_date(data['Datum'])
+    vd.doses_delivered = int(data['Ausgelieferte_Impfdosen'])
+    vd.total_vaccinations = int(data['Verabreichte_Impfdosen_Total'])
     print(vd)
