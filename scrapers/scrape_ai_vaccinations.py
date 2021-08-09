@@ -6,7 +6,10 @@ import scrape_common as sc
 
 
 def parse_ai_date(date_str):
-    return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
+    try:
+        return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
+    except arrow.parser.ParserMatchError:
+        return arrow.get(date_str, 'D. MMMMYYYY', locale='de').datetime.date()
 
 
 url = 'https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung'
@@ -15,7 +18,7 @@ d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 
 vd = sc.VaccinationData(canton='AI', url=url)
 
-res = re.search(r'>Stand\s(.*\s\d{4}),\s\d+\sUhr<', d)
+res = re.search(r'>Stand\s(.*\s?\d{4}),\s\d+\sUhr<', d)
 assert res
 date = res[1]
 date = parse_ai_date(date)
