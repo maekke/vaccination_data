@@ -3356,6 +3356,7 @@ BL,2021-08-06,,,,165388,151941,317329,https://www.baselland.ch/politik-und-behor
 BS,2021-08-06,,,,121024,110490,231515,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-08-06,,,48715,20477,18697,39174,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-08-06,,,222525,,,203200,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
+JU,2021-08-06,,,,37609,33373,70982,https://www.jura.ch/Htdocs/Files/v/38033.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccination-sem31.pdf
 LU,2021-08-06,,,,215062,195489,410551,https://www.lustat.ch/daten?id=28177
 NW,2021-08-06,,,47715,22798,20429,43227,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-08-06,,,,40283,221386,261669,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3422,5 +3423,5 @@ BS,2021-08-11,,,,121632,110681,232317,https://data.bs.ch/explore/dataset/100111/
 TI,2021-08-11,,,,209550,189228,398778,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-08-11,,,,485477,398752,884229,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-08-11,,,,,,1776101,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-08-12,,,,599171,543891,1143062,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-VD,2021-08-12,,,,485477,398753,884230,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+BE,2021-08-12,,,,599181,543892,1143073,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-08-12,,,,485479,398759,884238,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
