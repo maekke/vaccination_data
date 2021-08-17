@@ -3,7 +3,6 @@
 import datetime
 import re
 import arrow
-from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
@@ -16,7 +15,6 @@ url = 'https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres'
 d = sc.download(url)
 d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 d = d.replace(u'\xa0', u' ')
-soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='GE', url=url)
 
@@ -25,10 +23,8 @@ res = re.search(tot_vacc_re, d)
 assert res
 vd.total_vaccinations = int(res[1])
 
-date_re = r'[Aa]u (\d+\s+\w+\s+\d{4})'
-element = soup.find('p', text=re.compile(date_re))
-assert element
-res = re.search(date_re, element.text)
+date_re = r'<p>[Aa]u\s+(\d+\s+\w+\s+\d{4})'
+res = re.search(date_re, d)
 assert res
 vd.date = parse_ge_date(res[1])
 
