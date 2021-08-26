@@ -78,12 +78,12 @@ for pdf_url in pdf_urls:
             vd.date = date.isoformat()
 
             res = re.search(r'1. Dose\s+(\d+)', content)
-            assert res
-            vd.first_doses = res[1]
+            if res:
+                vd.first_doses = res[1]
 
             res = re.search(r'2. Dose\s+(\d+)', content)
-            assert res
-            vd.second_doses = res[1]
+            if res:
+                vd.second_doses = res[1]
 
             res = re.search(r'TOTAL\s+(\d+)', content)
             assert res
