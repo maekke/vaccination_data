@@ -11,7 +11,7 @@ def parse_ge_date(date_str):
     return datetime.date(year=2021, month=date.month, day=date.day).isoformat()
 
 
-url = 'https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres'
+url = 'https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres'
 d = sc.download(url)
 d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 d = d.replace(u'\xa0', u' ')
