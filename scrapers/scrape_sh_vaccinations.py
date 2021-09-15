@@ -2,6 +2,7 @@
 
 import datetime
 import tempfile
+import re
 import json
 import arrow
 import openpyxl
@@ -9,12 +10,10 @@ from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
-base_url = 'https://sh.ch'
-main_url = f'{base_url}/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html'
-url = f'{base_url}/CMS/content.jsp?contentid=3666465&language=DE&_=1611921384916'
-d = sc.download_json(url)
-d = json.loads(d['data_filemeta'])
-url = f"{base_url}{d['url']}"
+main_url = 'https://coviddashboard.sh.ch/impfungen/'
+content = sc.download(main_url)
+soup = BeautifulSoup(content, 'html.parser')
+url = soup.find('a', href=re.compile(r'.*\.xlsx')).get('href')
 
 xls_data = sc.download_data(url)
 fp = tempfile.NamedTemporaryFile(suffix='.xlsx')
@@ -22,7 +21,7 @@ fp.write(xls_data)
 
 
 book = openpyxl.load_workbook(fp.name)
-sheet = book['Tabelle1']
+sheet = book['Datensatz_Zeitstrahl']
 
 start_row = 2
 date_column = 1
