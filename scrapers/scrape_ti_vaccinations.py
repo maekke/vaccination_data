@@ -27,7 +27,7 @@ element = soup.find('div', string='Totale numero dosi somministrate')
 element = element.find_previous('div')
 vd.total_vaccinations = int(element.text.strip())
 
-element = soup.find('div', string=re.compile(r'Numero persone con vaccinazione\s+completa\s+\(2 dosi\)'))
+element = soup.find('div', string=re.compile(r'Numero persone con vaccinazione\s+completa'))
 element = element.find_previous('div')
 vd.second_doses = int(element.text.strip())
 
