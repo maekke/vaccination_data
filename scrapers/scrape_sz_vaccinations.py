@@ -2,9 +2,10 @@
 
 import datetime
 import re
+import tempfile
 import arrow
 from bs4 import BeautifulSoup
-import xlrd
+import openpyxl
 import scrape_common as sc
 
 
@@ -16,21 +17,22 @@ link = soup.find('a', text=re.compile(r'Kennzahlen Impfungen'))
 xls_url = link.get('href')
 xls_data = sc.download_data(xls_url)
 
-book = xlrd.open_workbook(file_contents=xls_data)
-sheet = book.sheet_by_index(0)
+fp = tempfile.NamedTemporaryFile(suffix='.xlsx')
+fp.write(xls_data)
+book = openpyxl.load_workbook(fp.name)
+sheet = book['Tabelle1']
 
-title_row = 3
-date_column = 0
-vaccinations_column = 2
+title_row = 4
+date_column = 1
+vaccinations_column = 3
 
-for row in range(title_row + 1, sheet.nrows):
+for row in range(title_row + 1, sheet.max_row):
     vd = sc.VaccinationData(canton='SZ', url=url)
 
-    date = sheet.cell_value(row, date_column)
-    date = datetime.datetime(*xlrd.xldate_as_tuple(date, book.datemode))
+    date = sheet.cell(row, date_column).value
     vd.date = date.date().isoformat()
 
-    vd.total_vaccinations = int(sheet.cell_value(row, vaccinations_column))
+    vd.total_vaccinations = sheet.cell(row, vaccinations_column).value
 
     assert vd
     print(vd)
