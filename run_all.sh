@@ -11,18 +11,18 @@ cantons=(
 	ge
 	# gl
 	gr
-	ju
+	# ju
 	lu
 	ne
 	nw
-	ow
+	# ow
 	sg
 	sh
 	so
 	sz
 	tg
 	ti
-	ur
+	# ur
 	vd
 	vs
 	zg
@@ -33,6 +33,9 @@ cantons=(
 manual_cantons=(
 	ar
 	gl
+	ju
+	ow
+	ur
 )
 
 err=""
