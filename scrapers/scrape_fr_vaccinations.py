@@ -26,7 +26,7 @@ vd.date = parse_fr_date(res[1])
 
 element = soup.find('strong', string=re.compile('Anzahl\s+der\s+v')).find_parent('h3')
 assert element
-res = re.search(r': (\d+)', element.text)
+res = re.search(r':\s+(\d+)', element.text)
 assert res
 vd.total_vaccinations = res[1]
 
