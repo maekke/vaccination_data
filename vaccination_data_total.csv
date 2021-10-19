@@ -4476,6 +4476,7 @@ LU,2021-10-10,,,,260952,230306,491258,https://www.lustat.ch/daten?id=28177
 SG,2021-10-10,,,,52770,257203,309973,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-10,,,,52770,257203,309973,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-10,,,,56254,50002,106256,https://coviddashboard.sh.ch/impfungen/
+SZ,2021-10-10,,,,,,169962,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 TG,2021-10-10,,,,162946,144798,307927,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-10-10,,,,564187,457495,1021682,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-10-10,,,,,,380475,https://www.vs.ch/documents/6756452/7008787/2021 10 13 - Synthese COVID-19 Woche40
@@ -4541,6 +4542,7 @@ TG,2021-10-14,,,,163916,147879,312003,https://www.tg.ch/news/fachstab-gesundheit
 TI,2021-10-14,,,,235416,226061,461477,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-10-14,,,,567558,464777,1032335,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-10-14,,,,,,384495,https://www.vs.ch/documents/6756452/7008787/2021 10 14 - Sit Epid - État Stand
+ZG,2021-10-14,,,,,,167642,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-10-14,,,,,,2021925,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-10-15,,,1023175,441015,408839,849854,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-10-15,,,,700499,632851,1333350,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
@@ -4555,6 +4557,7 @@ SO,2021-10-15,,,,179583,165069,344908,https://corona.so.ch/bevoelkerung/daten/im
 TG,2021-10-15,,,,164161,148774,313150,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-10-15,,,,235634,226904,462538,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-10-15,,,,568507,467190,1035697,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+ZG,2021-10-15,,,,,,168147,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-10-15,,,,,,2027048,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-10-16,,,1023175,441437,409744,851181,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-10-16,,,,700890,633326,1334216,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
@@ -4565,6 +4568,7 @@ SG,2021-10-16,,,,54742,262283,317025,https://www.sg.ch/ueber-den-kanton-st-galle
 SH,2021-10-16,,,,56702,51357,108059,https://coviddashboard.sh.ch/impfungen/
 TG,2021-10-16,,,,164263,149126,313605,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-10-16,,,,568900,468466,1037366,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+ZG,2021-10-16,,,,,,168428,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2021-10-17,,,1023175,441437,409744,851181,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-10-17,,,,700892,633328,1334220,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2021-10-17,,,,143818,131582,275778,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -4573,10 +4577,12 @@ SG,2021-10-17,,,,54747,262295,317042,https://www.sg.ch/ueber-den-kanton-st-galle
 SG,2021-10-17,,,,54747,262295,317042,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 TG,2021-10-17,,,,164263,149126,313605,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-10-17,,,,569060,468685,1037745,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+ZG,2021-10-17,,,,,,168644,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2021-10-18,,,,702040,635460,1337500,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2021-10-18,,,,143919,131666,275975,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 TI,2021-10-18,,,,236338,229300,465638,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-10-18,,,,569665,469767,1039432,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-10-18,,,,,,386580,https://www.vs.ch/documents/6756452/7008787/2021 10 18 - Sit Epid - État Stand
 ZH,2021-10-18,,,,,,2036396,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-10-19,,,,702040,635460,1337500,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2021-10-19,,,,702044,635471,1337515,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-10-19,,,,569665,469768,1039433,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
