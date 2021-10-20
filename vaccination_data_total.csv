@@ -3976,7 +3976,7 @@ SH,2021-09-08,,,,51967,46015,97982,https://coviddashboard.sh.ch/impfungen/
 SO,2021-09-08,,,,162978,148176,311253,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-09-08,,,,149347,133145,282570,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-09-08,,,,222788,197881,420669,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-09-08,,,,515526,429020,944546,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-09-08,,,,515527,429020,944547,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-09-08,,,,,,150355,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-09-08,,,,,,1869086,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-09-09,,,911200,404714,363551,768265,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -3992,7 +3992,7 @@ SH,2021-09-09,,,,51987,46021,98008,https://coviddashboard.sh.ch/impfungen/
 SO,2021-09-09,,,,163866,148255,312220,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-09-09,,,249900,150186,133493,283757,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-09-09,,,,223683,198461,422144,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-09-09,,,,517332,429610,946942,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-09-09,,,,517333,429610,946943,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-09-09,,,,,,343365,https://www.vs.ch/documents/6756452/7008787/2021 09 09 - Sit Epid - État Stand
 ZG,2021-09-09,,,,,,151028,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-09-09,,,,,,1873486,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -4419,7 +4419,7 @@ SH,2021-10-06,,,,56114,49567,105681,https://coviddashboard.sh.ch/impfungen/
 SO,2021-10-06,,,,177842,158168,336238,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-10-06,,,,162301,142981,305463,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-10-06,,,,233372,219429,452801,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-10-06,,,,561320,453033,1014353,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-10-06,,,,561320,453034,1014354,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-10-06,,,,,,164098,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-10-06,,,,,,1989233,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-10-07,,,1023175,436310,397003,833313,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -4434,7 +4434,7 @@ SH,2021-10-07,,,,56132,49595,105727,https://coviddashboard.sh.ch/impfungen/
 SO,2021-10-07,,,,178281,160583,339097,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-10-07,,,,162534,143675,306391,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-10-07,,,,233684,220312,453996,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-10-07,,,,562356,454303,1016659,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-10-07,,,,562356,454304,1016660,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-10-07,,,,,,377145,https://www.vs.ch/documents/6756452/7008787/2021 10 07 - Sit Epid - État Stand
 ZG,2021-10-07,,,,,,164511,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-10-07,,,,,,1994108,https://www.zh.ch/de/gesundheit/coronavirus.html
@@ -4614,8 +4614,8 @@ TI,2021-10-19,,,,236372,229548,465920,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-10-19,,,,570354,471557,1041911,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-10-19,,,,,,169166,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-10-19,,,,,,2040001,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-10-20,,,,704269,640843,1345112,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2021-10-20,,,,704289,640900,1345189,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 NW,2021-10-20,,,,27656,24551,52207,https://www.nw.ch/gesundheitsamtdienste/6044
 TI,2021-10-20,,,,236584,230567,467151,https://www4.ti.ch/dss/dsp/covid19/home/
-VD,2021-10-20,,,,571132,473128,1044260,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-10-20,,,,571134,473136,1044270,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-10-20,,,,,,2043211,https://www.zh.ch/de/gesundheit/coronavirus.html
