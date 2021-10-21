@@ -37,13 +37,14 @@ for iframe in soup.find_all('iframe'):
     d = sc.download(iframe_url)
     d = d.replace('\n', ' ')
 
-    res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Pfizer/BioNTech \(1. Dosis\)&quot;,&quot;Pfizer/BioNTech \(2. Dosis\)&quot;,&quot;Pfizer/BioNTech \(3. Dosis\)&quot;,&quot;Moderna \(1. Dosis\)&quot;,&quot;Moderna \(2. Dosis\)&quot;,&quot;Moderna \(3. Dosis\)&quot;\s*([^<]+)</pre>', d)
+    #res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Pfizer/BioNTech \(1. Dosis\)&quot;,&quot;Pfizer/BioNTech \(2. Dosis\)&quot;,&quot;Pfizer/BioNTech \(3. Dosis\)&quot;,&quot;Moderna \(1. Dosis\)&quot;,&quot;Moderna \(2. Dosis\)&quot;,&quot;Moderna \(3. Dosis\)&quot;\s*([^<]+)</pre>', d)
+    res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Pfizer/BioNTech \(1. Dosis\)&quot;,&quot;Pfizer/BioNTech \(2. Dosis\)&quot;,&quot;Pfizer/BioNTech \(3. Dosis\)&quot;,&quot;Moderna \(1. Dosis\)&quot;,&quot;Moderna \(2. Dosis\)&quot;,&quot;Moderna \(3. Dosis\)&quot;,&quot;Janssen&quot;\s*([^<]+)</pre>', d)
     assert res
     data = res[1]
     if data:
         for row in data.split(" "):
             c = row.split(',')
-            assert len(c) == 7, f"Number of fields changed, {len(c)} != 7"
+            assert len(c) == 8, f"Number of fields changed, {len(c)} != 8"
 
             vd = sc.VaccinationData('BL', url=main_url)
             vd.date = parse_row_date(c[0])
@@ -52,5 +53,7 @@ for iframe in soup.find_all('iframe'):
             vd.total_vaccinations = vd.first_doses + vd.second_doses
             # third doses
             vd.total_vaccinations += to_int(c[3]) + to_int(c[6])
+            # Jansen
+            vd.total_vaccinations += to_int(c[7])
             print(vd)
         break
