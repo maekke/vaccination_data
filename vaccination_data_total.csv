@@ -4765,14 +4765,16 @@ TI,2021-10-27,,,,237851,234772,472623,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-10-27,,,,574433,481253,1055686,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-10-27,,,,,,2063046,https://www.zh.ch/de/gesundheit/coronavirus.html
 BE,2021-10-28,,,,709442,652445,1361887,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-BS,2021-10-28,,,,145303,134631,280424,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-10-28,,,,145303,134636,280429,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-10-28,,,,270360,249962,520322,https://www.lustat.ch/daten?id=28177
 SG,2021-10-28,,,,48880,272931,321811,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-28,,,,48880,272931,321811,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
+SO,2021-10-28,,,,181105,170095,351522,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-10-28,,,280650,165976,153760,320030,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-10-28,,,,238044,235216,473260,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-10-28,,,,574824,482228,1057052,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 VS,2021-10-28,,,,,,391905,https://www.vs.ch/documents/6756452/7008787/2021 10 28 - Sit Epid - État Stand
 ZH,2021-10-28,,,,,,2066290,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-10-29,,,,709594,652970,1362564,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-VD,2021-10-29,,,,574996,482570,1057566,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+AI,2021-10-29,,,,8930,8079,17009,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
+BE,2021-10-29,,,,709670,653190,1362860,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-10-29,,,,575056,482678,1057734,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
