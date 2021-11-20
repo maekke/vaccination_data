@@ -5052,7 +5052,7 @@ ZG,2021-11-15,,,,,,174462,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 ZH,2021-11-15,,,,,,2096840,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-11-16,,,1024175,453234,429641,892064,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-11-16,,,,719045,670016,1389061,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-BS,2021-11-16,,,,147578,138401,291463,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-11-16,,,,147579,138402,291474,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-11-16,,,,274486,255945,530431,https://www.lustat.ch/daten?id=28177
 SG,2021-11-16,,,,47551,279227,326778,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-16,,,,47551,279227,326778,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5063,7 +5063,7 @@ ZG,2021-11-16,,,,,,175028,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 ZH,2021-11-16,,,,,,2098656,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-11-17,,,1024175,453669,430058,895887,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-11-17,,,,719692,670922,1390614,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-BS,2021-11-17,,,,147717,138668,293809,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-11-17,,,,147718,138669,293820,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-11-17,,,,274649,256206,530855,https://www.lustat.ch/daten?id=28177
 SG,2021-11-17,,,,47569,279251,326820,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-17,,,,47569,279251,326820,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5075,7 +5075,7 @@ ZG,2021-11-17,,,,,,175697,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 ZH,2021-11-17,,,,,,2099891,https://www.zh.ch/de/gesundheit/coronavirus.html
 AG,2021-11-18,,,1024175,454081,430455,900004,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2021-11-18,,,,720326,671679,1392005,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-BS,2021-11-18,,,,147815,138756,295358,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-11-18,,,,147816,138757,295369,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-11-18,,,,274853,256522,531375,https://www.lustat.ch/daten?id=28177
 SG,2021-11-18,,,,47583,279265,326848,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-18,,,,47583,279265,326848,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5087,10 +5087,10 @@ ZG,2021-11-18,,,,,,176376,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 ZH,2021-11-18,,,,,,2101884,https://www.zh.ch/de/gesundheit/coronavirus.html
 AI,2021-11-19,,,,9062,8201,17263,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
 BE,2021-11-19,,,,721078,672759,1393837,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-BS,2021-11-19,,,,147945,139021,296594,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-11-19,,,,147946,139022,296605,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-11-19,,,,375411,342223,731924,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 TI,2021-11-19,,,,246556,240867,487423,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-11-19,,,,583146,496502,1079648,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-11-19,,,,,,2106367,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-11-20,,,,721341,673035,1394376,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-VD,2021-11-20,,,,583407,496817,1080224,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+BE,2021-11-20,,,,721364,673071,1394435,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-11-20,,,,583446,496843,1080289,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
