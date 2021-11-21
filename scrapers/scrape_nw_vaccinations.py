@@ -27,21 +27,24 @@ vd.date = date.isoformat()
 
 table = elem.find_previous('table')
 trs = table.find_all('tr')
+third_doses = 0
 for tr in trs:
     tds = tr.find_all('td')
     assert len(tds) == 2, f'expected 2 items, got: {tds}'
 
-    if re.search('(Bisher erhaltene Impfdosen)', tds[0].text):
+    if re.search('(Bisher zugeteilte Impfdosen)', tds[0].text):
         vd.doses_delivered = int(tds[1].text)
 
-    if re.search('(Verabreichte Impfdosen \(1. Impfung\))', tds[0].text):
+    if re.search('(\(1. Impfung)', tds[0].text):
         vd.first_doses = int(tds[1].text)
 
-    if re.search('(Verabreichte Impfdosen \(2. Impfung\))', tds[0].text):
+    if re.search('(\(2. Impfung)', tds[0].text):
         vd.second_doses = int(tds[1].text)
 
-    if re.search('(Total verabreichte Impfdosen)', tds[0].text):
-        vd.total_vaccinations = int(tds[1].text)
+    if re.search('(Verabreichte Auffrischimpfungen)', tds[0].text):
+        third_doses = int(tds[1].text)
+
+vd.total_vaccinations = vd.first_doses + vd.second_doses + third_doses
 
 assert vd
 print(vd)
