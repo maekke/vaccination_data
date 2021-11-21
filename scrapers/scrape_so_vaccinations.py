@@ -23,11 +23,11 @@ tot_vaccination_index = None
 first_vaccination_index = None
 second_vaccination_index = None
 for i in range(0, len(headers)):
-    if headers[i].text.find('Verimpfte Dosen total') >= 0:
+    if headers[i].text.find('Total Impfungen') >= 0:
         tot_vaccination_index = i
-    elif headers[i].text.find('Dosen erste Impfung') >= 0:
+    elif headers[i].text.find('Erstimpfungen') >= 0:
         first_vaccination_index = i
-    elif headers[i].text.find('Dosen zweite Impfung') >= 0:
+    elif headers[i].text.find('Zweitimpfungen') >= 0:
         second_vaccination_index = i
     elif headers[i].text.find('Impfdatum') >= 0:
         date_index = i
