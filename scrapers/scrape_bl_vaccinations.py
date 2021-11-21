@@ -38,22 +38,22 @@ for iframe in soup.find_all('iframe'):
     d = d.replace('\n', ' ')
 
     #res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Pfizer/BioNTech \(1. Dosis\)&quot;,&quot;Pfizer/BioNTech \(2. Dosis\)&quot;,&quot;Pfizer/BioNTech \(3. Dosis\)&quot;,&quot;Moderna \(1. Dosis\)&quot;,&quot;Moderna \(2. Dosis\)&quot;,&quot;Moderna \(3. Dosis\)&quot;\s*([^<]+)</pre>', d)
-    res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Pfizer/BioNTech \(1. Dosis\)&quot;,&quot;Pfizer/BioNTech \(2. Dosis\)&quot;,&quot;Pfizer/BioNTech \(3. Dosis\)&quot;,&quot;Moderna \(1. Dosis\)&quot;,&quot;Moderna \(2. Dosis\)&quot;,&quot;Moderna \(3. Dosis\)&quot;,&quot;Janssen&quot;\s*([^<]+)</pre>', d)
+    res = re.search(r'<pre id="data_1".*?> ?Datum,&quot;Pfizer/BioNTech \(1. Dosis\)&quot;,&quot;Pfizer/BioNTech \(2. Dosis\)&quot;,&quot;Pfizer/BioNTech \(3. Dosis\)&quot;,&quot;Pfizer/BioNTech \(Booster\)&quot;,&quot;Moderna \(1. Dosis\)&quot;,&quot;Moderna \(2. Dosis\)&quot;,&quot;Moderna \(3. Dosis\)&quot;,&quot;Moderna \(Booster\)&quot;,&quot;Janssen&quot;\s*([^<]+)</pre>', d)
     assert res
     data = res[1]
     if data:
         for row in data.split(" "):
             c = row.split(',')
-            assert len(c) == 8, f"Number of fields changed, {len(c)} != 8"
+            assert len(c) == 10, f"Number of fields changed, {len(c)} != 10"
 
             vd = sc.VaccinationData('BL', url=main_url)
             vd.date = parse_row_date(c[0])
-            vd.first_doses = to_int(c[1]) + to_int(c[4])
-            vd.second_doses = to_int(c[2]) + to_int(c[5])
+            vd.first_doses = to_int(c[1]) + to_int(c[5])
+            vd.second_doses = to_int(c[2]) + to_int(c[6])
             vd.total_vaccinations = vd.first_doses + vd.second_doses
-            # third doses
-            vd.total_vaccinations += to_int(c[3]) + to_int(c[6])
+            # third doses / booster
+            vd.total_vaccinations += to_int(c[3]) + to_int(c[4]) + to_int(c[7]) + to_int(c[8])
             # Jansen
-            vd.total_vaccinations += to_int(c[7])
+            vd.total_vaccinations += to_int(c[9])
             print(vd)
         break
