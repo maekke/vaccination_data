@@ -5117,11 +5117,13 @@ VD,2021-11-20,,,,583457,496847,1080304,https://monitoring.unisante.ch/d/krLTmEfG
 ZG,2021-11-20,,,,,,177712,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2021-11-21,,,,721386,673095,1394481,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2021-11-21,,,,147974,139046,296704,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+FL,2021-11-21,,,56835,25483,24270,49753,https://www.llv.li/files/as/impfungen.xlsx
 LU,2021-11-21,,,,275266,257083,532349,https://www.lustat.ch/daten?id=28177
 SG,2021-11-21,,,,47566,279307,326873,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-21,,,,47566,279307,326873,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 TG,2021-11-21,,,,168869,157363,328672,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-11-21,,,,583560,496934,1080494,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-11-21,,,,,,178271,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-BE,2021-11-22,,,,721519,673242,1394761,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-VD,2021-11-22,,,,583618,497125,1080743,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+BE,2021-11-22,,,,721592,673302,1394894,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+FR,2021-11-22,,,,,,388765,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
+VD,2021-11-22,,,,583645,497169,1080814,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
