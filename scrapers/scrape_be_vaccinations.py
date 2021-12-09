@@ -22,7 +22,8 @@ for row in reader:
     if date == '':
         continue
     vd.date = parse_be_date(date)
-    vd.second_doses = int(row['totalDoubleVaccinated'])
-    vd.first_doses = int(row['totalSingleVaccinated']) + vd.second_doses
-    vd.total_vaccinations = vd.first_doses + vd.second_doses 
+    # this is not really perfect (for example doesn't take J&J into account)
+    vd.second_doses = int(row['baseImmunized'])
+    vd.first_doses = vd.second_doses
+    vd.total_vaccinations = vd.first_doses + vd.second_doses + int(row['personBoostered'])
     print(vd)
