@@ -18,7 +18,7 @@ d = d.replace(u'\xa0', u' ')
 
 vd = sc.VaccinationData(canton='GE', url=url)
 
-tot_vacc_re = r'.*\s+(\d+)\s+doses ont .*'
+tot_vacc_re = r'<strong>\s?(\d+)\s+</strong>'
 res = re.search(tot_vacc_re, d)
 assert res
 vd.total_vaccinations = int(res[1])
