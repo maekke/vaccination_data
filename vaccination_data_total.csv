@@ -5564,6 +5564,7 @@ BL,2021-12-21,,,,200163,189459,452281,https://www.baselland.ch/politik-und-behor
 BS,2021-12-21,,,,151944,142929,351679,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-12-21,,,,281369,262374,543743,https://www.lustat.ch/daten?id=28177
 NW,2021-12-21,,,,28680,26627,63818,https://www.nw.ch/gesundheitsamtdienste/6044
+SH,2021-12-21,,,,56772,55545,112317,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-21,,,,187722,177101,414734,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-21,,,329950,171797,160602,388228,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-12-21,,,,,,566690,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -5571,11 +5572,11 @@ VD,2021-12-21,,,,593250,507381,1100631,https://monitoring.unisante.ch/d/krLTmEfG
 ZG,2021-12-21,,,,,,208742,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2021-12-21,,,,,,2493058,https://www.zh.ch/de/gesundheit/coronavirus.html
 BE,2021-12-22,,,,721532,721532,1686610,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-BS,2021-12-22,,,,152145,143268,353739,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BS,2021-12-22,,,,152146,143268,353740,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-12-22,,,,281595,262645,544240,https://www.lustat.ch/daten?id=28177
 TG,2021-12-22,,,330750,,,,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-12-22,,,,,,571085,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2021-12-22,,,,593623,507769,1101392,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-12-22,,,,,,2509220,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2021-12-23,,,,721577,721577,1687307,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
-VD,2021-12-23,,,,593642,507782,1101424,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+BE,2021-12-23,,,,721612,721612,1688242,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2021-12-23,,,,593667,507809,1101476,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
