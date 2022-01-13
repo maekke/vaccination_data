@@ -8,7 +8,7 @@ import scrape_common as sc
 
 def parse_ge_date(date_str):
     date = arrow.get(date_str, 'D MMMM YYYY', locale='fr')
-    return datetime.date(year=2021, month=date.month, day=date.day).isoformat()
+    return datetime.date(year=date.year, month=date.month, day=date.day).isoformat()
 
 
 url = 'https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres'
