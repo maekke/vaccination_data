@@ -82,7 +82,6 @@ ZG,2021-01-03,,,,,,350,https://www.zg.ch/behoerden/gesundheitsdirektion/statisti
 AG,2021-01-04,,,0,242,0,243,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BL,2021-01-04,,,,499,0,499,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-04,,,,2714,1,2715,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-GE,2021-01-04,,,,385323,354526,882166,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 NE,2021-01-04,,,,621,0,621,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-01-04,,,,93,0,93,https://coviddashboard.sh.ch/impfungen/
 VD,2021-01-04,,,,98,,98,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5734,6 +5733,7 @@ AG,2022-01-04,,,1206850,470243,447382,1100389,https://www.ag.ch/de/themen_1/coro
 BE,2022-01-04,,,,725505,725505,1761470,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2022-01-04,,,,200980,190504,479151,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-04,,,,152923,144303,372431,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+GE,2022-01-04,,,,385323,354526,882166,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2022-01-04,,,342500,,,338377,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-04,,,,282569,263902,546471,https://www.lustat.ch/daten?id=28177
 SH,2022-01-04,,,,57216,55979,113195,https://coviddashboard.sh.ch/impfungen/
