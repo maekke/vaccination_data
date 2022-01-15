@@ -3,6 +3,7 @@
 import datetime
 import re
 import arrow
+from bs4 import BeautifulSoup
 import scrape_common as sc
 
 
@@ -11,31 +12,29 @@ def parse_ge_date(date_str):
     return datetime.date(year=date.year, month=date.month, day=date.day).isoformat()
 
 
-url = 'https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres'
+url = 'https://www.ge.ch/teaser/covid-19-vaccin'
 d = sc.download(url)
 d = re.sub(r'(\d+)\'(\d+)', r'\1\2', d)
 d = re.sub(r'(\d+)’(\d+)', r'\1\2', d)
 d = d.replace(u'\xa0', u' ')
+d = d.replace(u'<br />', u' ')
+soup = BeautifulSoup(d, 'html.parser')
 
 vd = sc.VaccinationData(canton='GE', url=url)
 
-tot_vacc_re = r'<strong>\s?(\d+)\s?</strong>'
-res = re.search(tot_vacc_re, d)
-assert res
-vd.total_vaccinations = int(res[1])
-
-date_re = r'<p>[Aa]u\s+(\d+\s+\w+\s+\d{4})'
-res = re.search(date_re, d)
+date_re = 'Chiffres au (\d+\s+.*\d{4})'
+elem = soup.find('em', text=re.compile(date_re))
+assert elem
+res = re.search(date_re, elem.string)
 assert res
 vd.date = parse_ge_date(res[1])
 
-res = re.search(r'<li>(\d+)\s+personnes\s+ont\s+re.u\s+la\s+1', d)
-assert res
-vd.first_doses = int(res[1])
+elem = soup.find_all('div', text=re.compile('^\s+\d+\s+'))
+assert len(elem) == 5
 
-res = re.search(r'<li>(\d+)\s+personnes\s+pour\s+la\s+2', d)
-assert res
-vd.second_doses = int(res[1])
+vd.first_doses = int(elem[0].text.strip())
+vd.second_doses = int(elem[1].text.strip())
+vd.total_vaccinations = int(elem[4].text.strip())
 
 assert vd
 print(vd)
