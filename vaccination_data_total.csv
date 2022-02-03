@@ -41,7 +41,7 @@ AG,2020-12-28,,,0,99,0,99,https://www.ag.ch/de/themen_1/coronavirus_2/lagebullet
 BL,2020-12-28,,,,64,0,64,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2020-12-28,,,,622,0,622,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2020-12-28,,,,1024,0,1024,https://www.lustat.ch/daten?id=28177
-NE,2020-12-28,,,,125,0,125,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2020-12-28,,,,143,0,143,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2020-12-28,,,,0,0,0,https://coviddashboard.sh.ch/impfungen/
 ZG,2020-12-28,,,,,,250,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2020-12-29,,,0,167,0,167,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -82,7 +82,7 @@ ZG,2021-01-03,,,,,,350,https://www.zg.ch/behoerden/gesundheitsdirektion/statisti
 AG,2021-01-04,,,0,242,0,243,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BL,2021-01-04,,,,499,0,499,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-04,,,,2714,1,2715,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2021-01-04,,,,337,0,337,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-04,,,,355,0,355,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-01-04,,,,93,0,93,https://coviddashboard.sh.ch/impfungen/
 VD,2021-01-04,,,,98,,98,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-01-04,,,,,,350,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -146,7 +146,7 @@ AG,2021-01-11,,,0,3244,2,3247,https://www.ag.ch/de/themen_1/coronavirus_2/lagebu
 BL,2021-01-11,,,,2445,0,2445,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-11,,,,3851,1,3852,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-11,,,,5080,2,5082,https://www.lustat.ch/daten?id=28177
-NE,2021-01-11,,,,746,0,746,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-11,,,,764,0,764,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-01-11,,,,43,0,43,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-01-11,,,,43,0,43,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-01-11,,,,1245,0,1245,https://coviddashboard.sh.ch/impfungen/
@@ -224,7 +224,7 @@ BE,2021-01-18,,,,4387,0,4387,https://www.besondere-lage.sites.be.ch/de/start/imp
 BL,2021-01-18,,,,5600,7,5609,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-18,,,,7361,635,7996,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-18,,,,8321,40,8361,https://www.lustat.ch/daten?id=28177
-NE,2021-01-18,,,,1236,0,1236,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-18,,,,1254,0,1254,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-01-18,,,,168,2,170,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-01-18,,,,168,2,170,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-01-18,,,,2258,2,2260,https://coviddashboard.sh.ch/impfungen/
@@ -315,7 +315,7 @@ BL,2021-01-25,,,,8447,463,8912,https://www.baselland.ch/politik-und-behorden/dir
 BS,2021-01-25,,,,9183,2680,11865,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-01-25,,,11925,,,5299,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-01-25,,,,13282,457,13739,https://www.lustat.ch/daten?id=28177
-NE,2021-01-25,,,,2710,964,3674,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-25,,,,2728,4118,6846,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-01-25,,,,441,29,470,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-01-25,,,,441,29,470,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-01-25,,,,3758,82,3840,https://coviddashboard.sh.ch/impfungen/
@@ -420,7 +420,7 @@ BS,2021-02-01,,,,10399,3807,14208,https://data.bs.ch/explore/dataset/100111/down
 GE,2021-02-01,,,,17965,,18012,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-02-01,,,12900,,,8220,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-01,,,,18966,3128,22094,https://www.lustat.ch/daten?id=28177
-NE,2021-02-01,,,,4580,965,5545,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-01,,,,4598,4119,8717,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-01,,,3925,,,3260,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-01,,,,1047,169,1216,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-01,,,,1047,169,1216,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -532,7 +532,7 @@ BL,2021-02-08,,,,10688,5328,16018,https://www.baselland.ch/politik-und-behorden/
 BS,2021-02-08,,,,11507,3808,15317,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-02-08,,,20075,,,10997,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-08,,,,19487,5216,24703,https://www.lustat.ch/daten?id=28177
-NE,2021-02-08,,,,8043,1417,9460,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-08,,,,8061,4571,12632,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-08,,,4870,,,4350,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-08,,,,1135,626,1761,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-08,,,,1135,626,1761,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -644,7 +644,7 @@ BS,2021-02-15,,,,12126,7093,19221,https://data.bs.ch/explore/dataset/100111/down
 GE,2021-02-15,,,,25161,7378,32539,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-02-15,,,20075,,,14451,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-15,,,,20402,7831,28233,https://www.lustat.ch/daten?id=28177
-NE,2021-02-15,,,,10900,1661,12561,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-15,,,,10918,4815,15733,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-15,,,6170,,,4926,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-15,,,,1181,2250,3431,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-15,,,,1181,2250,3431,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -757,7 +757,7 @@ BL,2021-02-22,,,,17570,8233,25806,https://www.baselland.ch/politik-und-behorden/
 BS,2021-02-22,,,,12235,8882,21120,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-02-22,,,23000,,,17340,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-22,,,,22400,12894,35294,https://www.lustat.ch/daten?id=28177
-NE,2021-02-22,,,,12337,2755,15092,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-22,,,,12355,5909,18264,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-22,,,6170,,,5138,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-22,,,,1258,4099,5357,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-22,,,,1258,4099,5357,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -871,7 +871,7 @@ GE,2021-03-01,,,,34437,17692,52129,https://www.ge.ch/se-faire-vacciner-contre-co
 GR,2021-03-01,,,24950,,,20885,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-03-01,,,,5199,2396,7595,https://www.jura.ch/Htdocs/Files/v/36987.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin_sem8.pdf
 LU,2021-03-01,,,,24429,18566,42995,https://www.lustat.ch/daten?id=28177
-NE,2021-03-01,,,,14380,4744,19124,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-01,,,,14398,7898,22296,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-01,,,,3104,3096,6200,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-03-01,,,,2100,2100,4200,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-03-01,,,,1414,8503,9917,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -991,7 +991,7 @@ BS,2021-03-08,,,,15502,11365,26870,https://data.bs.ch/explore/dataset/100111/dow
 GE,2021-03-08,,,,41628,21101,62729,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-03-08,,,33650,,,25094,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-03-08,,,,29971,19916,49887,https://www.lustat.ch/daten?id=28177
-NE,2021-03-08,,,,15531,7558,23089,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-08,,,,15549,10712,26261,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-08,,,,3354,3096,6450,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-03-08,,,,2178,15684,17862,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-03-08,,,,2178,15684,17862,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1109,7 +1109,7 @@ BS,2021-03-15,,,,16383,11952,28338,https://data.bs.ch/explore/dataset/100111/dow
 FR,2021-03-15,,,46250,29906,13198,41215,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-03-15,,,34625,,,29015,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-03-15,,,,35025,20392,55417,https://www.lustat.ch/daten?id=28177
-NE,2021-03-15,,,,16617,11118,27735,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-15,,,,16635,14272,30907,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-15,,,,3472,3147,6619,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-03-15,,,,3053,24281,27334,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-03-15,,,,3053,24281,27334,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1225,7 +1225,7 @@ FR,2021-03-22,,,59125,32203,15349,44342,https://www.fr.ch/de/gesundheit/covid-19
 GE,2021-03-22,,,,54020,29656,83676,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-03-22,,,35600,,,32649,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-03-22,,,,39686,23253,62939,https://www.lustat.ch/daten?id=28177
-NE,2021-03-22,,,,17557,11544,29101,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-22,,,,17575,14698,32273,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-22,,,,3573,3013,6586,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-03-22,,,6785,3356,2045,5401,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-03-22,,,,3143,28154,31297,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1346,7 +1346,7 @@ GE,2021-03-29,,,,63085,35083,98168,https://www.ge.ch/se-faire-vacciner-contre-co
 GR,2021-03-29,,,46750,,,38402,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-03-29,,,,7803,5107,12910,https://www.jura.ch/Htdocs/Files/v/37242.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin.pdf
 LU,2021-03-29,,,,46308,25670,71978,https://www.lustat.ch/daten?id=28177
-NE,2021-03-29,,,,20603,14583,35186,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-29,,,,20621,17737,38358,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-29,,,,4151,3093,7244,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-03-29,,,8485,3756,2045,5801,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-03-29,,,,3490,31483,34973,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1451,7 +1451,7 @@ BS,2021-04-05,,,,22614,15185,37802,https://data.bs.ch/explore/dataset/100111/dow
 GE,2021-04-05,,,,68506,40008,108514,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-05,,,57225,,,42047,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-05,,,,49251,29801,79052,https://www.lustat.ch/daten?id=28177
-NE,2021-04-05,,,,24457,15706,40163,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-05,,,,24475,18860,43335,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-04-05,,,,3686,34351,38037,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-04-05,,,,3686,34351,38037,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-04-05,,,,9943,7184,17127,https://coviddashboard.sh.ch/impfungen/
@@ -1569,7 +1569,7 @@ FR,2021-04-12,,,79225,43029,28865,67074,https://www.fr.ch/de/gesundheit/covid-19
 GE,2021-04-12,,,,78129,46708,124837,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-12,,,62100,,,48733,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-12,,,,53924,34415,88339,https://www.lustat.ch/daten?id=28177
-NE,2021-04-12,,,,28364,16868,45232,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-12,,,,28382,20022,48404,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-04-12,,,11865,4984,3482,8466,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-04-12,,,10185,4496,2825,7321,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-04-12,,,,6337,40728,47065,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1689,7 +1689,7 @@ GE,2021-04-19,,,,90446,53432,143878,https://www.ge.ch/se-faire-vacciner-contre-c
 GR,2021-04-19,,,66000,,,56876,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-04-19,,,,11365,6742,18107,https://www.jura.ch/Htdocs/Files/v/37371.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdo-vaccins-sem15.pdf
 LU,2021-04-19,,,,60481,38874,99355,https://www.lustat.ch/daten?id=28177
-NE,2021-04-19,,,,33428,17827,51255,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-19,,,,33446,20981,54427,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-04-19,,,13815,5918,3858,9776,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-04-19,,,,6991,45218,52209,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-04-19,,,,6991,45218,52209,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1809,7 +1809,7 @@ FR,2021-04-26,,,89950,,,81857,https://www.fr.ch/de/gesundheit/covid-19/coronavir
 GE,2021-04-26,,,,112277,62099,174376,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-26,,,78900,,,66434,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-26,,,,69736,45508,115244,https://www.lustat.ch/daten?id=28177
-NE,2021-04-26,,,,38423,20122,58545,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-26,,,,38441,23276,61717,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-04-26,,,14790,7524,5094,12618,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-04-26,,,12135,4936,4495,9431,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-04-26,,,,7768,50468,58236,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1929,7 +1929,7 @@ FR,2021-05-03,,,107475,,,90811,https://www.fr.ch/de/gesundheit/covid-19/coronavi
 GE,2021-05-03,,,,129311,67982,197293,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-03,,,81825,,,73385,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-03,,,,85820,47547,133367,https://www.lustat.ch/daten?id=28177
-NE,2021-05-03,,,,43861,24301,68162,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-03,,,,43879,27455,71334,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-05-03,,,16690,8689,5324,14013,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-05-03,,,13835,6566,4695,11261,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-03,,,,8695,55805,64500,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2053,7 +2053,7 @@ FR,2021-05-10,,,130375,,,105594,https://www.fr.ch/de/gesundheit/covid-19/coronav
 GE,2021-05-10,,,,147839,77215,225054,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-10,,,95750,,,83273,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-10,,,,103686,54010,157696,https://www.lustat.ch/daten?id=28177
-NE,2021-05-10,,,,46529,27630,74159,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-10,,,,46547,30784,77331,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-05-10,,,18285,8416,5625,14041,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-10,,,,9403,66888,76291,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-05-10,,,,9403,66888,76291,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2168,7 +2168,7 @@ GE,2021-05-17,,,,166002,87854,253856,https://www.ge.ch/se-faire-vacciner-contre-
 GR,2021-05-17,,,98675,,,94615,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-05-17,,,,21075,10677,31752,https://www.jura.ch/Htdocs/Files/v/37535.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin.pdf
 LU,2021-05-17,,,,121000,60159,181159,https://www.lustat.ch/daten?id=28177
-NE,2021-05-17,,,,49323,32207,81530,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-17,,,,49341,35361,84702,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-05-17,,,19260,9406,6760,16166,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-17,,,,10234,76532,86766,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-05-17,,,,10234,76532,86766,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2287,7 +2287,7 @@ BS,2021-05-24,,,,71296,36921,108223,https://data.bs.ch/explore/dataset/100111/do
 GE,2021-05-24,,,,181271,105052,286323,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-24,,,118200,,,105769,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-24,,,,138638,68095,206733,https://www.lustat.ch/daten?id=28177
-NE,2021-05-24,,,,52629,37439,90068,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-24,,,,52647,40593,93240,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-05-24,,,,11511,84566,96077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-05-24,,,,11511,84566,96077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-05-24,,,,27793,18628,46421,https://coviddashboard.sh.ch/impfungen/
@@ -2405,7 +2405,7 @@ BS,2021-05-31,,,,79616,44456,124079,https://data.bs.ch/explore/dataset/100111/do
 FR,2021-05-31,,,169425,,,152780,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-05-31,,,120150,,,118151,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-31,,,,149838,83928,233766,https://www.lustat.ch/daten?id=28177
-NE,2021-05-31,,,,57918,41997,99915,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-31,,,,57936,45151,103087,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-05-31,,,24240,15077,8649,23726,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-05-31,,,22560,11526,8840,20366,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-31,,,,13347,95148,108495,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2524,7 +2524,7 @@ FR,2021-06-07,,,207525,,,169910,https://www.fr.ch/de/gesundheit/covid-19/coronav
 GE,2021-06-07,,,,223294,140151,363445,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-06-07,,,144400,,,130872,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-07,,,,162878,99983,262861,https://www.lustat.ch/daten?id=28177
-NE,2021-06-07,,,,65936,44510,110446,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-07,,,,65954,47664,113618,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-06-07,,,27935,12926,10460,23386,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-06-07,,,,15466,105640,121106,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-07,,,,15466,105640,121106,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2643,7 +2643,7 @@ BS,2021-06-14,,,,94372,63445,157824,https://data.bs.ch/explore/dataset/100111/do
 FR,2021-06-14,,,215715,,,193194,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-06-14,,,147325,,,141451,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-14,,,,173367,117618,290985,https://www.lustat.ch/daten?id=28177
-NE,2021-06-14,,,,75365,46899,122264,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-14,,,,75383,50053,125436,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-06-14,,,27935,12926,11305,24231,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-06-14,,,,17798,116740,134538,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-14,,,,17798,116740,134538,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2761,7 +2761,7 @@ FR,2021-06-21,,,238915,,,218150,https://www.fr.ch/de/gesundheit/covid-19/coronav
 GE,2021-06-21,,,,264978,174990,439968,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-06-21,,,160275,,,154925,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-21,,,,183895,134953,318848,https://www.lustat.ch/daten?id=28177
-NE,2021-06-21,,,,83225,49730,132955,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-21,,,,83243,52884,136127,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-06-21,,,,19465,134631,154096,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-21,,,,19465,134631,154096,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-06-21,,,,41254,28014,69268,https://coviddashboard.sh.ch/impfungen/
@@ -2871,7 +2871,7 @@ BL,2021-06-28,,,,151737,108725,260465,https://www.baselland.ch/politik-und-behor
 BS,2021-06-28,,,,107845,77718,185571,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-06-28,,,173525,,,166742,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-28,,,,196680,146734,343414,https://www.lustat.ch/daten?id=28177
-NE,2021-06-28,,,,88380,54921,143301,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-28,,,,88398,58075,146473,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-06-28,,,33210,15045,13525,28570,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-06-28,,,,20505,158999,179504,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-28,,,,20505,158999,179504,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2976,7 +2976,7 @@ FR,2021-07-05,,,,,,245259,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-07-05,,,,280059,211101,491160,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-07-05,,,190875,,,175798,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-05,,,,204774,159195,363969,https://www.lustat.ch/daten?id=28177
-NE,2021-07-05,,,,91664,61917,153581,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-05,,,,91682,65071,156753,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-07-05,,,40290,20512,15977,36489,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-07-05,,,37285,16585,13755,30340,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-07-05,,,,22534,180091,202625,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3086,7 +3086,7 @@ BL,2021-07-12,,,,157914,127077,284996,https://www.baselland.ch/politik-und-behor
 BS,2021-07-12,,,,114591,92181,206781,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-07-12,,,191850,,,183449,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-12,,,,209837,168437,378274,https://www.lustat.ch/daten?id=28177
-NE,2021-07-12,,,,93113,69269,162382,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-12,,,,93131,72423,165554,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-07-12,,,,23868,195438,219306,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-07-12,,,,23868,195438,219306,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-07-12,,,,44631,38357,82988,https://coviddashboard.sh.ch/impfungen/
@@ -3194,7 +3194,7 @@ BS,2021-07-19,,,,116305,97708,214023,https://data.bs.ch/explore/dataset/100111/d
 FR,2021-07-19,,,,,,275272,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-07-19,,,207625,,,191703,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-19,,,,211690,177844,389534,https://www.lustat.ch/daten?id=28177
-NE,2021-07-19,,,,94715,76180,170895,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-19,,,,94733,79334,174067,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-07-19,,,,24715,209286,234001,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-07-19,,,,24715,209286,234001,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-07-19,,,,45167,40836,86003,https://coviddashboard.sh.ch/impfungen/
@@ -3301,7 +3301,7 @@ FR,2021-07-26,,,,,,289533,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-07-26,,,,291309,256574,547883,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-07-26,,,220575,,,198579,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-26,,,,214442,188456,402898,https://www.lustat.ch/daten?id=28177
-NE,2021-07-26,,,,96131,80390,176521,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-26,,,,96149,83544,179693,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-07-26,,,,25348,216615,241963,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-07-26,,,,25348,216615,241963,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-07-26,,,,45623,42614,88237,https://coviddashboard.sh.ch/impfungen/
@@ -3409,7 +3409,7 @@ FL,2021-08-02,,,45345,20477,18697,39174,https://www.llv.li/files/as/impfungen.xl
 FR,2021-08-02,,,,,,297206,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-08-02,,,222525,,,201863,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-02,,,,217344,193679,411023,https://www.lustat.ch/daten?id=28177
-NE,2021-08-02,,,,97724,83193,180917,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-02,,,,97742,86347,184089,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-08-02,,,,25773,220257,246030,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-02,,,,25773,220257,246030,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-08-02,,,,45991,43197,89188,https://coviddashboard.sh.ch/impfungen/
@@ -3518,7 +3518,7 @@ BS,2021-08-09,,,,121139,110646,231799,https://data.bs.ch/explore/dataset/100111/
 FR,2021-08-09,,,,,,301741,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-08-09,,,225450,,,205326,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-09,,,,220579,200012,420591,https://www.lustat.ch/daten?id=28177
-NE,2021-08-09,,,,99530,85047,184577,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-09,,,,99548,88201,187749,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-08-09,,,,26219,224058,250277,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-09,,,,26219,224058,250277,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-08-09,,,,46502,43858,90360,https://coviddashboard.sh.ch/impfungen/
@@ -3628,7 +3628,7 @@ FR,2021-08-16,,,,,,306293,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-08-16,,,,311208,273198,584406,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-08-16,,,230950,,,208276,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-16,,,,223832,203485,427317,https://www.lustat.ch/daten?id=28177
-NE,2021-08-16,,,,101199,87057,188256,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-16,,,,101217,90211,191428,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-08-16,,,47715,22988,20866,43854,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-08-16,,,,26909,227168,254077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-16,,,,26909,227168,254077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3738,7 +3738,7 @@ FR,2021-08-23,,,,,,312098,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-08-23,,,,314974,278572,593613,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-08-23,,,230950,,,211977,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-23,,,,228872,206526,435398,https://www.lustat.ch/daten?id=28177
-NE,2021-08-23,,,,102837,88538,191375,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-23,,,,102855,91692,194547,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-08-23,,,,27740,230090,257830,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-23,,,,27740,230090,257830,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-08-23,,,,47745,45316,93061,https://coviddashboard.sh.ch/impfungen/
@@ -3849,7 +3849,7 @@ BS,2021-08-30,,,,127012,115830,242900,https://data.bs.ch/explore/dataset/100111/
 FR,2021-08-30,,,,,,319207,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-08-30,,,230950,,,216428,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-30,,,,234553,209280,443833,https://www.lustat.ch/daten?id=28177
-NE,2021-08-30,,,,104530,89936,194466,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-30,,,,104548,93090,197638,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-08-30,,,47715,23946,21497,45443,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-08-30,,,,29115,232797,261912,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-30,,,,29115,232797,261912,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3960,7 +3960,7 @@ BS,2021-09-06,,,,129914,117510,247519,https://data.bs.ch/explore/dataset/100111/
 FR,2021-09-06,,,,,,325891,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-09-06,,,230950,,,221940,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-09-06,,,,240030,211826,451856,https://www.lustat.ch/daten?id=28177
-NE,2021-09-06,,,,107109,91402,198511,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-09-06,,,,107127,94556,201683,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-06,,,,30496,235280,265776,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-06,,,,30496,235280,265776,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-06,,,,49799,46320,96119,https://coviddashboard.sh.ch/impfungen/
@@ -4070,8 +4070,8 @@ BS,2021-09-13,,,,133264,118287,251692,https://data.bs.ch/explore/dataset/100111/
 FR,2021-09-13,,,,,,333908,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-09-13,,,,333347,293479,623954,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-13,,,230950,,,227728,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-13,,,,248002,215672,463674,https://www.lustat.ch/daten?id=28177
-NE,2021-09-13,,,,109744,92809,202553,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-09-13,,,,248002,215671,463673,https://www.lustat.ch/daten?id=28177
+NE,2021-09-13,,,,109762,95963,205725,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-13,,,,32439,237905,270344,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-13,,,,32439,237905,270344,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-13,,,,51021,46915,97936,https://coviddashboard.sh.ch/impfungen/
@@ -4087,7 +4087,7 @@ BL,2021-09-14,,,,180921,163932,344972,https://www.baselland.ch/politik-und-behor
 BS,2021-09-14,,,,133450,118293,251890,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-14,,,,335276,294428,629971,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-14,,,246850,,,228714,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-14,,,,249141,216038,465179,https://www.lustat.ch/daten?id=28177
+LU,2021-09-14,,,,249141,216037,465178,https://www.lustat.ch/daten?id=28177
 SG,2021-09-14,,,,32629,238234,270863,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-14,,,,32629,238234,270863,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-14,,,,51311,46952,98263,https://coviddashboard.sh.ch/impfungen/
@@ -4103,7 +4103,7 @@ BL,2021-09-15,,,,181490,164363,345981,https://www.baselland.ch/politik-und-behor
 BS,2021-09-15,,,,134651,118972,253786,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-15,,,,336969,295155,632405,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-15,,,246850,,,229856,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-15,,,,250331,216603,466934,https://www.lustat.ch/daten?id=28177
+LU,2021-09-15,,,,250331,216602,466933,https://www.lustat.ch/daten?id=28177
 NW,2021-09-15,,,,25781,21880,47661,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-09-15,,,,32868,238629,271497,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-15,,,,32868,238629,271497,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4120,7 +4120,7 @@ BL,2021-09-16,,,,182334,164741,347208,https://www.baselland.ch/politik-und-behor
 BS,2021-09-16,,,,135467,119013,254645,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-16,,,,338961,295790,635041,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-16,,,246850,,,231183,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-16,,,,251424,217686,469110,https://www.lustat.ch/daten?id=28177
+LU,2021-09-16,,,,251424,217685,469109,https://www.lustat.ch/daten?id=28177
 SG,2021-09-16,,,,33160,239368,272528,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-16,,,,33160,239368,272528,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-16,,,,51621,47400,99021,https://coviddashboard.sh.ch/impfungen/
@@ -4137,7 +4137,7 @@ BE,2021-09-17,,,,663496,590732,1254228,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-09-17,,,,183174,165090,348399,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-09-17,,,,136302,120599,257073,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-09-17,,,246850,,,231974,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-17,,,,253010,219162,472172,https://www.lustat.ch/daten?id=28177
+LU,2021-09-17,,,,253010,219161,472171,https://www.lustat.ch/daten?id=28177
 NW,2021-09-17,,,,25908,21969,47887,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-09-17,,,,33621,240067,273688,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-17,,,,33621,240067,273688,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4153,7 +4153,7 @@ BE,2021-09-18,,,,664083,591194,1255277,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-09-18,,,,183390,165107,348633,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-09-18,,,,136840,120650,257670,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-09-18,,,251725,,,232064,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-18,,,,254629,219740,474369,https://www.lustat.ch/daten?id=28177
+LU,2021-09-18,,,,254629,219739,474368,https://www.lustat.ch/daten?id=28177
 SG,2021-09-18,,,,33816,240554,274370,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-18,,,,33816,240554,274370,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-18,,,,52046,47696,99742,https://coviddashboard.sh.ch/impfungen/
@@ -4167,7 +4167,7 @@ BS,2021-09-19,,,,136840,120650,257670,https://data.bs.ch/explore/dataset/100111/
 FL,2021-09-19,,,51051,23627,21662,45289,https://www.llv.li/files/as/impfungen.xlsx
 GE,2021-09-19,,,,342679,297051,640031,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-19,,,251725,,,232795,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-19,,,,254658,219751,474409,https://www.lustat.ch/daten?id=28177
+LU,2021-09-19,,,,254658,219750,474408,https://www.lustat.ch/daten?id=28177
 SG,2021-09-19,,,,33816,240556,274372,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-19,,,,33816,240556,274372,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-19,,,,52047,47697,99744,https://coviddashboard.sh.ch/impfungen/
@@ -4184,8 +4184,8 @@ BS,2021-09-20,,,,137041,120659,257881,https://data.bs.ch/explore/dataset/100111/
 FR,2021-09-20,,,,,,342452,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-09-20,,,,342680,297460,642298,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-20,,,251725,,,233674,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-20,,,,255450,220334,475784,https://www.lustat.ch/daten?id=28177
-NE,2021-09-20,,,,112774,94144,206918,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-09-20,,,,255450,220333,475783,https://www.lustat.ch/daten?id=28177
+NE,2021-09-20,,,,112792,97298,210090,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-20,,,,34209,241087,275296,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-20,,,,34209,241087,275296,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-20,,,,52292,47761,100053,https://coviddashboard.sh.ch/impfungen/
@@ -4202,7 +4202,7 @@ BL,2021-09-21,,,,184778,165946,350879,https://www.baselland.ch/politik-und-behor
 BS,2021-09-21,,,,137609,120671,258481,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-21,,,,346114,297984,644434,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-21,,,251725,,,234468,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-21,,,,256555,220951,477506,https://www.lustat.ch/daten?id=28177
+LU,2021-09-21,,,,256555,220950,477505,https://www.lustat.ch/daten?id=28177
 NW,2021-09-21,,,,26304,22066,48370,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-09-21,,,,34525,241682,276207,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-21,,,,34525,241682,276207,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4219,7 +4219,7 @@ BL,2021-09-22,,,,185303,166452,351919,https://www.baselland.ch/politik-und-behor
 BS,2021-09-22,,,,138204,121171,259584,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-22,,,,347664,298693,646708,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-22,,,251725,,,235952,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-22,,,,257776,221598,479374,https://www.lustat.ch/daten?id=28177
+LU,2021-09-22,,,,257776,221597,479373,https://www.lustat.ch/daten?id=28177
 SG,2021-09-22,,,,34737,242155,276892,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-22,,,,34737,242155,276892,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-22,,,,52738,48123,100861,https://coviddashboard.sh.ch/impfungen/
@@ -4235,7 +4235,7 @@ BL,2021-09-23,,,,185908,166969,353044,https://www.baselland.ch/politik-und-behor
 BS,2021-09-23,,,,138540,121209,259970,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-23,,,,349149,299220,648751,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-23,,,251725,,,236709,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-23,,,,258699,222451,481150,https://www.lustat.ch/daten?id=28177
+LU,2021-09-23,,,,258699,222450,481149,https://www.lustat.ch/daten?id=28177
 SG,2021-09-23,,,,35146,243015,278161,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-23,,,,35146,243015,278161,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-23,,,,52789,48149,100938,https://coviddashboard.sh.ch/impfungen/
@@ -4252,7 +4252,7 @@ BE,2021-09-24,,,,676183,603006,1279189,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-09-24,,,,186519,167374,354063,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-09-24,,,,138993,122098,261319,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-09-24,,,251725,,,237356,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-24,,,,259620,223683,483303,https://www.lustat.ch/daten?id=28177
+LU,2021-09-24,,,,259620,223682,483302,https://www.lustat.ch/daten?id=28177
 NW,2021-09-24,,,,26580,22319,48899,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-09-24,,,,35489,244124,279613,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-24,,,,35489,244124,279613,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4268,7 +4268,7 @@ BE,2021-09-25,,,,676614,603547,1280161,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-09-25,,,,187407,167930,355509,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-09-25,,,,139248,122466,261956,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-09-25,,,251725,,,237356,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-25,,,,260095,224367,484462,https://www.lustat.ch/daten?id=28177
+LU,2021-09-25,,,,260095,224366,484461,https://www.lustat.ch/daten?id=28177
 SG,2021-09-25,,,,35657,244805,280462,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-25,,,,35657,244805,280462,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-25,,,,53060,48487,101547,https://coviddashboard.sh.ch/impfungen/
@@ -4282,7 +4282,7 @@ BS,2021-09-26,,,,139468,122690,262400,https://data.bs.ch/explore/dataset/100111/
 FL,2021-09-26,,,53015,24036,22606,46642,https://www.llv.li/files/as/impfungen.xlsx
 GE,2021-09-26,,,,352083,300348,652844,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-26,,,251725,,,237929,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-26,,,,260287,224394,484681,https://www.lustat.ch/daten?id=28177
+LU,2021-09-26,,,,260287,224393,484680,https://www.lustat.ch/daten?id=28177
 SG,2021-09-26,,,,35657,244807,280464,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-26,,,,35657,244807,280464,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-26,,,,53061,48488,101549,https://coviddashboard.sh.ch/impfungen/
@@ -4297,8 +4297,8 @@ BS,2021-09-27,,,,139733,123011,262994,https://data.bs.ch/explore/dataset/100111/
 FR,2021-09-27,,,,,,350429,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-09-27,,,,352862,301530,654824,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-27,,,251725,,,238532,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-27,,,,260904,225431,486335,https://www.lustat.ch/daten?id=28177
-NE,2021-09-27,,,,115788,95840,211628,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-09-27,,,,260904,225430,486334,https://www.lustat.ch/daten?id=28177
+NE,2021-09-27,,,,115806,98994,214800,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-27,,,,35855,246126,281981,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-27,,,,35855,246126,281981,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-27,,,,53197,48538,101735,https://coviddashboard.sh.ch/impfungen/
@@ -4313,7 +4313,7 @@ BE,2021-09-28,,,,679856,606031,1285887,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-09-28,,,,188332,169096,357622,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-09-28,,,,139964,123266,263487,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-09-28,,,251725,,,239360,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-28,,,,261226,225833,487059,https://www.lustat.ch/daten?id=28177
+LU,2021-09-28,,,,261226,225832,487058,https://www.lustat.ch/daten?id=28177
 NW,2021-09-28,,,,26757,22635,49392,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-09-28,,,,36082,246832,282914,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-28,,,,36082,246832,282914,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4329,7 +4329,7 @@ BL,2021-09-29,,,,188704,169704,358611,https://www.baselland.ch/politik-und-behor
 BS,2021-09-29,,,,140372,124191,264827,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-29,,,,353957,302924,657351,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-29,,,251725,,,240183,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-29,,,,261897,226615,488512,https://www.lustat.ch/daten?id=28177
+LU,2021-09-29,,,,261897,226614,488511,https://www.lustat.ch/daten?id=28177
 SG,2021-09-29,,,,36254,247509,283763,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-29,,,,36254,247509,283763,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-29,,,,53422,49142,102564,https://coviddashboard.sh.ch/impfungen/
@@ -4344,7 +4344,7 @@ BL,2021-09-30,,,,189165,170287,359673,https://www.baselland.ch/politik-und-behor
 BS,2021-09-30,,,,140576,124434,265281,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-09-30,,,,354989,303926,659422,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-30,,,251725,,,242018,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-09-30,,,,262276,227582,489858,https://www.lustat.ch/daten?id=28177
+LU,2021-09-30,,,,262276,227581,489857,https://www.lustat.ch/daten?id=28177
 SG,2021-09-30,,,,36512,248745,285257,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-30,,,,36512,248745,285257,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-30,,,,53435,49158,102593,https://coviddashboard.sh.ch/impfungen/
@@ -4360,7 +4360,7 @@ BE,2021-10-01,,,,684781,609618,1294399,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-01,,,,189632,170811,360681,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-01,,,,140779,125201,266256,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-01,,,251725,,,242722,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-01,,,,262931,228762,491693,https://www.lustat.ch/daten?id=28177
+LU,2021-10-01,,,,262931,228761,491692,https://www.lustat.ch/daten?id=28177
 NW,2021-10-01,,,,27037,22915,49952,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-01,,,,36697,250243,286940,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-01,,,,36697,250243,286940,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4376,7 +4376,7 @@ BE,2021-10-02,,,,685219,609683,1294902,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-02,,,,189652,170811,360701,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-02,,,,141111,125613,267002,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-02,,,252700,,,242722,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-02,,,,263260,229343,492603,https://www.lustat.ch/daten?id=28177
+LU,2021-10-02,,,,263260,229342,492602,https://www.lustat.ch/daten?id=28177
 SG,2021-10-02,,,,36790,251044,287834,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-02,,,,36790,251044,287834,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-02,,,,53561,49510,103071,https://coviddashboard.sh.ch/impfungen/
@@ -4389,7 +4389,7 @@ BL,2021-10-03,,,,189652,170811,360701,https://www.baselland.ch/politik-und-behor
 BS,2021-10-03,,,,141111,125613,267002,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-10-03,,,53015,24199,22619,46818,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-10-03,,,252700,,,243444,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-03,,,,263264,229367,492631,https://www.lustat.ch/daten?id=28177
+LU,2021-10-03,,,,263264,229366,492630,https://www.lustat.ch/daten?id=28177
 SG,2021-10-03,,,,36791,251056,287847,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-03,,,,36791,251056,287847,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-03,,,,53561,49513,103074,https://coviddashboard.sh.ch/impfungen/
@@ -4405,8 +4405,8 @@ BS,2021-10-04,,,,141366,125910,267567,https://data.bs.ch/explore/dataset/100111/
 FR,2021-10-04,,,,,,356718,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-10-04,,,,357615,306366,664541,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-10-04,,,252700,,,244172,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-04,,,,263679,230131,493810,https://www.lustat.ch/daten?id=28177
-NE,2021-10-04,,,,118107,98120,216227,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-10-04,,,,263679,230130,493809,https://www.lustat.ch/daten?id=28177
+NE,2021-10-04,,,,118125,101274,219399,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-04,,,,36922,252319,289241,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-04,,,,36922,252319,289241,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-04,,,,53618,49636,103254,https://coviddashboard.sh.ch/impfungen/
@@ -4422,7 +4422,7 @@ BE,2021-10-05,,,,688080,613211,1301291,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-05,,,,190361,171580,362201,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-05,,,,141555,126139,267997,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-05,,,258150,,,244808,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-05,,,,264166,230935,495101,https://www.lustat.ch/daten?id=28177
+LU,2021-10-05,,,,264166,230934,495100,https://www.lustat.ch/daten?id=28177
 NW,2021-10-05,,,,27123,23067,50190,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-05,,,,37051,253605,290656,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-05,,,,37051,253605,290656,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4438,7 +4438,7 @@ BE,2021-10-06,,,,689529,615337,1304866,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-06,,,,190527,171895,362690,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-06,,,,141920,126928,269163,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-06,,,258150,,,245849,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-06,,,,264952,232245,497197,https://www.lustat.ch/daten?id=28177
+LU,2021-10-06,,,,264952,232244,497196,https://www.lustat.ch/daten?id=28177
 SG,2021-10-06,,,,37124,254408,291532,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-06,,,,37124,254408,291532,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-06,,,,53777,50087,103864,https://coviddashboard.sh.ch/impfungen/
@@ -4453,7 +4453,7 @@ BE,2021-10-07,,,,691014,617518,1308532,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-07,,,,190783,172231,363287,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-07,,,,142108,127227,269660,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-07,,,258150,,,247204,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-07,,,,265367,233077,498444,https://www.lustat.ch/daten?id=28177
+LU,2021-10-07,,,,265367,233076,498443,https://www.lustat.ch/daten?id=28177
 SG,2021-10-07,,,,37238,255364,292602,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-07,,,,37238,255364,292602,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-07,,,,53791,50115,103906,https://coviddashboard.sh.ch/impfungen/
@@ -4471,7 +4471,7 @@ BL,2021-10-08,,,,190987,172654,363921,https://www.baselland.ch/politik-und-behor
 BS,2021-10-08,,,,142380,127864,270587,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-10-08,,,,360401,310335,671384,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-10-08,,,258150,,,247810,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-08,,,,265769,234571,500340,https://www.lustat.ch/daten?id=28177
+LU,2021-10-08,,,,265769,234570,500339,https://www.lustat.ch/daten?id=28177
 SG,2021-10-08,,,,37391,256516,293907,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-08,,,,37391,256516,293907,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-08,,,,53855,50442,104297,https://coviddashboard.sh.ch/impfungen/
@@ -4484,7 +4484,7 @@ BE,2021-10-09,,,,693040,620297,1313337,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-09,,,,191213,173083,364580,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-09,,,,142607,128304,271259,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-09,,,258150,,,247816,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-09,,,,266007,235463,501470,https://www.lustat.ch/daten?id=28177
+LU,2021-10-09,,,,266007,235462,501469,https://www.lustat.ch/daten?id=28177
 NW,2021-10-09,,,,27390,23533,50923,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-09,,,,37474,257361,294835,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-09,,,,37474,257361,294835,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4498,7 +4498,7 @@ BL,2021-10-10,,,,191213,173083,364580,https://www.baselland.ch/politik-und-behor
 BS,2021-10-10,,,,142607,128305,271260,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-10-10,,,53015,24373,22633,47006,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-10-10,,,258150,,,248230,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-10,,,,266021,235501,501522,https://www.lustat.ch/daten?id=28177
+LU,2021-10-10,,,,266021,235500,501521,https://www.lustat.ch/daten?id=28177
 SG,2021-10-10,,,,37474,257382,294856,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-10,,,,37474,257382,294856,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-10,,,,53898,50482,104380,https://coviddashboard.sh.ch/impfungen/
@@ -4513,8 +4513,8 @@ BL,2021-10-11,,,,191407,173670,365368,https://www.baselland.ch/politik-und-behor
 BS,2021-10-11,,,,142678,128388,271418,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-10-11,,,,,,363267,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-10-11,,,258150,,,248961,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-11,,,,266424,236419,502843,https://www.lustat.ch/daten?id=28177
-NE,2021-10-11,,,,119633,100112,219745,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-10-11,,,,266424,236418,502842,https://www.lustat.ch/daten?id=28177
+NE,2021-10-11,,,,119651,103266,222917,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-11,,,,37602,258451,296053,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-11,,,,37602,258451,296053,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-11,,,,53930,50621,104551,https://coviddashboard.sh.ch/impfungen/
@@ -4530,7 +4530,7 @@ BE,2021-10-12,,,,695766,624823,1320589,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-12,,,,191588,174334,366214,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-12,,,,142784,128439,271579,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-12,,,263650,,,249660,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-12,,,,266718,237520,504238,https://www.lustat.ch/daten?id=28177
+LU,2021-10-12,,,,266718,237519,504237,https://www.lustat.ch/daten?id=28177
 NW,2021-10-12,,,,27413,23611,51024,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-12,,,,37698,259052,296750,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-12,,,,37698,259052,296750,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4546,7 +4546,7 @@ BE,2021-10-13,,,,697455,627345,1324800,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-13,,,,191760,174923,366981,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-13,,,,143184,129341,272890,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-13,,,263650,,,250672,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-13,,,,267036,238648,505684,https://www.lustat.ch/daten?id=28177
+LU,2021-10-13,,,,267036,238647,505683,https://www.lustat.ch/daten?id=28177
 SG,2021-10-13,,,,37792,259711,297503,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-13,,,,37792,259711,297503,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-13,,,,54132,51405,105537,https://coviddashboard.sh.ch/impfungen/
@@ -4561,7 +4561,7 @@ BE,2021-10-14,,,,699092,629985,1329077,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-14,,,,191998,175629,367985,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-14,,,,143430,130359,274167,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-14,,,263650,,,252043,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-14,,,,267388,239863,507251,https://www.lustat.ch/daten?id=28177
+LU,2021-10-14,,,,267388,239862,507250,https://www.lustat.ch/daten?id=28177
 SG,2021-10-14,,,,37857,260687,298544,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-14,,,,37857,260687,298544,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-14,,,,54137,51441,105578,https://coviddashboard.sh.ch/impfungen/
@@ -4578,7 +4578,7 @@ BL,2021-10-15,,,,192228,176379,368974,https://www.baselland.ch/politik-und-behor
 BS,2021-10-15,,,,143675,131226,275281,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-10-15,,,,363941,318819,683496,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-10-15,,,263650,,,252403,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-15,,,,268060,241528,509588,https://www.lustat.ch/daten?id=28177
+LU,2021-10-15,,,,268060,241527,509587,https://www.lustat.ch/daten?id=28177
 NW,2021-10-15,,,,27516,24192,51708,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-15,,,,37960,261981,299941,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-15,,,,37960,261981,299941,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4594,7 +4594,7 @@ BE,2021-10-16,,,,700890,633326,1334216,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-16,,,,192247,176394,369008,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-16,,,,143917,131653,275960,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-16,,,263650,,,252497,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-16,,,,268493,242214,510707,https://www.lustat.ch/daten?id=28177
+LU,2021-10-16,,,,268493,242213,510706,https://www.lustat.ch/daten?id=28177
 SG,2021-10-16,,,,38036,262474,300510,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-16,,,,38036,262474,300510,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-16,,,,54259,51830,106089,https://coviddashboard.sh.ch/impfungen/
@@ -4607,7 +4607,7 @@ BL,2021-10-17,,,,192247,176394,369008,https://www.baselland.ch/politik-und-behor
 BS,2021-10-17,,,,143919,131653,275967,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-10-17,,,53015,24407,22763,47170,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-10-17,,,263650,,,252745,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-17,,,,268519,242238,510757,https://www.lustat.ch/daten?id=28177
+LU,2021-10-17,,,,268519,242237,510756,https://www.lustat.ch/daten?id=28177
 SG,2021-10-17,,,,38040,262486,300526,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-17,,,,38040,262486,300526,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-17,,,,54259,51830,106089,https://coviddashboard.sh.ch/impfungen/
@@ -4622,8 +4622,8 @@ BL,2021-10-18,,,,192348,177054,369780,https://www.baselland.ch/politik-und-behor
 BS,2021-10-18,,,,144028,131746,276198,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-10-18,,,,,,369779,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-10-18,,,263650,,,253314,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-18,,,,268751,243143,511894,https://www.lustat.ch/daten?id=28177
-NE,2021-10-18,,,,120834,102403,223237,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-10-18,,,,268751,243142,511893,https://www.lustat.ch/daten?id=28177
+NE,2021-10-18,,,,120852,105557,226409,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-18,,,,38153,263683,301836,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-18,,,,38153,263683,301836,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-18,,,,54289,52022,106311,https://coviddashboard.sh.ch/impfungen/
@@ -4639,7 +4639,7 @@ BE,2021-10-19,,,,703218,638057,1341275,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-19,,,,192543,177729,370708,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-19,,,,144150,132112,276692,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-19,,,263650,,,253576,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-19,,,,269113,244368,513481,https://www.lustat.ch/daten?id=28177
+LU,2021-10-19,,,,269113,244367,513480,https://www.lustat.ch/daten?id=28177
 SG,2021-10-19,,,,38457,264922,303379,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-19,,,,38457,264922,303379,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-19,,,,54351,52216,106567,https://coviddashboard.sh.ch/impfungen/
@@ -4654,7 +4654,7 @@ BE,2021-10-20,,,,704291,640926,1345217,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-20,,,,192719,178267,371476,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-20,,,,144426,132719,277589,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-20,,,263650,,,254195,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-20,,,,269341,245553,514894,https://www.lustat.ch/daten?id=28177
+LU,2021-10-20,,,,269341,245552,514893,https://www.lustat.ch/daten?id=28177
 NW,2021-10-20,,,,27656,24551,52207,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-20,,,,38777,265695,304472,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-20,,,,38777,265695,304472,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4670,7 +4670,7 @@ BE,2021-10-21,,,,705139,643049,1348188,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-21,,,,192889,178834,372268,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-21,,,,144573,133085,278120,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-21,,,265600,,,254892,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-21,,,,269620,246544,516164,https://www.lustat.ch/daten?id=28177
+LU,2021-10-21,,,,269620,246543,516163,https://www.lustat.ch/daten?id=28177
 SG,2021-10-21,,,,39160,267593,306753,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-21,,,,39160,267593,306753,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-21,,,,54486,52634,107120,https://coviddashboard.sh.ch/impfungen/
@@ -4688,7 +4688,7 @@ BL,2021-10-22,,,,193013,179411,373027,https://www.baselland.ch/politik-und-behor
 BS,2021-10-22,,,,144825,134055,279348,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-10-22,,,,366842,327071,694766,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-10-22,,,265600,,,255320,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-22,,,,269894,247757,517651,https://www.lustat.ch/daten?id=28177
+LU,2021-10-22,,,,269894,247756,517650,https://www.lustat.ch/daten?id=28177
 NW,2021-10-22,,,,27690,24901,52591,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-22,,,,39408,268927,308335,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-22,,,,39408,268927,308335,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4704,7 +4704,7 @@ BE,2021-10-23,,,,706749,645621,1352370,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-23,,,,193221,180313,374199,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-23,,,,144846,134106,279420,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-23,,,265600,,,255320,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-23,,,,270060,248298,518358,https://www.lustat.ch/daten?id=28177
+LU,2021-10-23,,,,270060,248297,518357,https://www.lustat.ch/daten?id=28177
 SG,2021-10-23,,,,39456,269619,309075,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-23,,,,39456,269619,309075,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-23,,,,54600,52916,107516,https://coviddashboard.sh.ch/impfungen/
@@ -4717,7 +4717,7 @@ BL,2021-10-24,,,,193221,180313,374199,https://www.baselland.ch/politik-und-behor
 BS,2021-10-24,,,,144846,134106,279420,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-10-24,,,53015,24456,23761,48217,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-10-24,,,265600,,,255482,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-24,,,,270155,248338,518493,https://www.lustat.ch/daten?id=28177
+LU,2021-10-24,,,,270155,248337,518492,https://www.lustat.ch/daten?id=28177
 SG,2021-10-24,,,,39456,269619,309075,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-24,,,,39456,269619,309075,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-24,,,,54600,52917,107517,https://coviddashboard.sh.ch/impfungen/
@@ -4732,8 +4732,8 @@ BL,2021-10-25,,,,193325,180780,374828,https://www.baselland.ch/politik-und-behor
 BS,2021-10-25,,,,144942,134150,279568,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-10-25,,,,,,373853,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-10-25,,,265600,,,255925,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-25,,,,270341,248867,519208,https://www.lustat.ch/daten?id=28177
-NE,2021-10-25,,,,121700,104805,226505,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-10-25,,,,270341,248866,519207,https://www.lustat.ch/daten?id=28177
+NE,2021-10-25,,,,121718,107959,229677,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-25,,,,39514,270407,309921,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-25,,,,39514,270407,309921,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-25,,,,54628,53050,107678,https://coviddashboard.sh.ch/impfungen/
@@ -4749,7 +4749,7 @@ BE,2021-10-26,,,,708024,649147,1357171,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-26,,,,193513,181257,375548,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-26,,,,144970,134180,279635,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-26,,,265600,,,256334,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-26,,,,270554,249523,520077,https://www.lustat.ch/daten?id=28177
+LU,2021-10-26,,,,270554,249522,520076,https://www.lustat.ch/daten?id=28177
 NW,2021-10-26,,,,27788,25044,52832,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-26,,,,39593,271401,310994,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-26,,,,39593,271401,310994,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4765,7 +4765,7 @@ BE,2021-10-27,,,,708726,650755,1359481,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-27,,,,193645,181623,376113,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-27,,,,145285,134640,280440,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-27,,,265600,,,256961,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-27,,,,270702,250176,520878,https://www.lustat.ch/daten?id=28177
+LU,2021-10-27,,,,270702,250175,520877,https://www.lustat.ch/daten?id=28177
 SG,2021-10-27,,,,39679,272130,311809,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-27,,,,39679,272130,311809,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-27,,,,54768,53390,108158,https://coviddashboard.sh.ch/impfungen/
@@ -4780,7 +4780,7 @@ BE,2021-10-28,,,,709442,652445,1361887,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-28,,,,193818,182117,376839,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-28,,,,145405,134747,280680,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-28,,,271450,,,257441,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-28,,,,270938,250587,521525,https://www.lustat.ch/daten?id=28177
+LU,2021-10-28,,,,270938,250586,521524,https://www.lustat.ch/daten?id=28177
 SG,2021-10-28,,,,39794,273137,312931,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-28,,,,39794,273137,312931,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-28,,,,54772,53403,108175,https://coviddashboard.sh.ch/impfungen/
@@ -4798,7 +4798,7 @@ BL,2021-10-29,,,,193922,182597,377477,https://www.baselland.ch/politik-und-behor
 BS,2021-10-29,,,,145582,135707,281825,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-10-29,,,,369199,333009,703124,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-10-29,,,271450,,,257694,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-29,,,,271124,251362,522486,https://www.lustat.ch/daten?id=28177
+LU,2021-10-29,,,,271124,251361,522485,https://www.lustat.ch/daten?id=28177
 NW,2021-10-29,,,,27892,25352,53244,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-10-29,,,,39894,273945,313839,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-29,,,,39894,273945,313839,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4814,7 +4814,7 @@ BE,2021-10-30,,,,710357,654897,1365254,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-10-30,,,,193934,182618,377510,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-10-30,,,,145805,135783,282148,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-10-30,,,271450,,,257695,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-30,,,,271196,251676,522872,https://www.lustat.ch/daten?id=28177
+LU,2021-10-30,,,,271196,251675,522871,https://www.lustat.ch/daten?id=28177
 SG,2021-10-30,,,,39936,274257,314193,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-30,,,,39936,274257,314193,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-30,,,,54850,53538,108388,https://coviddashboard.sh.ch/impfungen/
@@ -4827,7 +4827,7 @@ BL,2021-10-31,,,,193934,182618,377510,https://www.baselland.ch/politik-und-behor
 BS,2021-10-31,,,,145805,135783,282148,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-10-31,,,53015,24691,23962,48653,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-10-31,,,271450,,,257825,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-10-31,,,,271212,251682,522894,https://www.lustat.ch/daten?id=28177
+LU,2021-10-31,,,,271212,251681,522893,https://www.lustat.ch/daten?id=28177
 SG,2021-10-31,,,,39936,274258,314194,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-31,,,,39936,274258,314194,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-31,,,,54850,53538,108388,https://coviddashboard.sh.ch/impfungen/
@@ -4841,8 +4841,8 @@ BE,2021-11-01,,,,710991,656117,1367108,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-01,,,,194082,182961,378057,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-01,,,,145898,135805,282271,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-01,,,271450,,,258260,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-01,,,,271249,251717,522966,https://www.lustat.ch/daten?id=28177
-NE,2021-11-01,,,,122335,106766,229101,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-11-01,,,,271249,251716,522965,https://www.lustat.ch/daten?id=28177
+NE,2021-11-01,,,,122353,109920,232273,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-01,,,,39947,274274,314221,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-01,,,,39947,274274,314221,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-01,,,,54857,53563,108420,https://coviddashboard.sh.ch/impfungen/
@@ -4856,7 +4856,7 @@ BL,2021-11-02,,,,194270,183239,378591,https://www.baselland.ch/politik-und-behor
 BS,2021-11-02,,,,145942,135822,282338,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-11-02,,,,,,376562,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-02,,,271450,,,258440,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-02,,,,271445,252102,523547,https://www.lustat.ch/daten?id=28177
+LU,2021-11-02,,,,271445,252101,523546,https://www.lustat.ch/daten?id=28177
 NW,2021-11-02,,,,27923,25385,53308,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-02,,,,40075,274989,315064,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-02,,,,40075,274989,315064,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4872,7 +4872,7 @@ BE,2021-11-03,,,,712202,658656,1370858,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-03,,,,194423,183437,379015,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-03,,,,146170,136285,283075,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-03,,,271450,,,258756,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-03,,,,271684,252799,524483,https://www.lustat.ch/daten?id=28177
+LU,2021-11-03,,,,271684,252798,524482,https://www.lustat.ch/daten?id=28177
 SG,2021-11-03,,,,40175,275317,315492,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-03,,,,40175,275317,315492,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-03,,,,54959,53760,108719,https://coviddashboard.sh.ch/impfungen/
@@ -4886,7 +4886,7 @@ BE,2021-11-04,,,,712909,659886,1372795,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-04,,,,194622,183709,379539,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-04,,,,146248,136377,283405,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-04,,,271450,,,259196,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-04,,,,271903,253171,525074,https://www.lustat.ch/daten?id=28177
+LU,2021-11-04,,,,271903,253170,525073,https://www.lustat.ch/daten?id=28177
 SG,2021-11-04,,,,40274,275724,315998,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-04,,,,40274,275724,315998,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-04,,,,54960,53769,108729,https://coviddashboard.sh.ch/impfungen/
@@ -4902,7 +4902,7 @@ BE,2021-11-05,,,,713636,661305,1374941,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-05,,,,194751,183912,379925,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-05,,,,146338,137079,284283,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-05,,,271450,,,259456,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-05,,,,272151,253728,525879,https://www.lustat.ch/daten?id=28177
+LU,2021-11-05,,,,272151,253727,525878,https://www.lustat.ch/daten?id=28177
 NW,2021-11-05,,,,27997,25516,53513,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-05,,,,40445,276336,316781,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-05,,,,40445,276336,316781,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4917,7 +4917,7 @@ BE,2021-11-06,,,,713886,661977,1375863,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-06,,,,194785,183960,380020,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-06,,,,146351,137098,284315,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-06,,,271450,,,259456,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-06,,,,272299,254053,526352,https://www.lustat.ch/daten?id=28177
+LU,2021-11-06,,,,272299,254052,526351,https://www.lustat.ch/daten?id=28177
 SG,2021-11-06,,,,40514,276628,317142,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-06,,,,40514,276628,317142,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-06,,,,55054,53883,108937,https://coviddashboard.sh.ch/impfungen/
@@ -4930,7 +4930,7 @@ BL,2021-11-07,,,,194785,183960,380020,https://www.baselland.ch/politik-und-behor
 BS,2021-11-07,,,,146351,137098,284315,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-11-07,,,55665,24895,24163,49058,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-11-07,,,271450,,,259893,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-07,,,,272314,254069,526383,https://www.lustat.ch/daten?id=28177
+LU,2021-11-07,,,,272314,254068,526382,https://www.lustat.ch/daten?id=28177
 SG,2021-11-07,,,,40519,276628,317147,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-07,,,,40519,276628,317147,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-07,,,,55054,53883,108937,https://coviddashboard.sh.ch/impfungen/
@@ -4946,8 +4946,8 @@ BL,2021-11-08,,,,194868,184136,380318,https://www.baselland.ch/politik-und-behor
 BS,2021-11-08,,,,146517,137214,284676,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-11-08,,,,,,378675,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-08,,,271450,,,260618,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-08,,,,272601,254393,526994,https://www.lustat.ch/daten?id=28177
-NE,2021-11-08,,,,123147,108012,231159,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-11-08,,,,272601,254392,526993,https://www.lustat.ch/daten?id=28177
+NE,2021-11-08,,,,123165,111166,234331,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-08,,,,40922,277063,317985,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-08,,,,40922,277063,317985,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-08,,,,55097,53910,109007,https://coviddashboard.sh.ch/impfungen/
@@ -4962,7 +4962,7 @@ BE,2021-11-09,,,,715318,663999,1379317,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-09,,,,194998,184348,380730,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-09,,,,146744,137288,285142,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-09,,,271450,,,261383,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-09,,,,272923,254670,527593,https://www.lustat.ch/daten?id=28177
+LU,2021-11-09,,,,272923,254669,527592,https://www.lustat.ch/daten?id=28177
 SG,2021-11-09,,,,41262,277410,318672,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-09,,,,41262,277410,318672,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-09,,,,55174,53944,109118,https://coviddashboard.sh.ch/impfungen/
@@ -4977,7 +4977,7 @@ BE,2021-11-10,,,,716070,665410,1381480,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-10,,,,195115,184563,381132,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-10,,,,146987,137670,285877,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-10,,,271450,,,262307,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-10,,,,273309,254970,528279,https://www.lustat.ch/daten?id=28177
+LU,2021-11-10,,,,273309,254969,528278,https://www.lustat.ch/daten?id=28177
 NW,2021-11-10,,,,28098,25635,53803,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-10,,,,41679,277685,319364,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-10,,,,41679,277685,319364,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -4992,7 +4992,7 @@ BE,2021-11-11,,,,716683,666599,1383282,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-11,,,,195249,184784,381958,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-11,,,,147065,137740,286290,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-11,,,288725,,,263476,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-11,,,,273659,255215,528874,https://www.lustat.ch/daten?id=28177
+LU,2021-11-11,,,,273659,255214,528873,https://www.lustat.ch/daten?id=28177
 SG,2021-11-11,,,,42149,278004,320153,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-11,,,,42149,278004,320153,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-11,,,,55304,54109,109413,https://coviddashboard.sh.ch/impfungen/
@@ -5009,7 +5009,7 @@ BL,2021-11-12,,,,195504,185017,383049,https://www.baselland.ch/politik-und-behor
 BS,2021-11-12,,,,147181,138028,286893,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-11-12,,,,373388,339829,718979,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-11-12,,,288725,,,264131,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-12,,,,274033,255686,529719,https://www.lustat.ch/daten?id=28177
+LU,2021-11-12,,,,274033,255685,529718,https://www.lustat.ch/daten?id=28177
 SG,2021-11-12,,,,42727,278442,321169,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-12,,,,42727,278442,321169,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-12,,,,55369,54188,109557,https://coviddashboard.sh.ch/impfungen/
@@ -5024,7 +5024,7 @@ BE,2021-11-13,,,,717910,668403,1386313,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-13,,,,195504,185029,383061,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-13,,,,147376,138258,287389,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-13,,,288725,,,264198,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-13,,,,274352,255887,530239,https://www.lustat.ch/daten?id=28177
+LU,2021-11-13,,,,274352,255886,530238,https://www.lustat.ch/daten?id=28177
 SG,2021-11-13,,,,42999,278702,321701,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-13,,,,42999,278702,321701,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-13,,,,55478,54221,109699,https://coviddashboard.sh.ch/impfungen/
@@ -5037,7 +5037,7 @@ BL,2021-11-14,,,,195514,185030,383089,https://www.baselland.ch/politik-und-behor
 BS,2021-11-14,,,,147439,138286,287490,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-11-14,,,56835,25162,24230,49392,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-11-14,,,288725,,,264823,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-14,,,,274538,255950,530488,https://www.lustat.ch/daten?id=28177
+LU,2021-11-14,,,,274538,255949,530487,https://www.lustat.ch/daten?id=28177
 SG,2021-11-14,,,,43005,278710,321715,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-14,,,,43005,278710,321715,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-14,,,,55478,54222,109700,https://coviddashboard.sh.ch/impfungen/
@@ -5051,8 +5051,8 @@ BL,2021-11-15,,,,195626,185132,383944,https://www.baselland.ch/politik-und-behor
 BS,2021-11-15,,,,147524,138366,289415,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-11-15,,,,,,379470,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-15,,,288725,,,265554,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-15,,,,274661,256175,530836,https://www.lustat.ch/daten?id=28177
-NE,2021-11-15,,,,123797,108939,232736,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-11-15,,,,274661,256174,530835,https://www.lustat.ch/daten?id=28177
+NE,2021-11-15,,,,123815,112093,235908,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-15,,,,43290,279118,322408,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-15,,,,43290,279118,322408,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-15,,,,55483,54234,109717,https://coviddashboard.sh.ch/impfungen/
@@ -5068,7 +5068,7 @@ BE,2021-11-16,,,,719045,670016,1389061,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-16,,,,195827,185334,385078,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-16,,,,147644,138445,291645,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-16,,,288725,,,266823,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-16,,,,274832,256380,531212,https://www.lustat.ch/daten?id=28177
+LU,2021-11-16,,,,274832,256379,531211,https://www.lustat.ch/daten?id=28177
 SG,2021-11-16,,,,43595,279377,322972,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-16,,,,43595,279377,322972,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-16,,,,55541,54261,109802,https://coviddashboard.sh.ch/impfungen/
@@ -5082,7 +5082,7 @@ BE,2021-11-17,,,,719692,670922,1390614,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-17,,,,195959,185485,386061,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-17,,,,147784,138713,293995,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-17,,,288725,,,267923,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-17,,,,275006,256631,531637,https://www.lustat.ch/daten?id=28177
+LU,2021-11-17,,,,275006,256630,531636,https://www.lustat.ch/daten?id=28177
 SG,2021-11-17,,,,43903,279587,323490,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-17,,,,43903,279587,323490,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-17,,,,55578,54380,109958,https://coviddashboard.sh.ch/impfungen/
@@ -5097,7 +5097,7 @@ BE,2021-11-18,,,,720326,671679,1392005,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-18,,,,196097,185705,387234,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-18,,,,147883,138802,295557,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-18,,,296525,,,269277,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-18,,,,275224,256945,532169,https://www.lustat.ch/daten?id=28177
+LU,2021-11-18,,,,275224,256944,532168,https://www.lustat.ch/daten?id=28177
 SG,2021-11-18,,,,44196,279885,324081,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-18,,,,44196,279885,324081,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-18,,,,55591,54390,109981,https://coviddashboard.sh.ch/impfungen/
@@ -5115,7 +5115,7 @@ BL,2021-11-19,,,,196241,185842,387788,https://www.baselland.ch/politik-und-behor
 BS,2021-11-19,,,,148020,139078,296830,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-11-19,,,,375411,342223,731924,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-11-19,,,296525,,,269548,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-19,,,,275435,257311,532746,https://www.lustat.ch/daten?id=28177
+LU,2021-11-19,,,,275437,257310,532747,https://www.lustat.ch/daten?id=28177
 NW,2021-11-19,,,66682,28082,25980,54763,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-19,,,,44562,280269,324831,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-19,,,,44562,280269,324831,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5131,7 +5131,7 @@ BE,2021-11-20,,,,721386,673095,1394481,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-20,,,,196255,185857,388952,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-20,,,,148047,139097,296911,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-20,,,296525,,,269550,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-20,,,,275628,257483,533111,https://www.lustat.ch/daten?id=28177
+LU,2021-11-20,,,,275630,257482,533112,https://www.lustat.ch/daten?id=28177
 SG,2021-11-20,,,,44781,280651,325432,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-20,,,,44781,280651,325432,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-20,,,,55651,54462,110113,https://coviddashboard.sh.ch/impfungen/
@@ -5144,7 +5144,7 @@ BL,2021-11-21,,,,196255,185857,388952,https://www.baselland.ch/politik-und-behor
 BS,2021-11-21,,,,148047,139097,296911,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FL,2021-11-21,,,56835,25483,24270,49753,https://www.llv.li/files/as/impfungen.xlsx
 GR,2021-11-21,,,296525,,,270197,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-21,,,,275630,257485,533115,https://www.lustat.ch/daten?id=28177
+LU,2021-11-21,,,,275632,257484,533116,https://www.lustat.ch/daten?id=28177
 SG,2021-11-21,,,,44781,280652,325433,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-21,,,,44781,280652,325433,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-21,,,,55651,54462,110113,https://coviddashboard.sh.ch/impfungen/
@@ -5158,8 +5158,8 @@ BL,2021-11-22,,,,196369,185994,390272,https://www.baselland.ch/politik-und-behor
 BS,2021-11-22,,,,148122,139180,298478,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-11-22,,,,,,388765,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-22,,,296525,,,271066,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-22,,,,275778,257635,533413,https://www.lustat.ch/daten?id=28177
-NE,2021-11-22,,,,124222,109724,233946,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-11-22,,,,275780,257634,533414,https://www.lustat.ch/daten?id=28177
+NE,2021-11-22,,,,124240,112878,237118,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-22,,,,45036,280969,326005,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-22,,,,45036,280969,326005,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-22,,,,55659,54470,110129,https://coviddashboard.sh.ch/impfungen/
@@ -5175,7 +5175,7 @@ BE,2021-11-23,,,,722513,674088,1396601,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-23,,,,196558,186201,391832,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-23,,,,148255,139222,300780,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-23,,,296525,,,273217,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-23,,,,275958,257764,533722,https://www.lustat.ch/daten?id=28177
+LU,2021-11-23,,,,275960,257763,533723,https://www.lustat.ch/daten?id=28177
 NW,2021-11-23,,,66682,28130,26052,55445,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-23,,,,45196,281200,326396,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-23,,,,45196,281200,326396,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5191,7 +5191,7 @@ BE,2021-11-24,,,,723160,674681,1397841,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-24,,,,196688,186374,393375,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-24,,,,148467,139527,303439,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-24,,,296525,,,274875,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-24,,,,276157,257995,534152,https://www.lustat.ch/daten?id=28177
+LU,2021-11-24,,,,276159,257994,534153,https://www.lustat.ch/daten?id=28177
 SG,2021-11-24,,,,45432,281402,326834,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-24,,,,45432,281402,326834,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-24,,,,55850,54636,110486,https://coviddashboard.sh.ch/impfungen/
@@ -5206,7 +5206,7 @@ BE,2021-11-25,,,,723703,675160,1398863,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-25,,,,196814,186579,395087,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-25,,,,148597,139636,305283,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-25,,,312175,,,277119,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-25,,,,276349,258164,534513,https://www.lustat.ch/daten?id=28177
+LU,2021-11-25,,,,276351,258163,534514,https://www.lustat.ch/daten?id=28177
 SG,2021-11-25,,,,45669,281712,327381,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-25,,,,45669,281712,327381,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-25,,,,55861,54641,110502,https://coviddashboard.sh.ch/impfungen/
@@ -5224,7 +5224,7 @@ BL,2021-11-26,,,,196958,186710,396798,https://www.baselland.ch/politik-und-behor
 BS,2021-11-26,,,,148778,139874,307089,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-11-26,,,,377075,344188,745726,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-11-26,,,312175,,,277727,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-26,,,,276542,258364,534906,https://www.lustat.ch/daten?id=28177
+LU,2021-11-26,,,,276541,258363,534904,https://www.lustat.ch/daten?id=28177
 NW,2021-11-26,,,,28195,26131,56809,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-26,,,,45915,282060,327975,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-26,,,,45915,282060,327975,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5239,7 +5239,7 @@ BE,2021-11-27,,,,724350,676012,1400362,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-27,,,,196967,186727,397019,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-27,,,,148970,140040,308319,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-27,,,312175,,,277739,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-27,,,,276639,258450,535089,https://www.lustat.ch/daten?id=28177
+LU,2021-11-27,,,,276638,258449,535087,https://www.lustat.ch/daten?id=28177
 SG,2021-11-27,,,,46120,282276,328396,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-27,,,,46120,282276,328396,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-27,,,,55920,54721,110641,https://coviddashboard.sh.ch/impfungen/
@@ -5251,7 +5251,7 @@ BE,2021-11-28,,,,724350,676012,1400362,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-28,,,,196968,186727,397020,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-28,,,,148970,140040,308320,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-28,,,312175,,,279396,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-28,,,,276667,258463,535130,https://www.lustat.ch/daten?id=28177
+LU,2021-11-28,,,,276666,258462,535128,https://www.lustat.ch/daten?id=28177
 SG,2021-11-28,,,,46122,282278,328400,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-28,,,,46122,282278,328400,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-28,,,,55920,54722,110642,https://coviddashboard.sh.ch/impfungen/
@@ -5265,8 +5265,8 @@ BL,2021-11-29,,,,197150,186874,398755,https://www.baselland.ch/politik-und-behor
 BS,2021-11-29,,,,149093,140099,310354,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-11-29,,,,,,393022,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-29,,,312175,,,281172,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-29,,,,276842,258577,535419,https://www.lustat.ch/daten?id=28177
-NE,2021-11-29,,,,124579,110344,234923,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-11-29,,,,276841,258576,535417,https://www.lustat.ch/daten?id=28177
+NE,2021-11-29,,,,124597,113498,238095,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-29,,,,46400,282561,328961,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-29,,,,46400,282561,328961,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-29,,,,55928,54726,110654,https://coviddashboard.sh.ch/impfungen/
@@ -5281,7 +5281,7 @@ BE,2021-11-30,,,,725499,676993,1402492,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-11-30,,,,197212,187034,401055,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-11-30,,,,149270,140158,312868,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-30,,,312175,,,284010,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-11-30,,,,277027,258717,535744,https://www.lustat.ch/daten?id=28177
+LU,2021-11-30,,,,277026,258715,535741,https://www.lustat.ch/daten?id=28177
 NW,2021-11-30,,,,28240,26194,57473,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-11-30,,,,46571,282712,329283,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-30,,,,46571,282712,329283,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -5297,7 +5297,7 @@ BE,2021-12-01,,,,725897,677347,1403244,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-12-01,,,,197288,187191,403124,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-01,,,,149476,140365,315650,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-01,,,312175,,,285713,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-01,,,,277242,258928,536170,https://www.lustat.ch/daten?id=28177
+LU,2021-12-01,,,,277241,258926,536167,https://www.lustat.ch/daten?id=28177
 SG,2021-12-01,,,,46877,283065,329942,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-12-01,,,,46877,283065,329942,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-12-01,,,,56089,54878,110967,https://coviddashboard.sh.ch/impfungen/
@@ -5311,7 +5311,7 @@ AG,2021-12-02,,,1105250,459362,434585,957482,https://www.ag.ch/de/themen_1/coron
 BL,2021-12-02,,,,197582,187432,404869,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-02,,,,149625,140490,317862,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-02,,,315100,,,287908,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-02,,,,277483,259083,536566,https://www.lustat.ch/daten?id=28177
+LU,2021-12-02,,,,277482,259081,536563,https://www.lustat.ch/daten?id=28177
 SG,2021-12-02,,,,47092,283318,330410,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-12-02,,,,47092,283318,330410,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-12-02,,,,56096,54884,110980,https://coviddashboard.sh.ch/impfungen/
@@ -5327,7 +5327,7 @@ AI,2021-12-03,,,,9146,8268,17414,https://www.ai.ch/themen/gesundheit-alter-und-s
 BL,2021-12-03,,,,197637,187515,406869,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-03,,,,149792,140672,320540,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-03,,,315100,,,288783,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-03,,,,277775,259328,537103,https://www.lustat.ch/daten?id=28177
+LU,2021-12-03,,,,277774,259326,537100,https://www.lustat.ch/daten?id=28177
 SG,2021-12-03,,,,47512,283863,331375,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-12-03,,,,47512,283863,331375,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-12-03,,,,56161,54941,111102,https://coviddashboard.sh.ch/impfungen/
@@ -5341,7 +5341,7 @@ AG,2021-12-04,,,1116000,460398,435514,966460,https://www.ag.ch/de/themen_1/coron
 BL,2021-12-04,,,,197677,187559,408402,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-04,,,,149826,140702,320835,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-04,,,315100,,,288785,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-04,,,,278099,259464,537563,https://www.lustat.ch/daten?id=28177
+LU,2021-12-04,,,,278098,259462,537560,https://www.lustat.ch/daten?id=28177
 SG,2021-12-04,,,,47783,284136,331919,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-12-04,,,,47783,284136,331919,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-12-04,,,,56164,54942,111106,https://coviddashboard.sh.ch/impfungen/
@@ -5352,7 +5352,7 @@ AG,2021-12-05,,,1116000,460525,435572,967999,https://www.ag.ch/de/themen_1/coron
 BL,2021-12-05,,,,197682,187569,409448,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-05,,,,149826,140702,320835,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-05,,,315100,,,290438,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-05,,,,278107,259468,537575,https://www.lustat.ch/daten?id=28177
+LU,2021-12-05,,,,278106,259466,537572,https://www.lustat.ch/daten?id=28177
 SG,2021-12-05,,,,47787,284137,331924,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-12-05,,,,47787,284137,331924,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-12-05,,,,56164,54944,111108,https://coviddashboard.sh.ch/impfungen/
@@ -5366,8 +5366,8 @@ BS,2021-12-06,,,,149917,140790,323093,https://data.bs.ch/explore/dataset/100111/
 FR,2021-12-06,,,,,,406896,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2021-12-06,,,,379167,347006,769426,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-12-06,,,315100,,,292445,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-06,,,,278322,259677,537999,https://www.lustat.ch/daten?id=28177
-NE,2021-12-06,,,,124980,110837,235817,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-12-06,,,,278321,259676,537997,https://www.lustat.ch/daten?id=28177
+NE,2021-12-06,,,,124998,113991,238989,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-06,,,,56174,54949,111123,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-06,,,,185871,175504,385905,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-06,,,,170268,158987,357257,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5380,7 +5380,7 @@ AG,2021-12-07,,,1116000,461670,436610,978549,https://www.ag.ch/de/themen_1/coron
 BL,2021-12-07,,,,198112,187765,414348,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-07,,,,150107,140914,325655,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-07,,,315100,,,294407,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-07,,,,278634,259927,538561,https://www.lustat.ch/daten?id=28177
+LU,2021-12-07,,,,278634,259926,538560,https://www.lustat.ch/daten?id=28177
 SH,2021-12-07,,,,56262,55077,111339,https://coviddashboard.sh.ch/impfungen/
 TG,2021-12-07,,,319175,170360,159107,359760,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2021-12-07,,,,270305,243519,513824,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -5391,7 +5391,7 @@ AG,2021-12-08,,,1116000,462279,437094,983831,https://www.ag.ch/de/themen_1/coron
 BL,2021-12-08,,,,198214,187825,417257,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-08,,,,150390,141188,328391,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-08,,,315100,,,296272,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-08,,,,278744,260023,538767,https://www.lustat.ch/daten?id=28177
+LU,2021-12-08,,,,278744,260022,538766,https://www.lustat.ch/daten?id=28177
 SH,2021-12-08,,,,56352,55189,111541,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-08,,,,186093,175717,388305,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-08,,,320175,170462,159201,362128,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5419,7 +5419,7 @@ BE,2021-12-10,,,,715721,715721,1578424,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-12-10,,,,198650,188195,422642,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-10,,,,150630,141530,333199,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-10,,,315100,,,299472,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-10,,,,279462,260637,540099,https://www.lustat.ch/daten?id=28177
+LU,2021-12-10,,,,279462,260638,540100,https://www.lustat.ch/daten?id=28177
 NW,2021-12-10,,,,28407,26416,60726,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-12-10,,,,56420,55247,111667,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-10,,,,186550,176012,393878,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5433,7 +5433,7 @@ BE,2021-12-11,,,,715919,715919,1584580,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-12-11,,,,198718,188215,425309,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-11,,,,150873,141730,334808,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-11,,,315100,,,299489,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-11,,,,279686,260754,540440,https://www.lustat.ch/daten?id=28177
+LU,2021-12-11,,,,279686,260755,540441,https://www.lustat.ch/daten?id=28177
 SH,2021-12-11,,,,56431,55259,111690,https://coviddashboard.sh.ch/impfungen/
 TG,2021-12-11,,,,170757,159677,368873,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-12-11,,,,590235,504747,1094982,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5443,7 +5443,7 @@ BE,2021-12-12,,,,715920,715920,1584717,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-12-12,,,,198718,188215,425309,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-12,,,,150873,141730,334808,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-12,,,315100,,,301106,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-12,,,,279704,260774,540478,https://www.lustat.ch/daten?id=28177
+LU,2021-12-12,,,,279704,260775,540479,https://www.lustat.ch/daten?id=28177
 SH,2021-12-12,,,,56435,55263,111698,https://coviddashboard.sh.ch/impfungen/
 TG,2021-12-12,,,,170793,159690,370282,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2021-12-12,,,,590339,504826,1095165,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5455,8 +5455,8 @@ BL,2021-12-13,,,,199011,188488,428068,https://www.baselland.ch/politik-und-behor
 BS,2021-12-13,,,,150993,141847,337175,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2021-12-13,,,,,,416351,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-12-13,,,315100,,,302846,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-13,,,,279875,261014,540889,https://www.lustat.ch/daten?id=28177
-NE,2021-12-13,,,,125490,111379,236869,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2021-12-13,,,,279876,261015,540891,https://www.lustat.ch/daten?id=28177
+NE,2021-12-13,,,,125508,114533,240041,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-13,,,,56439,55269,111708,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-13,,,,186763,176181,396369,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-13,,,,170871,159849,372364,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5470,7 +5470,7 @@ BE,2021-12-14,,,,717129,717129,1605247,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-12-14,,,,199113,188619,431426,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-14,,,,151140,141976,339449,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-14,,,315100,,,304911,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-14,,,,280112,261181,541293,https://www.lustat.ch/daten?id=28177
+LU,2021-12-14,,,,280113,261182,541295,https://www.lustat.ch/daten?id=28177
 NW,2021-12-14,,,,28571,26534,61707,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2021-12-14,,,,56542,55340,111882,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-14,,,,186826,176221,398856,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5484,7 +5484,7 @@ BE,2021-12-15,,,,717817,717817,1617129,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2021-12-15,,,,199208,188665,434677,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-12-15,,,,151357,142340,342069,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-15,,,315100,,,306888,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-15,,,,280320,261403,541723,https://www.lustat.ch/daten?id=28177
+LU,2021-12-15,,,,280321,261404,541725,https://www.lustat.ch/daten?id=28177
 SH,2021-12-15,,,,56638,55445,112083,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-15,,,,187025,176528,400992,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-15,,,,171090,160115,376544,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5498,7 +5498,7 @@ BL,2021-12-16,,,,199634,188993,438499,https://www.baselland.ch/politik-und-behor
 BS,2021-12-16,,,,151459,142485,344424,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2021-12-16,,,,381627,350122,803918,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-12-16,,,320100,,,309176,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2021-12-16,,,,280560,261605,542165,https://www.lustat.ch/daten?id=28177
+LU,2021-12-16,,,,280561,261606,542167,https://www.lustat.ch/daten?id=28177
 SH,2021-12-16,,,,56655,55452,112107,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-16,,,,187091,176599,403050,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-16,,,,171192,160208,378803,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5550,7 +5550,7 @@ BS,2021-12-20,,,,151711,142847,349694,https://data.bs.ch/explore/dataset/100111/
 FR,2021-12-20,,,,,,426118,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-12-20,,,320100,,,316775,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-12-20,,,,281237,262252,543489,https://www.lustat.ch/daten?id=28177
-NE,2021-12-20,,,,125769,111842,237611,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-12-20,,,,125787,114996,240783,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-20,,,,56749,55527,112276,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-20,,,,187653,177051,412042,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-20,,,,171625,160579,385764,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5636,7 +5636,7 @@ BL,2021-12-27,,,,200548,189838,462270,https://www.baselland.ch/politik-und-behor
 BS,2021-12-27,,,,152415,143542,358795,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-27,,,337000,,,328428,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-12-27,,,,281967,262998,544965,https://www.lustat.ch/daten?id=28177
-NE,2021-12-27,,,,125945,112101,238046,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-12-27,,,,125963,115255,241218,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-27,,,,56987,55734,112721,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-27,,,,188121,177637,423246,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-27,,,,172163,160854,396661,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5720,7 +5720,7 @@ BS,2022-01-03,,,,152791,144094,369598,https://data.bs.ch/explore/dataset/100111/
 FR,2022-01-03,,,,,,440325,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2022-01-03,,,342500,,,337027,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-03,,,,282390,263672,546062,https://www.lustat.ch/daten?id=28177
-NE,2022-01-03,,,,126338,112283,238621,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-03,,,,126356,115437,241793,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-01-03,,,,57178,55917,113095,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-03,,,,188689,178113,432918,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-03,,,,172482,161208,406135,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5734,7 +5734,7 @@ BL,2022-01-04,,,,200984,190505,479217,https://www.baselland.ch/politik-und-behor
 BS,2022-01-04,,,,152938,144315,372468,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-01-04,,,,385538,354526,886488,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2022-01-04,,,342500,,,338734,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-04,,,,282619,263951,546570,https://www.lustat.ch/daten?id=28177
+LU,2022-01-04,,,,282618,263951,546569,https://www.lustat.ch/daten?id=28177
 SH,2022-01-04,,,,57216,55979,113195,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-04,,,,188753,178161,434972,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-04,,,338475,172541,161308,408176,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5747,7 +5747,7 @@ BE,2022-01-05,,,,726106,726106,1773385,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-05,,,,201441,190558,481473,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-05,,,,153198,144636,375181,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-05,,,342500,,,340401,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-05,,,,282817,264190,547007,https://www.lustat.ch/daten?id=28177
+LU,2022-01-05,,,,282816,264190,547006,https://www.lustat.ch/daten?id=28177
 SH,2022-01-05,,,,57291,56074,113365,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-05,,,,188963,178485,437314,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-05,,,338875,172728,161352,410382,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5760,7 +5760,7 @@ BE,2022-01-06,,,,726657,726657,1784892,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-06,,,,201636,191098,485047,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-06,,,,153249,144789,378094,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-06,,,347375,,,342129,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-06,,,,283130,264532,547662,https://www.lustat.ch/daten?id=28177
+LU,2022-01-06,,,,283129,264532,547661,https://www.lustat.ch/daten?id=28177
 NW,2022-01-06,,,,28862,28862,69791,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-06,,,,57293,56082,113375,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-06,,,,189014,178524,439451,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5774,7 +5774,7 @@ BE,2022-01-07,,,,727431,727431,1796325,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-07,,,,201701,191149,488509,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-07,,,,153329,145034,381083,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-07,,,347375,,,342486,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-07,,,,283344,264845,548189,https://www.lustat.ch/daten?id=28177
+LU,2022-01-07,,,,283343,264845,548188,https://www.lustat.ch/daten?id=28177
 SH,2022-01-07,,,,57305,56088,113393,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-07,,,,189275,178901,444288,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-07,,,343750,172961,161592,415009,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5787,7 +5787,7 @@ BE,2022-01-08,,,,727698,727698,1800908,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-08,,,,202456,191165,490117,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-08,,,,153517,145113,382763,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-08,,,347375,,,342494,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-08,,,,283541,264987,548528,https://www.lustat.ch/daten?id=28177
+LU,2022-01-08,,,,283540,264987,548527,https://www.lustat.ch/daten?id=28177
 SH,2022-01-08,,,,57357,56162,113519,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-08,,,,173242,161642,416855,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2022-01-08,,,,597542,511277,1108819,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5797,7 +5797,7 @@ BE,2022-01-09,,,,727730,727730,1800973,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-09,,,,202456,191165,490117,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-09,,,,153517,145113,382763,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-09,,,347375,,,343820,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-09,,,,283579,265014,548593,https://www.lustat.ch/daten?id=28177
+LU,2022-01-09,,,,283578,265014,548592,https://www.lustat.ch/daten?id=28177
 SH,2022-01-09,,,,57441,56173,113614,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-09,,,,173373,161671,418221,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2022-01-09,,,,597606,511361,1108967,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5809,8 +5809,8 @@ BL,2022-01-10,,,,202669,191523,492999,https://www.baselland.ch/politik-und-behor
 BS,2022-01-10,,,,153570,145199,384905,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-01-10,,,,,,452748,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2022-01-10,,,347375,,,345284,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-10,,,,283734,265260,548994,https://www.lustat.ch/daten?id=28177
-NE,2022-01-10,,,,126760,112643,239403,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2022-01-10,,,,283733,265260,548993,https://www.lustat.ch/daten?id=28177
+NE,2022-01-10,,,,126778,115797,242575,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-01-10,,,,28950,28950,71504,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-10,,,,57445,56187,113632,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-10,,,,189380,179093,447209,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5823,7 +5823,7 @@ BE,2022-01-11,,,,728996,728996,1821871,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-11,,,,202728,191637,496384,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-11,,,,153689,145460,386928,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-11,,,347375,,,346564,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-11,,,,283898,265464,549362,https://www.lustat.ch/daten?id=28177
+LU,2022-01-11,,,,283897,265464,549361,https://www.lustat.ch/daten?id=28177
 SH,2022-01-11,,,,57480,56211,113691,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-11,,,,189492,179170,450320,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-11,,,,173519,161893,421940,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5836,7 +5836,7 @@ BE,2022-01-12,,,,729694,729694,1833135,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-12,,,,203135,191739,498359,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-12,,,,154018,145743,389312,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-12,,,347375,,,347939,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-12,,,,284783,265616,550399,https://www.lustat.ch/daten?id=28177
+LU,2022-01-12,,,,284781,265616,550397,https://www.lustat.ch/daten?id=28177
 NW,2022-01-12,,,,29008,29008,72323,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-12,,,,57506,56276,113782,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-12,,,,189614,179428,453305,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5850,7 +5850,7 @@ BE,2022-01-13,,,,730266,730266,1842851,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-13,,,,203337,192229,501481,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-13,,,,154079,145856,391813,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-13,,,360375,,,349382,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-13,,,,284937,265834,550771,https://www.lustat.ch/daten?id=28177
+LU,2022-01-13,,,,284935,265834,550769,https://www.lustat.ch/daten?id=28177
 NW,2022-01-13,,,,29022,29022,72817,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-13,,,,57522,56293,113815,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-13,,,,189752,179490,455727,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5866,7 +5866,7 @@ BL,2022-01-14,,,,203389,192289,504670,https://www.baselland.ch/politik-und-behor
 BS,2022-01-14,,,,154127,145998,394442,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-01-14,,,,385538,354708,886488,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-14,,,360375,,,350098,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-14,,,,285073,266101,551174,https://www.lustat.ch/daten?id=28177
+LU,2022-01-14,,,,285071,266101,551172,https://www.lustat.ch/daten?id=28177
 NW,2022-01-14,,,,29029,29029,73230,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-14,,,,57524,56294,113818,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-14,,,,190520,179909,460469,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5879,7 +5879,7 @@ BE,2022-01-15,,,,731344,731344,1858502,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-15,,,,204097,192303,505672,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-15,,,,154865,146027,395315,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-15,,,360375,,,350279,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-15,,,,285641,266224,551865,https://www.lustat.ch/daten?id=28177
+LU,2022-01-15,,,,285639,266224,551863,https://www.lustat.ch/daten?id=28177
 SH,2022-01-15,,,,57545,56387,113932,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-15,,,,174320,162232,428257,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2022-01-15,,,,599168,513253,1112421,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5889,7 +5889,7 @@ BE,2022-01-16,,,,731382,731382,1858594,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-16,,,,204097,192303,505677,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-16,,,,154865,146027,395315,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-16,,,360375,,,351050,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-16,,,,285671,266248,551919,https://www.lustat.ch/daten?id=28177
+LU,2022-01-16,,,,285669,266248,551917,https://www.lustat.ch/daten?id=28177
 SH,2022-01-16,,,,57647,56392,114039,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-16,,,,174402,162295,428787,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2022-01-16,,,,599219,513333,1112552,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5902,8 +5902,8 @@ BS,2022-01-17,,,,154905,146124,397144,https://data.bs.ch/explore/dataset/100111/
 FR,2022-01-17,,,,,,470143,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2022-01-17,,,,385825,355166,893539,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-17,,,360375,,,352068,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-17,,,,285756,266475,552231,https://www.lustat.ch/daten?id=28177
-NE,2022-01-17,,,,127056,113055,240111,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2022-01-17,,,,285754,266475,552229,https://www.lustat.ch/daten?id=28177
+NE,2022-01-17,,,,127074,116209,243283,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-01-17,,,,29069,29069,74009,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-17,,,,57655,56407,114062,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-17,,,,190609,180054,462748,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5918,7 +5918,7 @@ BL,2022-01-18,,,,204264,192629,511005,https://www.baselland.ch/politik-und-behor
 BS,2022-01-18,,,,155266,146311,398916,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-01-18,,,,385993,355283,896286,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-18,,,360375,,,352883,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-18,,,,285882,266647,552529,https://www.lustat.ch/daten?id=28177
+LU,2022-01-18,,,,285880,266647,552527,https://www.lustat.ch/daten?id=28177
 SH,2022-01-18,,,,57698,56449,114147,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-18,,,,190675,180108,464649,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-18,,,,174485,162492,430991,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5932,7 +5932,7 @@ BL,2022-01-19,,,,204615,192665,512646,https://www.baselland.ch/politik-und-behor
 BS,2022-01-19,,,,155540,146719,400622,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-01-19,,,,386299,355456,896286,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-19,,,360375,,,353716,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-19,,,,286380,266753,553133,https://www.lustat.ch/daten?id=28177
+LU,2022-01-19,,,,286378,266753,553131,https://www.lustat.ch/daten?id=28177
 SH,2022-01-19,,,,57714,56528,114242,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-19,,,,190821,180280,466814,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-19,,,,174667,162579,432114,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5945,7 +5945,7 @@ BE,2022-01-20,,,,733606,733606,1893892,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-20,,,,204767,192968,514977,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-20,,,,155567,146910,402337,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-20,,,360375,,,354647,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-20,,,,286478,266944,553422,https://www.lustat.ch/daten?id=28177
+LU,2022-01-20,,,,286476,266944,553420,https://www.lustat.ch/daten?id=28177
 SH,2022-01-20,,,,57722,56559,114281,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-20,,,,190849,180319,468441,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-20,,,,174777,162685,433228,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5960,7 +5960,7 @@ BL,2022-01-21,,,,204819,193017,517642,https://www.baselland.ch/politik-und-behor
 BS,2022-01-21,,,,155606,146979,404055,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-01-21,,,,386976,355764,908973,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-21,,,360375,,,354837,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-21,,,,286585,267137,553722,https://www.lustat.ch/daten?id=28177
+LU,2022-01-21,,,,286583,267137,553720,https://www.lustat.ch/daten?id=28177
 NW,2022-01-21,,,,29128,29128,74859,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-21,,,,57722,56560,114282,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-21,,,,191465,180494,471263,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5974,7 +5974,7 @@ BE,2022-01-22,,,,734148,734148,1906554,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-22,,,,205092,193030,518388,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-22,,,,155613,146983,404113,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2022-01-22,,,360375,,,354840,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
-LU,2022-01-22,,,,286775,267207,553982,https://www.lustat.ch/daten?id=28177
+LU,2022-01-22,,,,286773,267207,553980,https://www.lustat.ch/daten?id=28177
 SH,2022-01-22,,,,57738,56600,114338,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-22,,,,174975,162825,434884,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2022-01-22,,,,600497,514714,1115211,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5983,7 +5983,7 @@ AG,2022-01-23,,,1244290,477524,455155,1193405,https://www.ag.ch/de/themen_1/coro
 BE,2022-01-23,,,,734155,734155,1906569,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2022-01-23,,,,205092,193030,518388,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-23,,,,155613,146983,404113,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-LU,2022-01-23,,,,286789,267222,554011,https://www.lustat.ch/daten?id=28177
+LU,2022-01-23,,,,286787,267222,554009,https://www.lustat.ch/daten?id=28177
 SH,2022-01-23,,,,57835,56607,114442,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-23,,,,174987,162844,435106,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 VD,2022-01-23,,,,600516,514752,1115268,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -5995,8 +5995,8 @@ BL,2022-01-24,,,,205165,193117,519920,https://www.baselland.ch/politik-und-behor
 BS,2022-01-24,,,,155650,147053,405218,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-01-24,,,,,,481480,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2022-01-24,,,,387447,355995,915535,https://www.ge.ch/teaser/covid-19-vaccin
-LU,2022-01-24,,,,286855,267336,554191,https://www.lustat.ch/daten?id=28177
-NE,2022-01-24,,,,127290,113248,240538,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+LU,2022-01-24,,,,286853,267336,554189,https://www.lustat.ch/daten?id=28177
+NE,2022-01-24,,,,127308,116402,243710,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-01-24,,,,29141,29141,75240,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-24,,,,57841,56630,114471,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-24,,,,191517,180589,472699,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6008,7 +6008,7 @@ AG,2022-01-25,,,1244290,477862,455748,1199551,https://www.ag.ch/de/themen_1/coro
 BE,2022-01-25,,,,734907,734907,1919948,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2022-01-25,,,,205191,193147,521617,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-25,,,,155877,147227,406368,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-LU,2022-01-25,,,,286934,267470,554404,https://www.lustat.ch/daten?id=28177
+LU,2022-01-25,,,,286933,267470,554403,https://www.lustat.ch/daten?id=28177
 SH,2022-01-25,,,,57856,56648,114504,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-25,,,,191546,180644,473972,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-25,,,,175044,162937,436675,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -6021,7 +6021,7 @@ BE,2022-01-26,,,,735268,735268,1926078,https://covid-kennzahlen.apps.be.ch/#/de/
 BL,2022-01-26,,,,205310,193177,522567,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-01-26,,,,156148,147471,407590,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-01-26,,,,387769,356183,921409,https://www.ge.ch/teaser/covid-19-vaccin
-LU,2022-01-26,,,,287026,267574,554600,https://www.lustat.ch/daten?id=28177
+LU,2022-01-26,,,,287025,267574,554599,https://www.lustat.ch/daten?id=28177
 NW,2022-01-26,,,,29167,29167,75612,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-26,,,,57868,56702,114570,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-26,,,,191620,180756,474729,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6084,7 +6084,7 @@ BS,2022-01-31,,,,156211,147654,409837,https://data.bs.ch/explore/dataset/100111/
 FR,2022-01-31,,,,,,488845,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2022-01-31,,,,388453,356616,931619,https://www.ge.ch/teaser/covid-19-vaccin
 LU,2022-01-31,,,,287226,268075,555301,https://www.lustat.ch/daten?id=28177
-NE,2022-01-31,,,,127326,113400,240726,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-31,,,,127370,116554,243924,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-01-31,,,,57947,56759,114706,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-31,,,,175246,163189,440013,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2022-01-31,,,,,,657724,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -6095,7 +6095,8 @@ AG,2022-02-01,,,1244290,478831,457412,1214231,https://www.ag.ch/de/themen_1/coro
 BE,2022-02-01,,,,736580,736580,1946160,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BL,2022-02-01,,,,205555,193487,528764,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-02-01,,,,156217,147667,409927,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-LU,2022-02-01,,,,287255,268123,555378,https://www.lustat.ch/daten?id=28177
+LU,2022-02-01,,,,287273,268160,555433,https://www.lustat.ch/daten?id=28177
+SH,2022-02-01,,,,57950,56765,114715,https://coviddashboard.sh.ch/impfungen/
 SO,2022-02-01,,,,191766,181077,478666,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-02-01,,,,175259,163221,440436,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2022-02-01,,,,,,657826,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -6104,6 +6105,7 @@ ZG,2022-02-01,,,,,,238769,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 ZH,2022-02-01,,,,,,2904948,https://www.zh.ch/de/gesundheit/coronavirus.html
 BE,2022-02-02,,,,736877,736877,1949106,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2022-02-02,,,,156348,147857,410712,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+LU,2022-02-02,,,,287359,268476,555835,https://www.lustat.ch/daten?id=28177
 TI,2022-02-02,,,,,,658731,https://www4.ti.ch/dss/dsp/covid19/home/
 ZH,2022-02-02,,,,,,2908565,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2022-02-03,,,,736909,736909,1949361,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2022-02-03,,,,736936,736936,1949640,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
