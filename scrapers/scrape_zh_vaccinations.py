@@ -26,7 +26,7 @@ res = re.search(date_re, element.text)
 assert res
 vd.date = parse_zh_date(res[0])
 
-element = soup.find('th', string=re.compile(r'Total verabreichte Impfdosen'))
+element = soup.find('th', string=re.compile(r'Insgesamt gew.hrte Impfdosen'))
 element = element.find_next('td')
 vd.total_vaccinations = int(element.text)
 
