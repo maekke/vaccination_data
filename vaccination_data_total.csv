@@ -6450,6 +6450,7 @@ AG,2022-03-01,,,1244290,479646,463312,1232857,https://www.ag.ch/de/themen_1/coro
 BE,2022-03-01,,,,745745,745745,1986991,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2022-03-01,,,,156740,150194,418188,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-03-01,,,,287830,270837,558667,https://www.lustat.ch/daten?id=28177
+SH,2022-03-01,,,,58068,57302,115370,https://coviddashboard.sh.ch/impfungen/
 TI,2022-03-01,,,,,,669837,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2022-03-01,,,,602907,519098,1125552,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2022-03-01,,,,,,241909,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -6461,4 +6462,5 @@ TI,2022-03-02,,,,,,669921,https://www4.ti.ch/dss/dsp/covid19/home/
 VD,2022-03-02,,,,603001,519314,1122315,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2022-03-02,,,,,,239142,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 ZH,2022-03-02,,,,,,2938971,https://www.zh.ch/de/gesundheit/coronavirus.html
-BE,2022-03-03,,,,745849,745849,1987499,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2022-03-03,,,,745858,745858,1987528,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+VD,2022-03-03,,,,603001,519316,1122317,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
