@@ -22,7 +22,7 @@ xls_data = sc.download_data(xls_url)
 fp = tempfile.NamedTemporaryFile(suffix='.xlsx')
 fp.write(xls_data)
 book = openpyxl.load_workbook(fp.name)
-sheet = book['6. Impfkampagne']
+sheet = book['3. Impfkampagne']
 
 title_row = 3
 date_column = 1
