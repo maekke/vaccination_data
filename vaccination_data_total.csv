@@ -6583,6 +6583,7 @@ BE,2022-03-13,,,,746537,746537,1990991,https://covid-kennzahlen.apps.be.ch/#/de/
 BS,2022-03-13,,,,156788,150376,419086,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NW,2022-03-13,,,,29404,29404,77176,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-03-13,,,,58079,57347,115426,https://coviddashboard.sh.ch/impfungen/
+VS,2022-03-13,,,,,,554000,https://www.vs.ch/documents/6756452/7008787/2022 03 16 - Synthese COVID-19 Woche10
 ZG,2022-03-13,,,,,,242429,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2022-03-14,,,1244290,479812,463854,1234963,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2022-03-14,,,,746583,746583,1991496,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
@@ -6598,4 +6599,4 @@ BE,2022-03-15,,,,746607,746607,1991699,https://covid-kennzahlen.apps.be.ch/#/de/
 BS,2022-03-15,,,,156789,150377,419097,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-03-15,,,,287942,271149,559091,https://www.lustat.ch/daten?id=28177
 SO,2022-03-15,,,,192235,183469,487525,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
-BE,2022-03-16,,,,746668,746668,1992121,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2022-03-16,,,,746675,746675,1992191,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
