@@ -6643,6 +6643,7 @@ ZG,2022-03-19,,,,,,242655,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 AG,2022-03-20,,,1244290,479870,464012,1235869,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2022-03-20,,,,746886,746886,1993433,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2022-03-20,,,,156819,150519,419680,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SH,2022-03-20,,,,58091,57371,115462,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-03-20,,,,,,242706,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2022-03-21,,,,746913,746913,1993682,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2022-03-21,,,,156819,150520,419681,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -6650,6 +6651,7 @@ FR,2022-03-21,,,,,,497125,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 LU,2022-03-21,,,,287987,271216,559203,https://www.lustat.ch/daten?id=28177
 NE,2022-03-21,,,,55,0,55,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-03-21,,,,29410,29410,77235,https://www.nw.ch/gesundheitsamtdienste/6044
+SO,2022-03-21,,,,192263,183548,487843,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TI,2022-03-21,,,,,,672050,https://www4.ti.ch/dss/dsp/covid19/home/
-BE,2022-03-22,,,,746914,746914,1993684,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2022-03-22,,,,746918,746918,1993696,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 SO,2022-06-16,,,,192256,183522,487691,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
