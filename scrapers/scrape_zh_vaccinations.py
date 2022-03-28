@@ -8,7 +8,7 @@ import scrape_common as sc
 
 
 def parse_zh_date(date_str):
-    return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date().isoformat()
+    return arrow.get(date_str, 'D MMMM YYYY', locale='de').datetime.date().isoformat()
 
 
 base_url = 'https://www.zh.ch'
@@ -20,7 +20,7 @@ soup = BeautifulSoup(content, 'html.parser')
 
 vd = sc.VaccinationData(canton='ZH', url=url)
 
-date_re = r'Diese Zahlen wurden am (\d+\.\s+\w+\s+\d{4})'
+date_re = r'Diese Zahlen wurden am (\d+\s+\w+\s+\d{4})'
 element = soup.find('span', string=re.compile(date_re))
 res = re.search(date_re, element.text)
 assert res
