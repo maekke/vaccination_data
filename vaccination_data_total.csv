@@ -6686,6 +6686,7 @@ BE,2022-03-25,,,,747041,747041,1994776,https://covid-kennzahlen.apps.be.ch/#/de/
 BS,2022-03-25,,,,156845,150582,420083,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-03-25,,,,288014,271212,559226,https://www.lustat.ch/daten?id=28177
 SH,2022-03-25,,,,58215,57383,115598,https://coviddashboard.sh.ch/impfungen/
+SO,2022-03-25,,,,192287,183595,488200,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TI,2022-03-25,,,,,,672203,https://www4.ti.ch/dss/dsp/covid19/home/
 ZG,2022-03-25,,,,,,242706,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2022-03-26,,,,747052,747052,1994925,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
@@ -6694,6 +6695,6 @@ LU,2022-03-26,,,,288016,271213,559229,https://www.lustat.ch/daten?id=28177
 SH,2022-03-26,,,,58215,57383,115598,https://coviddashboard.sh.ch/impfungen/
 BE,2022-03-27,,,,747052,747052,1994925,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2022-03-27,,,,156850,150589,420204,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BE,2022-03-28,,,,747057,747057,1994983,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2022-03-28,,,,747061,747061,1995022,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 FR,2022-03-28,,,,,,497669,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 SO,2022-06-16,,,,192256,183522,487691,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
