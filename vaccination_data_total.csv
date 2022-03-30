@@ -6714,10 +6714,12 @@ BS,2022-03-28,,,,156854,150590,420218,https://data.bs.ch/explore/dataset/100111/
 FR,2022-03-28,,,,,,497669,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-03-28,,,,288029,271215,559244,https://www.lustat.ch/daten?id=28177
 NE,2022-03-28,,,,55,0,55,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+SH,2022-03-28,,,,58094,57376,115470,https://coviddashboard.sh.ch/impfungen/
 SO,2022-03-28,,,,192295,183620,488349,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 BE,2022-03-29,,,,747113,747113,1995667,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 BS,2022-03-29,,,,156856,150592,420233,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-03-29,,,,288033,271217,559250,https://www.lustat.ch/daten?id=28177
 NW,2022-03-29,,,,29408,29408,77260,https://www.nw.ch/gesundheitsamtdienste/6044
-BE,2022-03-30,,,,747113,747113,1995685,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+TI,2022-03-29,,,,,,672793,https://www4.ti.ch/dss/dsp/covid19/home/
+BE,2022-03-30,,,,747114,747114,1995704,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 SO,2022-06-16,,,,192256,183522,487691,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
