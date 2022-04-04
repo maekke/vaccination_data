@@ -6746,8 +6746,12 @@ BS,2022-04-01,,,,156881,150658,420605,https://data.bs.ch/explore/dataset/100111/
 LU,2022-04-01,,,,287731,270999,558730,https://www.lustat.ch/daten?id=28177
 SH,2022-04-01,,,,58094,57376,115470,https://coviddashboard.sh.ch/impfungen/
 SO,2022-04-01,,,,192307,183639,488603,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
+ZG,2022-04-01,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-04-02,,,,156881,150659,420619,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-04-02,,,,287733,271003,558736,https://www.lustat.ch/daten?id=28177
 SH,2022-04-02,,,,58095,57376,115471,https://coviddashboard.sh.ch/impfungen/
+ZG,2022-04-02,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-04-03,,,,156881,150659,420619,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+ZG,2022-04-03,,,,,,243187,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
+GE,2022-04-04,,,,389761,360595,956348,https://www.ge.ch/teaser/covid-19-vaccin
 SO,2022-06-16,,,,192256,183522,487691,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
