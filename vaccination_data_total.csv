@@ -6710,6 +6710,7 @@ SH,2022-03-27,,,,58093,57374,115467,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-03-27,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2022-03-28,,,1288790,479957,464222,1237235,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2022-03-28,,,,747088,747088,1995336,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BL,2022-03-28,,,,206045,197089,540034,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-03-28,,,,156856,150591,420228,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-03-28,,,,,,497669,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-03-28,,,,287897,270954,558851,https://www.lustat.ch/daten?id=28177
@@ -6719,6 +6720,7 @@ SO,2022-03-28,,,,192295,183620,488349,https://corona.so.ch/bevoelkerung/daten/im
 ZG,2022-03-28,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2022-03-29,,,1288790,479960,464228,1237321,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2022-03-29,,,,747113,747113,1995667,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BL,2022-03-29,,,,206047,197090,540051,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-03-29,,,,156858,150593,420243,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-03-29,,,,287901,270956,558857,https://www.lustat.ch/daten?id=28177
 NW,2022-03-29,,,,29408,29408,77260,https://www.nw.ch/gesundheitsamtdienste/6044
@@ -6728,6 +6730,7 @@ TI,2022-03-29,,,,,,672793,https://www4.ti.ch/dss/dsp/covid19/home/
 ZG,2022-03-29,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2022-03-30,,,1288790,479975,464274,1237614,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2022-03-30,,,,747163,747163,1996244,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BL,2022-03-30,,,,206053,197099,540147,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-03-30,,,,156879,150652,420483,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-03-30,,,,389747,360576,956053,https://www.ge.ch/teaser/covid-19-vaccin
 LU,2022-03-30,,,,287910,270982,558892,https://www.lustat.ch/daten?id=28177
@@ -6736,12 +6739,14 @@ SO,2022-03-30,,,,192304,183634,488538,https://corona.so.ch/bevoelkerung/daten/im
 ZG,2022-03-30,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2022-03-31,,,1288790,479978,464287,1237722,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BE,2022-03-31,,,,747255,747255,1996623,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BL,2022-03-31,,,,206053,197099,540159,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-03-31,,,,156879,150653,420485,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-03-31,,,,287911,270994,558905,https://www.lustat.ch/daten?id=28177
 SH,2022-03-31,,,,58094,57376,115470,https://coviddashboard.sh.ch/impfungen/
 TI,2022-03-31,,,,,,672875,https://www4.ti.ch/dss/dsp/covid19/home/
 ZG,2022-03-31,,,,,,242943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BE,2022-04-01,,,,747259,747259,1996641,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BL,2022-04-01,,,,206059,197109,540248,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-04-01,,,,156881,150658,420607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-04-01,,,,287913,271001,558914,https://www.lustat.ch/daten?id=28177
 SH,2022-04-01,,,,58094,57376,115470,https://coviddashboard.sh.ch/impfungen/
