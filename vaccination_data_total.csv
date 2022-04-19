@@ -6809,18 +6809,21 @@ BL,2022-04-10,,,,206078,197135,540608,https://www.baselland.ch/politik-und-behor
 BS,2022-04-10,,,,156902,150699,421031,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 SH,2022-04-10,,,,58102,57385,115487,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-04-10,,,,,,243483,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
+BL,2022-04-11,,,,206087,197140,540703,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-04-11,,,,156902,150699,421031,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-04-11,,,,,,498595,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-04-11,,,,287955,271212,559167,https://www.lustat.ch/daten?id=28177
 NE,2022-04-11,,,,127886,114801,242687,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-04-11,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-04-11,,,,,,243483,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
+BL,2022-04-12,,,,206087,197140,540706,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-04-12,,,,156902,150700,421037,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-04-12,,,,287959,271220,559179,https://www.lustat.ch/daten?id=28177
 SH,2022-04-12,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 SO,2022-04-12,,,,192313,183674,489001,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TI,2022-04-12,,,,,,673810,https://www4.ti.ch/dss/dsp/covid19/home/
 ZG,2022-04-12,,,,,,243483,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
+BL,2022-04-13,,,,206097,197144,540785,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-04-13,,,,156912,150728,421242,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-04-13,,,,287967,271228,559195,https://www.lustat.ch/daten?id=28177
 NW,2022-04-13,,,,29321,29321,77248,https://www.nw.ch/gesundheitsamtdienste/6044
@@ -6838,4 +6841,5 @@ BS,2022-04-17,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/
 SH,2022-04-17,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 BS,2022-04-18,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-04-18,,,,,,498889,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
+TI,2022-04-19,,,,,,674132,https://www4.ti.ch/dss/dsp/covid19/home/
 SO,2022-06-16,,,,192256,183522,487691,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
