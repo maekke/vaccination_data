@@ -6822,11 +6822,16 @@ ZG,2022-04-12,,,,,,243483,https://www.zg.ch/behoerden/gesundheitsdirektion/stati
 BS,2022-04-13,,,,156912,150728,421242,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-04-13,,,,287967,271228,559195,https://www.lustat.ch/daten?id=28177
 NW,2022-04-13,,,,29321,29321,77248,https://www.nw.ch/gesundheitsamtdienste/6044
+SH,2022-04-13,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 SO,2022-04-13,,,,192315,183679,489065,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 BS,2022-04-14,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GE,2022-04-14,,,,389882,360733,958432,https://www.ge.ch/teaser/covid-19-vaccin
+SH,2022-04-14,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 BS,2022-04-15,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SH,2022-04-15,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 BS,2022-04-16,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SH,2022-04-16,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 BS,2022-04-17,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SH,2022-04-17,,,,58106,57393,115499,https://coviddashboard.sh.ch/impfungen/
 BS,2022-04-18,,,,156912,150729,421250,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 SO,2022-06-16,,,,192256,183522,487691,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
