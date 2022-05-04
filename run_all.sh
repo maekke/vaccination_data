@@ -1,8 +1,8 @@
 #!/bin/bash
 
 cantons=(
-	ag
-	ai
+	# ag
+	# ai
 	# ar
 	be
 	bl
@@ -31,6 +31,8 @@ cantons=(
 )
 
 manual_cantons=(
+	ag
+	ai
 	ar
 	gl
 	ju
