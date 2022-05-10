@@ -24,7 +24,7 @@ res = re.search(r'aktualisiert am (\d+\.\d+\.\d{4})', element.text)
 assert res
 vd.date = parse_fr_date(res[1])
 
-element = soup.find('strong', string=re.compile('Anzahl\s+der\s+v')).find_parent('h3')
+element = soup.find('h3', string=re.compile('Anzahl\s+der\s+v'))
 assert element
 res = re.search(r':\s+(\d+)', element.text)
 assert res
