@@ -8,7 +8,7 @@ import scrape_common as sc
 
 def parse_nw_date(date_str):
     date_str = date_str.replace(u'\xa0', u' ')
-    return arrow.get(date_str, 'D. MMMM YYYY', locale='de').datetime.date()
+    return arrow.get(date_str, 'D.MMMM YYYY', locale='de').datetime.date()
 
 
 url = 'https://www.nw.ch/gesundheitsamtdienste/6044'
@@ -20,7 +20,7 @@ vd = sc.VaccinationData(canton='NW', url=url)
 
 elem = soup.find(string=re.compile(r'.*zuletzt aktualisiert:.*'))
 assert elem
-res = re.search(r'(\d+\.\s+\w+\s+\d{4})', elem.string)
+res = re.search(r'(\d+\.\s?\w+\s+\d{4})', elem.string)
 assert res
 date = res[1]
 date = parse_nw_date(date)
