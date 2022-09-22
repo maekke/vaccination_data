@@ -30,11 +30,11 @@ assert res
 vd.date = parse_ge_date(res[1])
 
 elem = soup.find_all('div', text=re.compile('^\s+\d+\s+'))
-assert len(elem) == 5
+assert len(elem) == 6
 
 vd.first_doses = int(elem[0].text.strip())
 vd.second_doses = int(elem[1].text.strip())
-vd.total_vaccinations = int(elem[4].text.strip())
+vd.total_vaccinations = int(elem[5].text.strip())
 
 assert vd
 print(vd)
