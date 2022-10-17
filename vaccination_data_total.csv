@@ -7698,6 +7698,7 @@ BS,2022-10-08,,,,157379,151374,434586,https://data.bs.ch/explore/dataset/100111/
 SH,2022-10-08,,,,58216,57505,115721,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-10-08,,,,,,250984,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-09,,,,157379,151374,434586,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2022-10-09,,,,192573,184056,499155,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-10-09,,,,,,250984,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-10,,,,157379,151374,435395,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-10-10,,,,,,516102,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
@@ -7715,3 +7716,4 @@ LU,2022-10-13,,,,288536,271733,560269,https://www.lustat.ch/daten?id=28177
 BS,2022-10-14,,,,157396,151380,438905,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2022-10-15,,,,157396,151380,438975,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2022-10-16,,,,157396,151380,438975,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2022-10-16,,,,192582,184063,501373,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
