@@ -8072,7 +8072,7 @@ SH,2022-12-30,,,,163675,58232,221907,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-12-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-31,,,,157500,151503,463544,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 SH,2022-12-31,,,,163675,58232,221907,https://coviddashboard.sh.ch/impfungen/
-SO,2022-12-31,,,,192626,187134,521136,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
+SO,2022-12-31,,,,192626,184134,521136,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-12-31,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-01,,,,157500,151503,463544,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 SH,2023-01-01,,,,163675,58232,221907,https://coviddashboard.sh.ch/impfungen/
@@ -8114,3 +8114,4 @@ BS,2023-01-13,,,,157516,151521,464792,https://data.bs.ch/explore/dataset/100111/
 GE,2023-01-13,,,,391118,361961,1032852,https://www.ge.ch/document/covid-19-chiffres-campagne-vaccination-geneve
 BS,2023-01-14,,,,157516,151521,464799,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-01-15,,,,157516,151521,464799,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2023-01-15,,,,192637,184142,521605,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
