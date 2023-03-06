@@ -8191,6 +8191,7 @@ ZG,2023-02-03,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-02-04,,,,157522,151540,466370,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-05,,,,157522,151540,466370,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2023-02-05,,,,192648,184149,522074,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-02-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-06,,,,157524,151540,466383,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NE,2023-02-06,,,,131319,584028,715347,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
@@ -8224,6 +8225,7 @@ ZG,2023-02-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-02-18,,,,157532,151548,466832,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-19,,,,157532,151548,466832,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2023-02-19,,,,192653,184159,522187,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-02-19,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-20,,,,157533,151549,466837,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NE,2023-02-20,,,,131395,588025,719420,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
@@ -8241,6 +8243,7 @@ ZG,2023-02-24,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-02-25,,,,157533,151552,466996,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-26,,,,157533,151552,466996,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2023-02-26,,,,192659,184160,522235,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-02-26,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-27,,,,157533,151552,466999,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8253,3 +8256,4 @@ BS,2023-03-02,,,,157534,151554,467049,https://data.bs.ch/explore/dataset/100111/
 BS,2023-03-03,,,,157534,151554,467076,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-03-04,,,,157534,151554,467077,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-03-05,,,,157534,151554,467077,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+SO,2023-03-05,,,,192661,184168,522286,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
