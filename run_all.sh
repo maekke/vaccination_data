@@ -7,10 +7,10 @@ cantons=(
 	be
 	bl
 	bs
-	fr
+	# fr
 	ge
 	# gl
-	gr
+	# gr
 	# ju
 	lu
 	ne
@@ -34,7 +34,9 @@ manual_cantons=(
 	ag
 	ai
 	ar
+	fr
 	gl
+	gr
 	ju
 	ow
 	sz
