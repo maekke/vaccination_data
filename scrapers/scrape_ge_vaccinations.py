@@ -36,13 +36,13 @@ vd.total_vaccinations = int(res[1])
 
 doses_regex = '(\d+)\s+personnes'
 
-elem = soup.find('li', string=re.compile('^(\d+) .*premi.re dose'))
+elem = soup.find('li', string=re.compile('^(\d+)\s+.*premi.re\s+dose'))
 assert elem
 res = re.search(doses_regex, elem.text)
 assert res
 vd.first_doses = int(res[1])
 
-elem = soup.find('li', string=re.compile('^(\d+) .*deuxi.me dose'))
+elem = soup.find('li', string=re.compile('^(\d+)\s+.*deuxi.me\s+dose'))
 assert elem
 res = re.search(doses_regex, elem.text)
 assert res
