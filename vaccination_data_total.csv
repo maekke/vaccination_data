@@ -63,7 +63,7 @@ AG,2020-12-28,,,0,99,0,99,https://www.ag.ch/de/themen_1/coronavirus_2/lagebullet
 BL,2020-12-28,,,,64,0,64,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2020-12-28,,,,622,0,622,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2020-12-28,,,,1024,0,1024,https://www.lustat.ch/daten?id=28177
-NE,2020-12-28,,,,4925,0,4925,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2020-12-28,,,,6539,0,6539,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2020-12-28,,,,0,0,0,https://coviddashboard.sh.ch/impfungen/
 ZG,2020-12-28,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 AG,2020-12-29,,,0,167,0,167,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -104,7 +104,7 @@ ZG,2021-01-03,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 AG,2021-01-04,,,0,242,0,243,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 BL,2021-01-04,,,,499,0,499,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-04,,,,2714,1,2715,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2021-01-04,,,,5546,0,5546,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-04,,,,7327,0,7327,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-01-04,,,,93,93,186,https://coviddashboard.sh.ch/impfungen/
 VD,2021-01-04,,,,98,,98,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-01-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -168,7 +168,7 @@ AG,2021-01-11,,,0,3244,2,3247,https://www.ag.ch/de/themen_1/coronavirus_2/lagebu
 BL,2021-01-11,,,,2445,0,2445,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-11,,,,3853,1,3854,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-11,,,,5060,3,5063,https://www.lustat.ch/daten?id=28177
-NE,2021-01-11,,,,6041,0,6041,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-11,,,,7948,0,7948,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-01-11,,,,43,0,43,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-01-11,,,,43,0,43,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-01-11,,,,1245,1245,2490,https://coviddashboard.sh.ch/impfungen/
@@ -246,7 +246,7 @@ BE,2021-01-18,,,,4387,0,4387,https://www.besondere-lage.sites.be.ch/de/start/imp
 BL,2021-01-18,,,,5600,7,5609,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2021-01-18,,,,7362,636,7998,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2021-01-18,,,,8273,41,8314,https://www.lustat.ch/daten?id=28177
-NE,2021-01-18,,,,6583,0,6583,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-18,,,,8443,0,8443,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-01-18,,,,168,2,170,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-01-18,,,,168,2,170,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-01-18,,,,2260,2258,4518,https://coviddashboard.sh.ch/impfungen/
@@ -337,7 +337,7 @@ BL,2021-01-25,,,,8447,463,8912,https://www.baselland.ch/politik-und-behorden/dir
 BS,2021-01-25,,,,9184,2681,11867,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-01-25,,,11925,,,5299,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-01-25,,,,13229,458,13687,https://www.lustat.ch/daten?id=28177
-NE,2021-01-25,,,,7047,120977,128024,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-01-25,,,,8985,118246,127231,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-01-25,,,,441,29,470,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-01-25,,,,441,29,470,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-01-25,,,,3841,3759,7600,https://coviddashboard.sh.ch/impfungen/
@@ -442,7 +442,7 @@ BS,2021-02-01,,,,10400,3808,14210,https://data.bs.ch/explore/dataset/100111/down
 GE,2021-02-01,,,,17965,,18012,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-02-01,,,12900,,,8220,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-01,,,,18912,3130,22042,https://www.lustat.ch/daten?id=28177
-NE,2021-02-01,,,,7306,242823,250129,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-01,,,,9449,238020,247469,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-01,,,3925,,,3260,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-01,,,,1047,169,1216,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-01,,,,1047,169,1216,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -554,7 +554,7 @@ BL,2021-02-08,,,,10688,5329,16019,https://www.baselland.ch/politik-und-behorden/
 BS,2021-02-08,,,,11508,3809,15319,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-02-08,,,20075,,,10997,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-08,,,,19433,5202,24635,https://www.lustat.ch/daten?id=28177
-NE,2021-02-08,,,,7488,365307,372795,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-08,,,,9708,358997,368705,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-08,,,4870,,,4350,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-08,,,,1135,626,1761,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-08,,,,1135,626,1761,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -666,7 +666,7 @@ BS,2021-02-15,,,,12128,7095,19225,https://data.bs.ch/explore/dataset/100111/down
 GE,2021-02-15,,,,25161,7378,32539,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-02-15,,,20075,,,14451,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-15,,,,20345,7784,28129,https://www.lustat.ch/daten?id=28177
-NE,2021-02-15,,,,7849,488602,496451,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-15,,,,9890,480843,490733,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-15,,,6170,,,4926,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-15,,,,1181,2250,3431,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-15,,,,1181,2250,3431,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -779,7 +779,7 @@ BL,2021-02-22,,,,17570,8234,25807,https://www.baselland.ch/politik-und-behorden/
 BS,2021-02-22,,,,12237,8884,21124,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-02-22,,,23000,,,17340,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-02-22,,,,22342,12848,35190,https://www.lustat.ch/daten?id=28177
-NE,2021-02-22,,,,8261,612547,620808,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-02-22,,,,10251,603327,613578,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-02-22,,,6170,,,5138,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-02-22,,,,1258,4099,5357,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-02-22,,,,1258,4099,5357,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -893,7 +893,7 @@ GE,2021-03-01,,,,34437,17692,52129,https://www.ge.ch/se-faire-vacciner-contre-co
 GR,2021-03-01,,,24950,,,20885,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-03-01,,,,5199,2396,7595,https://www.jura.ch/Htdocs/Files/v/36987.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin_sem8.pdf
 LU,2021-03-01,,,,24371,18520,42891,https://www.lustat.ch/daten?id=28177
-NE,2021-03-01,,,,8454,737003,745457,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-01,,,,10663,726622,737285,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-01,,,,3104,3096,6200,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-03-01,,,,2100,2100,4200,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-03-01,,,,1414,8503,9917,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1013,7 +1013,7 @@ BS,2021-03-08,,,,15504,11366,26873,https://data.bs.ch/explore/dataset/100111/dow
 GE,2021-03-08,,,,41628,21101,62729,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-03-08,,,33650,,,25094,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-03-08,,,,29915,19868,49783,https://www.lustat.ch/daten?id=28177
-NE,2021-03-08,,,,8606,861885,870491,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-08,,,,10856,850567,861423,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-08,,,,3354,3096,6450,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-03-08,,,,2178,15684,17862,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-03-08,,,,2178,15684,17862,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1131,7 +1131,7 @@ BS,2021-03-15,,,,16385,11953,28341,https://data.bs.ch/explore/dataset/100111/dow
 FR,2021-03-15,,,46250,29906,13198,41215,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-03-15,,,34625,,,29015,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-03-15,,,,34972,20341,55313,https://www.lustat.ch/daten?id=28177
-NE,2021-03-15,,,,8878,987124,996002,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-15,,,,11008,975023,986031,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-15,,,,3472,3147,6619,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-03-15,,,,3053,24281,27334,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-03-15,,,,3053,24281,27334,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1247,7 +1247,7 @@ FR,2021-03-22,,,59125,32203,15349,44342,https://www.fr.ch/de/gesundheit/covid-19
 GE,2021-03-22,,,,54020,29656,83676,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-03-22,,,35600,,,32649,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-03-22,,,,39633,23202,62835,https://www.lustat.ch/daten?id=28177
-NE,2021-03-22,,,,9090,1112765,1121855,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-22,,,,11280,1099905,1111185,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-22,,,,3573,3013,6586,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-03-22,,,6785,3356,2045,5401,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-03-22,,,,3143,28154,31297,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1368,7 +1368,7 @@ GE,2021-03-29,,,,63085,35083,98168,https://www.ge.ch/se-faire-vacciner-contre-co
 GR,2021-03-29,,,46750,,,38402,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-03-29,,,,7803,5107,12910,https://www.jura.ch/Htdocs/Files/v/37242.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin.pdf
 LU,2021-03-29,,,,46259,25623,71882,https://www.lustat.ch/daten?id=28177
-NE,2021-03-29,,,,9292,1238916,1248208,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-03-29,,,,11492,1225144,1236636,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-03-29,,,,4151,3093,7244,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-03-29,,,8485,3756,2045,5801,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-03-29,,,,3490,31483,34973,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1473,7 +1473,7 @@ BS,2021-04-05,,,,22616,15187,37806,https://data.bs.ch/explore/dataset/100111/dow
 GE,2021-04-05,,,,68506,40008,108514,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-05,,,57225,,,42047,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-05,,,,49202,29758,78960,https://www.lustat.ch/daten?id=28177
-NE,2021-04-05,,,,9347,1365346,1374693,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-05,,,,11694,1350785,1362479,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-04-05,,,,3686,34351,38037,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-04-05,,,,3686,34351,38037,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-04-05,,,,17111,9940,27051,https://coviddashboard.sh.ch/impfungen/
@@ -1591,7 +1591,7 @@ FR,2021-04-12,,,79225,43029,28865,67074,https://www.fr.ch/de/gesundheit/covid-19
 GE,2021-04-12,,,,78129,46708,124837,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-12,,,62100,,,48733,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-12,,,,53863,34373,88236,https://www.lustat.ch/daten?id=28177
-NE,2021-04-12,,,,9372,1491952,1501324,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-12,,,,11749,1476936,1488685,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-04-12,,,11865,4984,3482,8466,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-04-12,,,10185,4496,2825,7321,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-04-12,,,,6337,40728,47065,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1711,7 +1711,7 @@ GE,2021-04-19,,,,90446,53432,143878,https://www.ge.ch/se-faire-vacciner-contre-c
 GR,2021-04-19,,,66000,,,56876,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-04-19,,,,11365,6742,18107,https://www.jura.ch/Htdocs/Files/v/37371.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdo-vaccins-sem15.pdf
 LU,2021-04-19,,,,60413,38830,99243,https://www.lustat.ch/daten?id=28177
-NE,2021-04-19,,,,9385,1618951,1628336,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-19,,,,11774,1603366,1615140,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-04-19,,,13815,5918,3858,9776,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-04-19,,,,6991,45218,52209,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-04-19,,,,6991,45218,52209,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1831,7 +1831,7 @@ FR,2021-04-26,,,89950,,,81857,https://www.fr.ch/de/gesundheit/covid-19/coronavir
 GE,2021-04-26,,,,112277,62099,174376,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-04-26,,,78900,,,66434,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-04-26,,,,69664,45467,115131,https://www.lustat.ch/daten?id=28177
-NE,2021-04-26,,,,9598,1746372,1755970,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-04-26,,,,11987,1729972,1741959,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-04-26,,,14790,7524,5094,12618,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-04-26,,,12135,4936,4495,9431,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-04-26,,,,7768,50468,58236,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -1951,7 +1951,7 @@ FR,2021-05-03,,,107475,,,90811,https://www.fr.ch/de/gesundheit/covid-19/coronavi
 GE,2021-05-03,,,,129311,67982,197293,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-03,,,81825,,,73385,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-03,,,,85741,47505,133246,https://www.lustat.ch/daten?id=28177
-NE,2021-05-03,,,,10007,1874089,1884096,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-03,,,,12396,1856971,1869367,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-05-03,,,16690,8689,5324,14013,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-05-03,,,13835,6566,4695,11261,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-03,,,,8695,55805,64500,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2075,7 +2075,7 @@ FR,2021-05-10,,,130375,,,105594,https://www.fr.ch/de/gesundheit/covid-19/coronav
 GE,2021-05-10,,,,147839,77215,225054,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-10,,,95750,,,83273,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-10,,,,103603,53959,157562,https://www.lustat.ch/daten?id=28177
-NE,2021-05-10,,,,10497,2002040,2012537,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-10,,,,12886,1984392,1997278,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-05-10,,,18285,8416,5625,14041,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-10,,,,9403,66888,76291,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-05-10,,,,9403,66888,76291,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2190,7 +2190,7 @@ GE,2021-05-17,,,,166002,87854,253856,https://www.ge.ch/se-faire-vacciner-contre-
 GR,2021-05-17,,,98675,,,94615,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 JU,2021-05-17,,,,21075,10677,31752,https://www.jura.ch/Htdocs/Files/v/37535.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin.pdf
 LU,2021-05-17,,,,120917,60101,181018,https://www.lustat.ch/daten?id=28177
-NE,2021-05-17,,,,11976,2130147,2142123,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-17,,,,14365,2112109,2126474,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-05-17,,,19260,9406,6760,16166,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-17,,,,10234,76532,86766,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-05-17,,,,10234,76532,86766,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2309,7 +2309,7 @@ BS,2021-05-24,,,,71299,36924,108229,https://data.bs.ch/explore/dataset/100111/do
 GE,2021-05-24,,,,181271,105052,286323,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-05-24,,,118200,,,105769,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-24,,,,138539,68032,206571,https://www.lustat.ch/daten?id=28177
-NE,2021-05-24,,,,13848,2258326,2272174,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-24,,,,16237,2240060,2256297,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-05-24,,,,11511,84566,96077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-05-24,,,,11511,84566,96077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-05-24,,,,45967,27776,73743,https://coviddashboard.sh.ch/impfungen/
@@ -2427,7 +2427,7 @@ BS,2021-05-31,,,,79619,44458,124084,https://data.bs.ch/explore/dataset/100111/do
 FR,2021-05-31,,,169425,,,152780,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-05-31,,,120150,,,118151,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-05-31,,,,149721,83862,233583,https://www.lustat.ch/daten?id=28177
-NE,2021-05-31,,,,17318,2386535,2403853,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-05-31,,,,19707,2368167,2387874,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-05-31,,,24240,15077,8649,23726,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-05-31,,,22560,11526,8840,20366,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-05-31,,,,13347,95148,108495,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2546,7 +2546,7 @@ FR,2021-06-07,,,207525,,,169910,https://www.fr.ch/de/gesundheit/covid-19/coronav
 GE,2021-06-07,,,,223294,140151,363445,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-06-07,,,144400,,,130872,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-07,,,,162762,99916,262678,https://www.lustat.ch/daten?id=28177
-NE,2021-06-07,,,,20176,2514766,2534942,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-07,,,,22565,2496346,2518911,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-06-07,,,27935,12926,10460,23386,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-06-07,,,,15466,105640,121106,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-07,,,,15466,105640,121106,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2665,7 +2665,7 @@ BS,2021-06-14,,,,94377,63448,157832,https://data.bs.ch/explore/dataset/100111/do
 FR,2021-06-14,,,215715,,,193194,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-06-14,,,147325,,,141452,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-14,,,,173251,117551,290802,https://www.lustat.ch/daten?id=28177
-NE,2021-06-14,,,,21617,2643012,2664629,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-14,,,,24006,2624555,2648561,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-06-14,,,27935,12926,11305,24231,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-06-14,,,,17798,116740,134538,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-14,,,,17798,116740,134538,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2783,7 +2783,7 @@ FR,2021-06-21,,,238915,,,218150,https://www.fr.ch/de/gesundheit/covid-19/coronav
 GE,2021-06-21,,,,264978,174990,439968,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-06-21,,,160275,,,154926,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-21,,,,183773,134868,318641,https://www.lustat.ch/daten?id=28177
-NE,2021-06-21,,,,23663,2771269,2794932,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-21,,,,26052,2752786,2778838,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-06-21,,,,19465,134631,154096,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-21,,,,19465,134631,154096,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-06-21,,,,68271,41239,109510,https://coviddashboard.sh.ch/impfungen/
@@ -2893,7 +2893,7 @@ BL,2021-06-28,,,,151739,108730,260472,https://www.baselland.ch/politik-und-behor
 BS,2021-06-28,,,,107850,77721,185579,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-06-28,,,173525,,,166748,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-06-28,,,,196561,146638,343199,https://www.lustat.ch/daten?id=28177
-NE,2021-06-28,,,,24820,2899541,2924361,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-06-28,,,,27209,2881032,2908241,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 OW,2021-06-28,,,33210,15045,13525,28570,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-06-28,,,,20505,158999,179504,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-06-28,,,,20505,158999,179504,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -2998,7 +2998,7 @@ FR,2021-07-05,,,,,,245259,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-07-05,,,,280059,211101,491160,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-07-05,,,190875,,,175804,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-05,,,,204657,159096,363753,https://www.lustat.ch/daten?id=28177
-NE,2021-07-05,,,,25909,3027828,3053737,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-05,,,,28298,3009289,3037587,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-07-05,,,40290,20512,15977,36489,https://www.nw.ch/gesundheitsamtdienste/6044
 OW,2021-07-05,,,37285,16585,13755,30340,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 SG,2021-07-05,,,,22534,180091,202625,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3108,7 +3108,7 @@ BL,2021-07-12,,,,157917,127082,285004,https://www.baselland.ch/politik-und-behor
 BS,2021-07-12,,,,114596,92186,206791,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-07-12,,,191850,,,183456,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-12,,,,209720,168340,378060,https://www.lustat.ch/daten?id=28177
-NE,2021-07-12,,,,26850,3156118,3182968,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-12,,,,29239,3137561,3166800,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-07-12,,,,23868,195438,219306,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-07-12,,,,23868,195438,219306,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-07-12,,,,81682,44617,126299,https://coviddashboard.sh.ch/impfungen/
@@ -3216,7 +3216,7 @@ BS,2021-07-19,,,,116310,97713,214033,https://data.bs.ch/explore/dataset/100111/d
 FR,2021-07-19,,,,,,275272,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-07-19,,,207625,,,191716,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-19,,,,211573,177746,389319,https://www.lustat.ch/daten?id=28177
-NE,2021-07-19,,,,29906,3284427,3314333,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-19,,,,32295,3265848,3298143,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-07-19,,,,24715,209286,234001,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-07-19,,,,24715,209286,234001,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-07-19,,,,84672,45153,129825,https://coviddashboard.sh.ch/impfungen/
@@ -3323,7 +3323,7 @@ FR,2021-07-26,,,,,,289533,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-07-26,,,,291309,256574,547883,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-07-26,,,220575,,,198608,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-07-26,,,,214326,188358,402684,https://www.lustat.ch/daten?id=28177
-NE,2021-07-26,,,,33771,3412739,3446510,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-07-26,,,,36160,3394138,3430298,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-07-26,,,,25348,216615,241963,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-07-26,,,,25348,216615,241963,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-07-26,,,,86868,45609,132477,https://coviddashboard.sh.ch/impfungen/
@@ -3431,7 +3431,7 @@ FL,2021-08-02,,,45345,20477,18697,39174,https://www.llv.li/files/as/impfungen.xl
 FR,2021-08-02,,,,,,297206,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-08-02,,,222525,,,201892,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-02,,,,217230,193581,410811,https://www.lustat.ch/daten?id=28177
-NE,2021-08-02,,,,37694,3541054,3578748,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-02,,,,40083,3522447,3562530,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-08-02,,,,25773,220257,246030,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-02,,,,25773,220257,246030,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-08-02,,,,87791,45977,133768,https://coviddashboard.sh.ch/impfungen/
@@ -3540,7 +3540,7 @@ BS,2021-08-09,,,,121144,110651,231809,https://data.bs.ch/explore/dataset/100111/
 FR,2021-08-09,,,,,,301741,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-08-09,,,225450,,,205355,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-09,,,,220466,199915,420381,https://www.lustat.ch/daten?id=28177
-NE,2021-08-09,,,,42768,3669375,3712143,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-09,,,,45157,3650759,3695916,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-08-09,,,,26219,224058,250277,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-09,,,,26219,224058,250277,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-08-09,,,,88908,46488,135396,https://coviddashboard.sh.ch/impfungen/
@@ -3651,7 +3651,7 @@ FR,2021-08-16,,,,,,306293,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-08-16,,,,311208,273198,584406,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-08-16,,,230950,,,208305,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-16,,,,223720,203388,427108,https://www.lustat.ch/daten?id=28177
-NE,2021-08-16,,,,62010,4311183,4373193,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-16,,,,64399,4292445,4356844,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-08-16,,,47715,22988,20866,43854,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-08-16,,,,26909,227168,254077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-16,,,,26909,227168,254077,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3761,7 +3761,7 @@ FR,2021-08-23,,,,,,312098,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-08-23,,,,314974,278572,593613,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 GR,2021-08-23,,,230950,,,212009,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-23,,,,228759,206432,435191,https://www.lustat.ch/daten?id=28177
-NE,2021-08-23,,,,67314,4439582,4506896,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-23,,,,69703,4420818,4490521,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-08-23,,,,27740,230090,257830,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-23,,,,27740,230090,257830,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-08-23,,,,91500,47731,139231,https://coviddashboard.sh.ch/impfungen/
@@ -3872,7 +3872,7 @@ BS,2021-08-30,,,,127018,115833,242910,https://data.bs.ch/explore/dataset/100111/
 FR,2021-08-30,,,,,,319207,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-08-30,,,230950,,,216460,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-08-30,,,,234441,209187,443628,https://www.lustat.ch/daten?id=28177
-NE,2021-08-30,,,,75357,4568000,4643357,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-08-30,,,,77746,4549203,4626949,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2021-08-30,,,47715,23946,21497,45443,https://www.nw.ch/gesundheitsamtdienste/6044
 SG,2021-08-30,,,,29115,232797,261912,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-08-30,,,,29115,232797,261912,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
@@ -3983,7 +3983,7 @@ BS,2021-09-06,,,,129920,117513,247529,https://data.bs.ch/explore/dataset/100111/
 FR,2021-09-06,,,,,,325891,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-09-06,,,230950,,,221972,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-09-06,,,,239919,211734,451653,https://www.lustat.ch/daten?id=28177
-NE,2021-09-06,,,,84809,4696426,4781235,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-09-06,,,,87198,4677602,4764800,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-06,,,,30496,235280,265776,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-06,,,,30496,235280,265776,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-06,,,,94385,49785,144170,https://coviddashboard.sh.ch/impfungen/
@@ -4094,7 +4094,7 @@ FR,2021-09-13,,,,,,333908,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-09-13,,,,333347,293479,623954,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-13,,,230950,,,227760,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-09-13,,,,247914,215583,463497,https://www.lustat.ch/daten?id=28177
-NE,2021-09-13,,,,92691,4824862,4917553,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-09-13,,,,95080,4806020,4901100,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-13,,,,32439,237905,270344,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-13,,,,32439,237905,270344,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-13,,,,96088,51007,147095,https://coviddashboard.sh.ch/impfungen/
@@ -4208,7 +4208,7 @@ FR,2021-09-20,,,,,,342452,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-09-20,,,,342680,297460,642298,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-20,,,251725,,,233706,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-09-20,,,,255363,220245,475608,https://www.lustat.ch/daten?id=28177
-NE,2021-09-20,,,,97857,4953308,5051165,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-09-20,,,,100246,4934446,5034692,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-20,,,,34209,241087,275296,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-20,,,,34209,241087,275296,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-20,,,,98070,52277,150347,https://coviddashboard.sh.ch/impfungen/
@@ -4321,7 +4321,7 @@ FR,2021-09-27,,,,,,350429,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-09-27,,,,352862,301530,654824,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-09-27,,,251725,,,238564,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-09-27,,,,260817,225342,486159,https://www.lustat.ch/daten?id=28177
-NE,2021-09-27,,,,101149,5081772,5182921,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-09-27,,,,103538,5062882,5166420,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-09-27,,,,35855,246126,281981,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-09-27,,,,35855,246126,281981,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-09-27,,,,99665,53182,152847,https://coviddashboard.sh.ch/impfungen/
@@ -4429,7 +4429,7 @@ FR,2021-10-04,,,,,,356718,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-10-04,,,,357615,306366,664541,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-10-04,,,252700,,,244204,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-10-04,,,,263593,230045,493638,https://www.lustat.ch/daten?id=28177
-NE,2021-10-04,,,,102600,5210238,5312838,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-10-04,,,,104989,5191328,5296317,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-04,,,,36922,252319,289241,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-04,,,,36922,252319,289241,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-04,,,,101157,53603,154760,https://coviddashboard.sh.ch/impfungen/
@@ -4537,7 +4537,7 @@ BS,2021-10-11,,,,142685,128393,271431,https://data.bs.ch/explore/dataset/100111/
 FR,2021-10-11,,,,,,363267,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-10-11,,,258150,,,248994,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-10-11,,,,266351,236354,502705,https://www.lustat.ch/daten?id=28177
-NE,2021-10-11,,,,104204,5338708,5442912,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-10-11,,,,106593,5319792,5426385,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-11,,,,37602,258451,296053,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-11,,,,37602,258451,296053,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-11,,,,102387,53915,156302,https://coviddashboard.sh.ch/impfungen/
@@ -4646,7 +4646,7 @@ BS,2021-10-18,,,,144035,131751,276212,https://data.bs.ch/explore/dataset/100111/
 FR,2021-10-18,,,,,,369779,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-10-18,,,263650,,,253347,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-10-18,,,,268669,243080,511749,https://www.lustat.ch/daten?id=28177
-NE,2021-10-18,,,,105627,5467182,5572809,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-10-18,,,,108016,5448258,5556274,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-18,,,,38153,263683,301836,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-18,,,,38153,263683,301836,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-18,,,,103984,54274,158258,https://coviddashboard.sh.ch/impfungen/
@@ -4756,7 +4756,7 @@ BS,2021-10-25,,,,144949,134155,279582,https://data.bs.ch/explore/dataset/100111/
 FR,2021-10-25,,,,,,373853,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-10-25,,,265600,,,255958,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-10-25,,,,270259,248805,519064,https://www.lustat.ch/daten?id=28177
-NE,2021-10-25,,,,107221,5595660,5702881,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-10-25,,,,109610,5576728,5686338,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-10-25,,,,39514,270407,309921,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-10-25,,,,39514,270407,309921,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-10-25,,,,105237,54613,159850,https://coviddashboard.sh.ch/impfungen/
@@ -4865,7 +4865,7 @@ BL,2021-11-01,,,,194088,182969,378072,https://www.baselland.ch/politik-und-behor
 BS,2021-11-01,,,,145904,135810,282285,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-11-01,,,271450,,,258293,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-11-01,,,,271172,251657,522829,https://www.lustat.ch/daten?id=28177
-NE,2021-11-01,,,,109029,5724141,5833170,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-11-01,,,,111418,5705202,5816620,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-01,,,,39947,274274,314221,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-01,,,,39947,274274,314221,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-01,,,,105978,54842,160820,https://coviddashboard.sh.ch/impfungen/
@@ -4970,7 +4970,7 @@ BS,2021-11-08,,,,146522,137219,284689,https://data.bs.ch/explore/dataset/100111/
 FR,2021-11-08,,,,,,378675,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-08,,,271450,,,260653,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-11-08,,,,272527,254344,526871,https://www.lustat.ch/daten?id=28177
-NE,2021-11-08,,,,110702,5852631,5963333,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-11-08,,,,113091,5833680,5946771,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-08,,,,40922,277063,317985,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-08,,,,40922,277063,317985,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-08,,,,106503,55082,161585,https://coviddashboard.sh.ch/impfungen/
@@ -5075,7 +5075,7 @@ BS,2021-11-15,,,,147530,138371,289429,https://data.bs.ch/explore/dataset/100111/
 FR,2021-11-15,,,,,,379470,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-15,,,288725,,,265589,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-11-15,,,,274587,256118,530705,https://www.lustat.ch/daten?id=28177
-NE,2021-11-15,,,,112341,5981127,6093468,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-11-15,,,,114730,5962161,6076891,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-15,,,,43290,279118,322408,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-15,,,,43290,279118,322408,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-15,,,,107683,55471,163154,https://coviddashboard.sh.ch/impfungen/
@@ -5182,7 +5182,7 @@ BS,2021-11-22,,,,148128,139186,298493,https://data.bs.ch/explore/dataset/100111/
 FR,2021-11-22,,,,,,388765,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-22,,,296525,,,271101,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-11-22,,,,275709,257580,533289,https://www.lustat.ch/daten?id=28177
-NE,2021-11-22,,,,114036,6109626,6223662,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-11-22,,,,116425,6090651,6207076,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-22,,,,45036,280969,326005,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-22,,,,45036,280969,326005,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-22,,,,110481,55647,166128,https://coviddashboard.sh.ch/impfungen/
@@ -5289,7 +5289,7 @@ BS,2021-11-29,,,,149099,140105,310371,https://data.bs.ch/explore/dataset/100111/
 FR,2021-11-29,,,,,,393022,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-11-29,,,312175,,,281208,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-11-29,,,,276768,258522,535290,https://www.lustat.ch/daten?id=28177
-NE,2021-11-29,,,,116619,6238126,6354745,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-11-29,,,,119008,6219147,6338155,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SG,2021-11-29,,,,46400,282561,328961,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SG,2021-11-29,,,,46400,282561,328961,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 SH,2021-11-29,,,,113902,55916,169818,https://coviddashboard.sh.ch/impfungen/
@@ -5390,7 +5390,7 @@ FR,2021-12-06,,,,,,406896,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2021-12-06,,,,379167,347006,769426,https://www.ge.ch/se-faire-vacciner-contre-covid-19/chiffres-campagne-vaccination-geneve#chiffres
 GR,2021-12-06,,,315100,,,292482,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-12-06,,,,278252,259619,537871,https://www.lustat.ch/daten?id=28177
-NE,2021-12-06,,,,119257,6366628,6485885,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-12-06,,,,121646,6347646,6469292,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-06,,,,118151,56162,174313,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-06,,,,185871,175504,385905,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-06,,,,170268,159012,357262,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5479,7 +5479,7 @@ BS,2021-12-13,,,,151002,141850,337200,https://data.bs.ch/explore/dataset/100111/
 FR,2021-12-13,,,,,,416351,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-12-13,,,315100,,,302885,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-12-13,,,,279816,260956,540772,https://www.lustat.ch/daten?id=28177
-NE,2021-12-13,,,,122291,6495133,6617424,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-12-13,,,,124680,6476146,6600826,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-13,,,,123625,56433,180058,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-13,,,,186763,176181,396369,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-13,,,,170871,159874,372369,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5573,7 +5573,7 @@ BS,2021-12-20,,,,151721,142850,349726,https://data.bs.ch/explore/dataset/100111/
 FR,2021-12-20,,,,,,426118,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2021-12-20,,,320100,,,316815,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-12-20,,,,281176,262193,543369,https://www.lustat.ch/daten?id=28177
-NE,2021-12-20,,,,125309,6623642,6748951,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-12-20,,,,127698,6604648,6732346,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-20,,,,128738,56769,185507,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-20,,,,187653,177051,412042,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-20,,,,171625,160604,385769,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5659,7 +5659,7 @@ BL,2021-12-27,,,,200554,189847,462301,https://www.baselland.ch/politik-und-behor
 BS,2021-12-27,,,,152423,143548,358829,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 GR,2021-12-27,,,337000,,,328470,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2021-12-27,,,,281906,262930,544836,https://www.lustat.ch/daten?id=28177
-NE,2021-12-27,,,,127631,6752158,6879789,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2021-12-27,,,,130020,6733153,6863173,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2021-12-27,,,,131964,56990,188954,https://coviddashboard.sh.ch/impfungen/
 SO,2021-12-27,,,,188121,177637,423246,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2021-12-27,,,,172163,160879,396666,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5743,7 +5743,7 @@ BS,2022-01-03,,,,152799,144098,369634,https://data.bs.ch/explore/dataset/100111/
 FR,2022-01-03,,,,,,440325,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2022-01-03,,,342500,,,337070,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-03,,,,282329,263597,545926,https://www.lustat.ch/daten?id=28177
-NE,2022-01-03,,,,129159,6880686,7009845,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-03,,,,131548,6861662,6993210,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-01-03,,,,136282,57177,193459,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-03,,,,188689,178113,432918,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-01-03,,,,172482,161233,406140,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -5833,7 +5833,7 @@ BS,2022-01-10,,,,153581,145202,384969,https://data.bs.ch/explore/dataset/100111/
 FR,2022-01-10,,,,,,452748,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2022-01-10,,,347375,,,345370,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-10,,,,283677,265188,548865,https://www.lustat.ch/daten?id=28177
-NE,2022-01-10,,,,130362,7009218,7139580,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-10,,,,132751,6990178,7122929,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-01-10,,,,28950,28950,71504,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-10,,,,141302,57446,198748,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-10,,,,189380,179093,447209,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -5926,7 +5926,7 @@ FR,2022-01-17,,,,,,470143,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2022-01-17,,,,385825,355166,893539,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-17,,,360375,,,352236,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-17,,,,285709,266399,552108,https://www.lustat.ch/daten?id=28177
-NE,2022-01-17,,,,131231,7137753,7268984,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-17,,,,133620,7118706,7252326,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-01-17,,,,29069,29069,74009,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-17,,,,144956,57656,202612,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-17,,,,190609,180054,462748,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6021,7 +6021,7 @@ FR,2022-01-24,,,,,,481480,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2022-01-24,,,,387447,355995,915535,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-24,,,362325,,,356323,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-24,,,,286814,267253,554067,https://www.lustat.ch/daten?id=28177
-NE,2022-01-24,,,,131869,7266297,7398166,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-24,,,,134258,7247238,7381496,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-01-24,,,,29141,29141,75240,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-01-24,,,,146860,57837,204697,https://coviddashboard.sh.ch/impfungen/
 SO,2022-01-24,,,,191517,180589,472699,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6116,7 +6116,7 @@ FR,2022-01-31,,,,,,488845,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2022-01-31,,,,388554,356692,933192,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-01-31,,,362325,,,358775,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-01-31,,,,287187,267998,555185,https://www.lustat.ch/daten?id=28177
-NE,2022-01-31,,,,132680,7394845,7527525,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-01-31,,,,135069,7375773,7510842,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-01-31,,,,148100,57942,206042,https://coviddashboard.sh.ch/impfungen/
 TG,2022-01-31,,,,175244,163214,440026,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 TI,2022-01-31,,,,,,657724,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -6203,7 +6203,7 @@ FR,2022-02-07,,,,,,492298,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-s
 GE,2022-02-07,,,,388923,357310,939345,https://www.ge.ch/teaser/covid-19-vaccin
 GR,2022-02-07,,,362325,,,360483,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-02-07,,,,287484,268945,556429,https://www.lustat.ch/daten?id=28177
-NE,2022-02-07,,,,133330,7523394,7656724,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-02-07,,,,135719,7504317,7640036,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-02-07,,,,148986,57990,206976,https://coviddashboard.sh.ch/impfungen/
 SO,2022-02-07,,,,191928,181542,481447,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-02-07,,,,175367,163699,442469,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -6293,7 +6293,7 @@ BS,2022-02-14,,,,156606,149066,415296,https://data.bs.ch/explore/dataset/100111/
 FR,2022-02-14,,,,,,493893,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2022-02-14,,,362325,,,361750,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-02-14,,,,287614,269927,557541,https://www.lustat.ch/daten?id=28177
-NE,2022-02-14,,,,133841,7651945,7785786,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-02-14,,,,136230,7632865,7769095,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-02-14,,,,29300,29300,76749,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-02-14,,,,149666,58033,207699,https://coviddashboard.sh.ch/impfungen/
 SO,2022-02-14,,,,192006,182219,483548,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6380,7 +6380,7 @@ BS,2022-02-21,,,,156678,149623,416890,https://data.bs.ch/explore/dataset/100111/
 FR,2022-02-21,,,,,,495060,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GR,2022-02-21,,,362325,,,362443,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 LU,2022-02-21,,,,287680,270495,558175,https://www.lustat.ch/daten?id=28177
-NE,2022-02-21,,,,134267,7780497,7914764,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-02-21,,,,136656,7761414,7898070,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-02-21,,,,150179,58053,208232,https://coviddashboard.sh.ch/impfungen/
 SO,2022-02-21,,,,192099,183037,485654,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TG,2022-02-21,,,,175567,164814,446488,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
@@ -6463,7 +6463,7 @@ BL,2022-02-28,,,,205962,196804,538297,https://www.baselland.ch/politik-und-behor
 BS,2022-02-28,,,,156753,150191,418243,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-02-28,,,,,,495763,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-02-28,,,,287724,270679,558403,https://www.lustat.ch/daten?id=28177
-NE,2022-02-28,,,,47774,3797713,3845487,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-02-28,,,,50163,3779074,3829237,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-02-28,,,,29384,29384,77071,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-02-28,,,,150420,58071,208491,https://coviddashboard.sh.ch/impfungen/
 SO,2022-02-28,,,,192169,183292,486690,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6546,7 +6546,7 @@ BL,2022-03-07,,,,205988,196892,538743,https://www.baselland.ch/politik-und-behor
 BS,2022-03-07,,,,156774,150286,418765,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-03-07,,,,,,496121,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-03-07,,,,287769,270868,558637,https://www.lustat.ch/daten?id=28177
-NE,2022-03-07,,,,53223,3926058,3979281,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-03-07,,,,55612,3907395,3963007,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-03-07,,,,150565,58077,208642,https://coviddashboard.sh.ch/impfungen/
 SO,2022-03-07,,,,192196,183407,487127,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 VD,2022-03-07,,,,603087,519588,1126230,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -6617,7 +6617,7 @@ BS,2022-03-14,,,,156803,150379,419179,https://data.bs.ch/explore/dataset/100111/
 FR,2022-03-14,,,,,,496796,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2022-03-14,,,,389606,360338,953277,https://www.ge.ch/teaser/covid-19-vaccin
 LU,2022-03-14,,,,287814,270989,558803,https://www.lustat.ch/daten?id=28177
-NE,2022-03-14,,,,55897,4054425,4110322,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-03-14,,,,58286,4035733,4094019,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-03-14,,,,150698,58084,208782,https://coviddashboard.sh.ch/impfungen/
 SO,2022-03-14,,,,192221,183467,487481,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 TI,2022-03-14,,,,,,671368,https://www4.ti.ch/dss/dsp/covid19/home/
@@ -6676,7 +6676,7 @@ BL,2022-03-21,,,,206038,197045,539596,https://www.baselland.ch/politik-und-behor
 BS,2022-03-21,,,,156834,150529,419777,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-03-21,,,,,,497125,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-03-21,,,,287855,271056,558911,https://www.lustat.ch/daten?id=28177
-NE,2022-03-21,,,,134624,7909050,8043674,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-03-21,,,,137013,7889965,8026978,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2022-03-21,,,,29410,29410,77235,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2022-03-21,,,,150842,58095,208937,https://coviddashboard.sh.ch/impfungen/
 SO,2022-03-21,,,,192263,183548,487843,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -6737,7 +6737,7 @@ BL,2022-03-28,,,,206054,197101,540068,https://www.baselland.ch/politik-und-behor
 BS,2022-03-28,,,,156867,150600,420310,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-03-28,,,,,,497669,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-03-28,,,,287887,271095,558982,https://www.lustat.ch/daten?id=28177
-NE,2022-03-28,,,,135026,8037605,8172631,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-03-28,,,,137415,8018517,8155932,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-03-28,,,,150950,58097,209047,https://coviddashboard.sh.ch/impfungen/
 SO,2022-03-28,,,,192295,183620,488349,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-03-28,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -6793,7 +6793,7 @@ BS,2022-04-04,,,,156893,150670,420711,https://data.bs.ch/explore/dataset/100111/
 FR,2022-04-04,,,,,,498164,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2022-04-04,,,,389761,360595,956348,https://www.ge.ch/teaser/covid-19-vaccin
 LU,2022-04-04,,,,287908,271153,559061,https://www.lustat.ch/daten?id=28177
-NE,2022-04-04,,,,58696,4182798,4241494,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-04-04,,,,61085,4164078,4225163,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-04-04,,,,151057,58103,209160,https://coviddashboard.sh.ch/impfungen/
 SO,2022-04-04,,,,192307,183646,488729,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-04-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -6836,7 +6836,7 @@ BL,2022-04-11,,,,206096,197152,540738,https://www.baselland.ch/politik-und-behor
 BS,2022-04-11,,,,156912,150712,421098,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-04-11,,,,,,498595,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-04-11,,,,287937,271194,559131,https://www.lustat.ch/daten?id=28177
-NE,2022-04-11,,,,135536,8166162,8301698,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-04-11,,,,137925,8147070,8284995,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-04-11,,,,151160,58109,209269,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-04-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-04-12,,,,206096,197152,540741,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -6875,7 +6875,7 @@ ZG,2022-04-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BL,2022-04-18,,,,206106,197156,540820,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-04-18,,,,156923,150742,421318,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-04-18,,,,,,498889,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2022-04-18,,,,135815,8294720,8430535,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-04-18,,,,138204,8275625,8413829,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-04-18,,,,151171,58109,209280,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-04-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-04-19,,,,206106,197156,540820,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -6913,7 +6913,7 @@ BL,2022-04-25,,,,206124,197182,541149,https://www.baselland.ch/politik-und-behor
 BS,2022-04-25,,,,156948,150769,421671,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-04-25,,,,,,499233,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-04-25,,,,287986,271241,559227,https://www.lustat.ch/daten?id=28177
-NE,2022-04-25,,,,135991,8423280,8559271,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-04-25,,,,138380,8404182,8542562,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-04-25,,,,151270,58118,209388,https://coviddashboard.sh.ch/impfungen/
 SO,2022-04-25,,,,192326,183705,489305,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-04-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -6956,7 +6956,7 @@ BL,2022-05-02,,,,206142,197207,541355,https://www.baselland.ch/politik-und-behor
 BS,2022-05-02,,,,156974,150804,421978,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-05-02,,,,,,499657,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-05-02,,,,288014,271267,559281,https://www.lustat.ch/daten?id=28177
-NE,2022-05-02,,,,136384,8551843,8688227,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-05-02,,,,138773,8532740,8671513,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-05-02,,,,151324,58123,209447,https://coviddashboard.sh.ch/impfungen/
 SO,2022-05-02,,,,192353,183730,489584,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-05-02,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -6996,7 +6996,7 @@ BL,2022-05-09,,,,206176,197224,541588,https://www.baselland.ch/politik-und-behor
 BS,2022-05-09,,,,157007,150820,422256,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-05-09,,,,,,500020,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-05-09,,,,288046,271291,559337,https://www.lustat.ch/daten?id=28177
-NE,2022-05-09,,,,136806,8680407,8817213,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-05-09,,,,139195,8661300,8800495,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-05-09,,,,151380,58126,209506,https://coviddashboard.sh.ch/impfungen/
 SO,2022-05-09,,,,192365,183735,489648,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-05-09,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -7036,7 +7036,7 @@ BL,2022-05-16,,,,206207,197237,541814,https://www.baselland.ch/politik-und-behor
 BS,2022-05-16,,,,157029,150842,422551,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-05-16,,,,,,500481,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-05-16,,,,288084,271305,559389,https://www.lustat.ch/daten?id=28177
-NE,2022-05-16,,,,137102,8808972,8946074,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-05-16,,,,139491,8789863,8929354,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-05-16,,,,151454,58135,209589,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-05-16,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-05-17,,,,206207,197237,541814,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7077,7 +7077,7 @@ ZG,2022-05-22,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BL,2022-05-23,,,,206232,197255,541998,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-05-23,,,,157053,150857,422832,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-05-23,,,,288117,271324,559441,https://www.lustat.ch/daten?id=28177
-NE,2022-05-23,,,,137336,8937538,9074874,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-05-23,,,,139725,8918427,9058152,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-05-23,,,,151507,58137,209644,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-05-23,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-05-24,,,,206232,197257,542016,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7115,7 +7115,7 @@ BL,2022-05-30,,,,206256,197275,542265,https://www.baselland.ch/politik-und-behor
 BS,2022-05-30,,,,157088,150888,423095,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-05-30,,,,,,500960,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-05-30,,,,288167,271363,559530,https://www.lustat.ch/daten?id=28177
-NE,2022-05-30,,,,137492,9066105,9203597,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-05-30,,,,139881,9046992,9186873,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-05-30,,,,151558,58139,209697,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-05-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-05-31,,,,206256,197275,542273,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7150,7 +7150,7 @@ SH,2022-06-05,,,,151562,58139,209701,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-06-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-06-06,,,,206267,197288,542402,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BS,2022-06-06,,,,157101,150929,423361,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2022-06-06,,,,137564,9194673,9332237,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-06-06,,,,139953,9175558,9315511,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-06-06,,,,151562,58139,209701,https://coviddashboard.sh.ch/impfungen/
 SO,2022-06-06,,,,192419,183820,490’369,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-06-06,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -7191,7 +7191,7 @@ BL,2022-06-13,,,,206279,197344,542706,https://www.baselland.ch/politik-und-behor
 BS,2022-06-13,,,,157124,150967,423671,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-06-13,,,,,,501858,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-06-13,,,,288223,271413,559636,https://www.lustat.ch/daten?id=28177
-NE,2022-06-13,,,,137594,9323243,9460837,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-06-13,,,,139983,9304125,9444108,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-06-13,,,,151650,58148,209798,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-06-13,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-06-14,,,,206280,197345,542719,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7229,7 +7229,7 @@ BL,2022-06-20,,,,206289,197374,542990,https://www.baselland.ch/politik-und-behor
 BS,2022-06-20,,,,157139,151032,424025,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-06-20,,,,,,502241,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-06-20,,,,288248,271463,559711,https://www.lustat.ch/daten?id=28177
-NE,2022-06-20,,,,137611,9451814,9589425,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-06-20,,,,140000,9432693,9572693,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-06-20,,,,151713,58151,209864,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-06-20,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-06-21,,,,206289,197374,542994,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7267,7 +7267,7 @@ BL,2022-06-27,,,,206314,197406,543430,https://www.baselland.ch/politik-und-behor
 BS,2022-06-27,,,,157155,151072,424486,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-06-27,,,,,,502965,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-06-27,,,,288270,271498,559768,https://www.lustat.ch/daten?id=28177
-NE,2022-06-27,,,,137625,9580386,9718011,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-06-27,,,,140019,9561263,9701282,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-06-27,,,,151786,58158,209944,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-06-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-06-28,,,,206314,197406,543430,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7304,7 +7304,7 @@ BL,2022-07-04,,,,206319,197417,543607,https://www.baselland.ch/politik-und-behor
 BS,2022-07-04,,,,157184,151109,424998,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-07-04,,,,,,503813,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-07-04,,,,288294,271526,559820,https://www.lustat.ch/daten?id=28177
-NE,2022-07-04,,,,137644,9708961,9846605,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-07-04,,,,140029,9689834,9829863,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-07-04,,,,151889,58165,210054,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-07-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BL,2022-07-05,,,,206319,197417,543613,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
@@ -7341,7 +7341,7 @@ ZG,2022-07-10,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-07-11,,,,157204,151135,425748,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-07-11,,,,,,504955,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-07-11,,,,288326,271548,559874,https://www.lustat.ch/daten?id=28177
-NE,2022-07-11,,,,137654,9837539,9975193,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-07-11,,,,140047,9818406,9958453,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-07-11,,,,152078,58168,210246,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-07-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-07-12,,,,157204,151135,425748,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7372,7 +7372,7 @@ ZG,2022-07-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-07-18,,,,157225,151147,427083,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-07-18,,,,,,506934,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-07-18,,,,288345,271560,559905,https://www.lustat.ch/daten?id=28177
-NE,2022-07-18,,,,137672,9966121,10103793,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-07-18,,,,140056,9946981,10087037,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-07-18,,,,152525,58170,210695,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-07-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-07-19,,,,157225,151147,427114,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7404,7 +7404,7 @@ BS,2022-07-25,,,,157251,151163,428246,https://data.bs.ch/explore/dataset/100111/
 FR,2022-07-25,,,,,,509783,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 GE,2022-07-25,,,,390522,361301,973819,https://www.ge.ch/teaser/covid-19-vaccin
 LU,2022-07-25,,,,288362,271581,559943,https://www.lustat.ch/daten?id=28177
-NE,2022-07-25,,,,137681,10094706,10232387,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-07-25,,,,140079,10075559,10215638,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-07-25,,,,153223,58178,211401,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-07-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-07-26,,,,157255,151165,428258,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7434,7 +7434,7 @@ SH,2022-07-31,,,,153657,58180,211837,https://coviddashboard.sh.ch/impfungen/
 SO,2022-07-31,,,,192493,183950,493534,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-07-31,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-01,,,,157265,151179,429017,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2022-08-01,,,,137704,10223292,10360996,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-08-01,,,,140125,10204141,10344266,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-08-01,,,,153657,58180,211837,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-08-01,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-02,,,,157265,151179,429021,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7465,7 +7465,7 @@ ZG,2022-08-07,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-08-08,,,,157278,151195,429666,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-08-08,,,,,,512972,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-08-08,,,,288400,271611,560011,https://www.lustat.ch/daten?id=28177
-NE,2022-08-08,,,,137750,10351881,10489631,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-08-08,,,,140166,10332726,10472892,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-08-08,,,,154064,58190,212254,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-08-08,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-09,,,,157278,151196,429805,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7493,7 +7493,7 @@ SH,2022-08-14,,,,154164,58191,212355,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-08-14,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-15,,,,157295,151216,430758,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 LU,2022-08-15,,,,288423,271625,560048,https://www.lustat.ch/daten?id=28177
-NE,2022-08-15,,,,137791,10480471,10618262,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-08-15,,,,140192,10461312,10601504,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-08-15,,,,154279,58192,212471,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-08-15,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-16,,,,157296,151216,430808,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7524,7 +7524,7 @@ ZG,2022-08-21,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-08-22,,,,157312,151250,431628,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-08-22,,,,,,514137,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-08-22,,,,288442,271636,560078,https://www.lustat.ch/daten?id=28177
-NE,2022-08-22,,,,137817,10609063,10746880,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-08-22,,,,140221,10589901,10730122,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-08-22,,,,154428,58194,212622,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-08-22,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-23,,,,157312,151250,431766,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7553,7 +7553,7 @@ SO,2022-08-28,,,,192552,183992,497098,https://corona.so.ch/bevoelkerung/daten/im
 ZG,2022-08-28,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-29,,,,157321,151268,432496,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-08-29,,,,,,514664,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2022-08-29,,,,137846,10610793,10748639,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-08-29,,,,140281,10718491,10858772,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-08-29,,,,154550,58195,212745,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-08-29,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-08-30,,,,157321,151269,432499,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7581,7 +7581,7 @@ SH,2022-09-04,,,,154561,58197,212758,https://coviddashboard.sh.ch/impfungen/
 SO,2022-09-04,,,,192544,183995,497356,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-09-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-09-05,,,,157337,151291,433121,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2022-09-05,,,,137906,10614265,10752171,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-09-05,,,,140363,10847083,10987446,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-09-05,,,,154669,58203,212872,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-09-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-09-06,,,,157337,151291,433235,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7609,7 +7609,7 @@ SH,2022-09-11,,,,154675,58203,212878,https://coviddashboard.sh.ch/impfungen/
 SO,2022-09-11,,,,192560,180006,497735,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-09-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-09-12,,,,157347,151309,433669,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2022-09-12,,,,137988,10619247,10757235,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-09-12,,,,140453,10848813,10989266,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-09-12,,,,154808,58207,213015,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-09-12,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-09-13,,,,157348,151309,433673,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7639,7 +7639,7 @@ ZG,2022-09-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-09-19,,,,157356,151336,433975,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-09-19,,,,,,515493,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-09-19,,,,288485,271681,560166,https://www.lustat.ch/daten?id=28177
-NE,2022-09-19,,,,138078,10627769,10765847,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-09-19,,,,140527,10852285,10992812,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-09-19,,,,154908,58210,213118,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-09-19,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-09-20,,,,157357,151336,433976,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7669,7 +7669,7 @@ ZG,2022-09-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-09-26,,,,157371,151344,434251,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-09-26,,,,,,515794,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-09-26,,,,288500,271691,560191,https://www.lustat.ch/daten?id=28177
-NE,2022-09-26,,,,138152,10635737,10773889,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-09-26,,,,140612,10857267,10997879,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-09-26,,,,154985,58214,213199,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-09-26,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-09-27,,,,157371,151344,434256,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7699,7 +7699,7 @@ ZG,2022-10-02,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-10-03,,,,157377,151356,434460,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-10-03,,,,,,515996,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-10-03,,,,288508,271701,560209,https://www.lustat.ch/daten?id=28177
-NE,2022-10-03,,,,138237,10640791,10779028,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-10-03,,,,140711,10865789,11006500,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-10-03,,,,155067,58217,213284,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-10-03,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-04,,,,157378,151356,434463,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7727,7 +7727,7 @@ SO,2022-10-09,,,,192573,184056,499155,https://corona.so.ch/bevoelkerung/daten/im
 ZG,2022-10-09,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-10,,,,157380,151371,435395,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-10-10,,,,,,516102,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2022-10-10,,,,138336,10644360,10782696,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-10-10,,,,140784,10873757,11014541,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-10-10,,,,155353,58217,213570,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-10-10,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-11,,,,157386,151371,435959,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7756,7 +7756,7 @@ ZG,2022-10-16,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-10-17,,,,157397,151377,439785,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-10-17,,,,,,520659,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-10-17,,,,288528,271715,560243,https://www.lustat.ch/daten?id=28177
-NE,2022-10-17,,,,138409,10651822,10790231,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-10-17,,,,140834,10878811,11019645,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-10-17,,,,156665,58219,214884,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-10-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-18,,,,157401,151378,440726,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7788,7 +7788,7 @@ ZG,2022-10-23,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-10-24,,,,157409,151399,444968,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-10-24,,,,,,523635,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-10-24,,,,288547,271734,560281,https://www.lustat.ch/daten?id=28177
-NE,2022-10-24,,,,138459,10659269,10797728,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-10-24,,,,140858,10882380,11023238,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-10-24,,,,157878,58221,216099,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-10-24,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-10-25,,,,157414,151404,445843,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7820,7 +7820,7 @@ ZG,2022-10-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-10-31,,,,157422,151418,449335,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-10-31,,,,,,525809,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-10-31,,,,288572,271758,560330,https://www.lustat.ch/daten?id=28177
-NE,2022-10-31,,,,138483,10665579,10804062,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-10-31,,,,140873,10889842,11030715,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-10-31,,,,159128,58223,217351,https://coviddashboard.sh.ch/impfungen/
 SO,2022-10-31,,,,192587,184071,506908,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2022-10-31,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -7849,7 +7849,7 @@ SO,2022-11-06,,,,192593,184077,508706,https://corona.so.ch/bevoelkerung/daten/im
 ZG,2022-11-06,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-11-07,,,,157437,151436,452486,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-11-07,,,,,,527250,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2022-11-07,,,,138498,10669700,10808198,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-11-07,,,,140915,10897289,11038204,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-11-07,,,,160182,58225,218407,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-11-07,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-11-08,,,,157437,151437,453144,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7878,7 +7878,7 @@ ZG,2022-11-13,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-11-14,,,,157443,151450,455080,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-11-14,,,,,,528819,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-11-14,,,,288569,271762,560331,https://www.lustat.ch/daten?id=28177
-NE,2022-11-14,,,,138540,10672370,10810910,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-11-14,,,,141033,10903599,11044632,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-11-14,,,,160913,58226,219139,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-11-14,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-11-15,,,,157443,151455,455574,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7907,7 +7907,7 @@ SH,2022-11-20,,,,161312,58227,219539,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-11-20,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-11-21,,,,157453,151475,457212,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-11-21,,,,,,529912,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2022-11-21,,,,138658,10674019,10812677,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-11-21,,,,141367,10907720,11049087,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-11-21,,,,161488,58227,219715,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-11-21,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-11-22,,,,157453,151476,457634,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7939,7 +7939,7 @@ ZG,2022-11-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-11-28,,,,157464,151483,458983,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-11-28,,,,,,532273,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-11-28,,,,288587,271778,560365,https://www.lustat.ch/daten?id=28177
-NE,2022-11-28,,,,138992,10674300,10813292,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-11-28,,,,141850,10910390,11052240,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-11-28,,,,162060,58229,220289,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-11-28,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-11-29,,,,157464,151483,459064,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7969,7 +7969,7 @@ ZG,2022-12-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-12-05,,,,157474,151491,460217,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-12-05,,,,,,534144,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-12-05,,,,288595,271787,560382,https://www.lustat.ch/daten?id=28177
-NE,2022-12-05,,,,139475,10674583,10814058,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-12-05,,,,142112,10912039,11054151,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-12-05,,,,162867,58231,221098,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-12-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-06,,,,157474,151493,460324,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -7998,7 +7998,7 @@ ZG,2022-12-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2022-12-12,,,,157479,151502,461640,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-12-12,,,,,,535376,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 LU,2022-12-12,,,,288604,271790,560394,https://www.lustat.ch/daten?id=28177
-NE,2022-12-12,,,,139737,10674868,10814605,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-12-12,,,,142277,10912320,11054597,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-12-12,,,,163315,58232,221547,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-12-12,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-13,,,,157480,151503,461874,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8027,7 +8027,7 @@ SO,2022-12-18,,,,192624,184126,520358,https://corona.so.ch/bevoelkerung/daten/im
 ZG,2022-12-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-19,,,,157497,151518,463047,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2022-12-19,,,,,,536356,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2022-12-19,,,,139902,10675239,10815141,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-12-19,,,,142596,10912603,11055199,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-12-19,,,,163570,58232,221802,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-12-19,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-20,,,,157498,151518,463108,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8054,7 +8054,7 @@ BS,2022-12-25,,,,157500,151521,463645,https://data.bs.ch/explore/dataset/100111/
 SH,2022-12-25,,,,163618,58232,221850,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-12-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-26,,,,157500,151521,463645,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2022-12-26,,,,140221,10675363,10815584,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2022-12-26,,,,142958,10912888,11055846,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2022-12-26,,,,163618,58232,221850,https://coviddashboard.sh.ch/impfungen/
 ZG,2022-12-26,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2022-12-27,,,,157500,151521,463683,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8078,7 +8078,7 @@ BS,2023-01-01,,,,157500,151521,463751,https://data.bs.ch/explore/dataset/100111/
 SH,2023-01-01,,,,163675,58232,221907,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-01,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-02,,,,157500,151521,463763,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-01-02,,,,140583,10675470,10816053,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-01-02,,,,143325,10913259,11056584,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2023-01-02,,,,163675,58232,221907,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-02,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-03,,,,157500,151521,463782,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8103,7 +8103,7 @@ SH,2023-01-08,,,,163730,58232,221962,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-08,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-09,,,,157512,151535,464460,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 FR,2023-01-09,,,,,,537154,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-NE,2023-01-09,,,,140950,10675533,10816483,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-01-09,,,,143625,10913383,11057008,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 NW,2023-01-09,,,,29874,,,https://www.nw.ch/gesundheitsamtdienste/6044
 SH,2023-01-09,,,,163771,58232,222003,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-09,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8129,7 +8129,7 @@ SH,2023-01-15,,,,163852,58234,222086,https://coviddashboard.sh.ch/impfungen/
 SO,2023-01-15,,,,192637,184142,521605,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-01-15,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-16,,,,157516,151540,465020,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-01-16,,,,141250,10675645,10816895,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-01-16,,,,143793,10913490,11057283,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2023-01-16,,,,163898,58234,222132,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-16,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-17,,,,157516,151542,465186,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8152,7 +8152,7 @@ BS,2023-01-22,,,,157518,151544,465549,https://data.bs.ch/explore/dataset/100111/
 SH,2023-01-22,,,,163932,58235,222167,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-22,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-23,,,,157518,151544,465553,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-01-23,,,,141418,10675736,10817154,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-01-23,,,,144004,10913553,11057557,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 SH,2023-01-23,,,,163957,58236,222193,https://coviddashboard.sh.ch/impfungen/
 ZG,2023-01-23,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-24,,,,157518,151544,465607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8177,7 +8177,7 @@ BS,2023-01-29,,,,157521,151551,466100,https://data.bs.ch/explore/dataset/100111/
 SO,2023-01-29,,,,192647,184147,521998,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-01-29,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-30,,,,157521,151553,466115,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-01-30,,,,141629,10675887,10817516,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-01-30,,,,144164,10913665,11057829,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-01-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-01-31,,,,157521,151553,466125,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-01-31,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8194,7 +8194,7 @@ BS,2023-02-05,,,,157523,151558,466424,https://data.bs.ch/explore/dataset/100111/
 SO,2023-02-05,,,,192648,184149,522074,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-02-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-06,,,,157525,151558,466437,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-02-06,,,,141789,10676023,10817812,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-02-06,,,,144296,10913756,11058052,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-02-06,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-07,,,,157525,151558,466518,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-07,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8211,7 +8211,7 @@ ZG,2023-02-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-02-12,,,,157528,151563,466680,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-12,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-13,,,,157528,151563,466688,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-02-13,,,,141921,10676139,10818060,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-02-13,,,,144429,10913907,11058336,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-02-13,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-14,,,,157528,151563,466695,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-14,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8228,7 +8228,7 @@ BS,2023-02-19,,,,157533,151566,466886,https://data.bs.ch/explore/dataset/100111/
 SO,2023-02-19,,,,192653,184159,522187,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-02-19,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-20,,,,157534,151567,466891,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-02-20,,,,142054,10676305,10818359,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-02-20,,,,146556,10914043,11060599,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-02-20,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-21,,,,157534,151567,466897,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-02-21,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8246,7 +8246,7 @@ BS,2023-02-26,,,,157534,151570,467050,https://data.bs.ch/explore/dataset/100111/
 SO,2023-02-26,,,,192659,184160,522235,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-02-26,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-27,,,,157534,151570,467053,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-02-27,,,,144181,10676499,10820680,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-02-27,,,,149530,10914159,11063689,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-02-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-02-28,,,,157535,151570,467058,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 NW,2023-02-28,,,,29878,,,https://www.nw.ch/gesundheitsamtdienste/6044
@@ -8265,7 +8265,7 @@ BS,2023-03-05,,,,157535,151572,467131,https://data.bs.ch/explore/dataset/100111/
 SO,2023-03-05,,,,192661,184168,522286,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-03-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-06,,,,157536,151572,467134,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-03-06,,,,147155,10676668,10823823,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-03-06,,,,151881,10914325,11066206,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-03-06,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-07,,,,157536,151572,467141,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-03-07,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8282,7 +8282,7 @@ BS,2023-03-12,,,,157536,151576,467270,https://data.bs.ch/explore/dataset/100111/
 SO,2023-03-12,,,,192661,184173,522335,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 ZG,2023-03-12,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-13,,,,157536,151577,467279,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-03-13,,,,149506,10677032,10826538,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-03-13,,,,153405,10914519,11067924,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-03-13,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-14,,,,157536,151577,467286,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-03-14,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8299,7 +8299,7 @@ ZG,2023-03-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-03-19,,,,157536,151580,467317,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-03-19,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-20,,,,157536,151581,467323,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-03-20,,,,151030,10677451,10828481,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-03-20,,,,154988,10914688,11069676,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-03-20,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-21,,,,157536,151581,467326,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-03-21,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8316,7 +8316,7 @@ ZG,2023-03-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-03-26,,,,157536,151583,467350,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-03-26,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-27,,,,157536,151584,467354,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-03-27,,,,152613,10677684,10830297,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-03-27,,,,157056,10915052,11072108,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-03-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-03-28,,,,157537,151584,467358,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-03-28,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8333,7 +8333,7 @@ ZG,2023-04-01,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-04-02,,,,157538,151584,467379,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-02,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-03,,,,157538,151584,467380,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-04-03,,,,154681,10677851,10832532,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-04-03,,,,158640,10915471,11074111,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-04-03,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-04,,,,157538,151584,467381,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8349,7 +8349,7 @@ ZG,2023-04-08,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-04-09,,,,157538,151584,467391,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-09,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-10,,,,157538,151584,467391,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-04-10,,,,156265,10677940,10834205,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-04-10,,,,160161,10915704,11075865,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-04-10,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-11,,,,157538,151587,467402,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8365,7 +8365,7 @@ ZG,2023-04-15,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-04-16,,,,157538,151591,467411,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-16,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-17,,,,157538,151591,467411,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-04-17,,,,157786,10677994,10835780,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-04-17,,,,161186,10915871,11077057,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-04-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-18,,,,157538,151591,467414,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8381,7 +8381,7 @@ ZG,2023-04-22,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-04-23,,,,157539,151592,467426,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-23,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-24,,,,157539,151593,467427,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-04-24,,,,158811,10678447,10837258,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-04-24,,,,162191,10915960,11078151,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-04-24,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-04-25,,,,157539,151593,467428,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8397,7 +8397,7 @@ ZG,2023-04-29,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-04-30,,,,157539,151594,467439,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-04-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-01,,,,157539,151594,467439,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-05-01,,,,159816,10678691,10838507,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-05-01,,,,162485,10916014,11078499,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-05-01,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-02,,,,157539,151594,467441,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-02,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8413,7 +8413,7 @@ ZG,2023-05-06,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-05-07,,,,157540,151595,467450,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-07,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-08,,,,157540,151595,467450,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-05-08,,,,160110,10679785,10839895,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-05-08,,,,162550,10916467,11079017,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-05-08,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-09,,,,157540,151596,467453,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-09,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8428,7 +8428,7 @@ ZG,2023-05-13,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-05-14,,,,157541,151596,467460,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-14,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-15,,,,157541,151597,467461,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-05-15,,,,160175,10681774,10841949,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-05-15,,,,162803,10916711,11079514,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-05-15,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-16,,,,157541,151597,467462,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-16,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8443,7 +8443,7 @@ ZG,2023-05-20,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-05-21,,,,157541,151598,467468,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-21,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-22,,,,157541,151598,467470,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-05-22,,,,160428,10684589,10845017,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-05-22,,,,163041,10917805,11080846,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-05-22,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-23,,,,157542,151598,467471,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-23,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8458,7 +8458,7 @@ ZG,2023-05-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-05-28,,,,157543,151598,467477,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-28,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-29,,,,157543,151598,467477,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-05-29,,,,160666,10688149,10848815,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-05-29,,,,163213,10919794,11083007,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-05-29,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-05-30,,,,157543,151598,467478,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-05-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8473,7 +8473,7 @@ ZG,2023-06-03,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-06-04,,,,157543,151598,467487,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-05,,,,157544,151598,467490,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-06-05,,,,160838,10691188,10852026,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-06-05,,,,163368,10922609,11085977,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-06-05,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-06,,,,157544,151599,467491,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-06,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8488,7 +8488,7 @@ ZG,2023-06-10,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-06-11,,,,157544,151600,467501,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-12,,,,157544,151600,467503,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-06-12,,,,160993,10692311,10853304,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-06-12,,,,163477,10926169,11089646,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-06-12,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-13,,,,157544,151600,467504,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-13,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8503,7 +8503,7 @@ ZG,2023-06-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-06-18,,,,157546,151600,467510,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-19,,,,157546,151601,467511,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-06-19,,,,161102,10693473,10854575,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-06-19,,,,163548,10929208,11092756,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-06-19,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-20,,,,157546,151601,467511,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-20,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8518,7 +8518,7 @@ ZG,2023-06-24,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-06-25,,,,157546,151601,467513,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-26,,,,157546,151601,467514,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-06-26,,,,161173,10694432,10855605,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-06-26,,,,163595,10930331,11093926,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-06-26,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-06-27,,,,157546,151601,467514,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-06-27,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8533,7 +8533,7 @@ ZG,2023-07-01,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-07-02,,,,157547,151602,467521,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-02,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-03,,,,157548,151602,467522,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-07-03,,,,161220,10696727,10857947,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-07-03,,,,163611,10931493,11095104,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-07-03,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-04,,,,157548,151602,467522,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-04,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8548,7 +8548,7 @@ ZG,2023-07-08,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-07-09,,,,157549,151603,467524,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-09,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-10,,,,157549,151604,467527,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-07-10,,,,4137,0,4137,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-07-10,,,,5611,0,5611,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-07-10,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-11,,,,157549,151604,467527,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-11,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8563,7 +8563,7 @@ ZG,2023-07-15,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-07-16,,,,157550,151606,467531,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-16,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-17,,,,157552,151606,467533,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-07-17,,,,161236,10700906,10862142,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-07-17,,,,163664,10932452,11096116,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-07-17,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-18,,,,157553,151606,467535,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-18,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8578,7 +8578,7 @@ ZG,2023-07-22,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-07-23,,,,157554,151606,467536,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-23,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-24,,,,157554,151606,467536,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-07-24,,,,1961,0,1961,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-07-24,,,,2402,0,2402,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-07-24,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-25,,,,157555,151606,467537,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-25,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
@@ -8593,7 +8593,7 @@ ZG,2023-07-29,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfa
 BS,2023-07-30,,,,157556,151606,467541,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 ZG,2023-07-30,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-07-31,,,,157556,151606,467541,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-07-31,,,,161289,10704236,10865525,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-07-31,,,,163699,10934747,11098446,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 ZG,2023-07-31,,,,,,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 BS,2023-08-01,,,,157556,151606,467541,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-02,,,,157556,151606,467545,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8602,7 +8602,7 @@ BS,2023-08-04,,,,157556,151606,467545,https://data.bs.ch/explore/dataset/100111/
 BS,2023-08-05,,,,157556,151606,467545,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-06,,,,157556,151606,467545,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-07,,,,157556,151606,467545,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-08-07,,,,161324,10708813,10870137,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-08-07,,,,163711,10938926,11102637,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-08-08,,,,157556,151606,467545,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-09,,,,157556,151606,467546,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-10,,,,157556,151606,467546,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8610,7 +8610,7 @@ BS,2023-08-11,,,,157557,151607,467552,https://data.bs.ch/explore/dataset/100111/
 BS,2023-08-12,,,,157557,151607,467552,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-13,,,,157557,151607,467552,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-14,,,,157557,151607,467553,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-08-14,,,,161332,10714046,10875378,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-08-14,,,,163719,10942256,11105975,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-08-15,,,,157557,151608,467555,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-16,,,,157557,151609,467557,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-17,,,,157558,151609,467558,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8618,7 +8618,7 @@ BS,2023-08-18,,,,157558,151609,467558,https://data.bs.ch/explore/dataset/100111/
 BS,2023-08-19,,,,157558,151609,467560,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-20,,,,157558,151609,467560,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-21,,,,157558,151609,467561,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-08-21,,,,161334,10718604,10879938,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-08-21,,,,163725,10946833,11110558,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-08-22,,,,157558,151609,467563,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-23,,,,157558,151609,467563,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-24,,,,157558,151609,467563,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8626,7 +8626,7 @@ BS,2023-08-25,,,,157558,151609,467567,https://data.bs.ch/explore/dataset/100111/
 BS,2023-08-26,,,,157558,151609,467567,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-27,,,,157558,151609,467567,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-28,,,,157558,151611,467570,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-08-28,,,,3209,0,3209,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-08-28,,,,4363,0,4363,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-08-29,,,,157559,151611,467571,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-30,,,,157559,151612,467573,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-08-31,,,,157559,151612,467573,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8634,7 +8634,7 @@ BS,2023-09-01,,,,157560,151612,467576,https://data.bs.ch/explore/dataset/100111/
 BS,2023-09-02,,,,157560,151612,467576,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-03,,,,157560,151612,467576,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-04,,,,157560,151612,467576,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-09-04,,,,161340,10721118,10882458,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-09-04,,,,163729,10952066,11115795,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-09-05,,,,157560,151612,467576,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-06,,,,157560,151612,467576,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-07,,,,157560,151612,467577,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8642,7 +8642,7 @@ BS,2023-09-08,,,,157560,151612,467577,https://data.bs.ch/explore/dataset/100111/
 BS,2023-09-09,,,,157560,151612,467577,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-10,,,,157560,151612,467577,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-11,,,,157560,151612,467580,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-09-11,,,,161344,10723508,10884852,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-09-11,,,,163734,10956624,11120358,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-09-12,,,,157560,151612,467582,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-13,,,,157561,151612,467587,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-14,,,,157561,151613,467590,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8650,7 +8650,7 @@ BS,2023-09-15,,,,157561,151613,467597,https://data.bs.ch/explore/dataset/100111/
 BS,2023-09-16,,,,157562,151613,467599,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-17,,,,157562,151613,467599,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-18,,,,157562,151613,467601,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-09-18,,,,161349,10726339,10887688,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-09-18,,,,163735,10959138,11122873,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-09-19,,,,157562,151613,467607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-20,,,,157562,151613,467608,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-21,,,,157562,151614,467611,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8658,7 +8658,7 @@ BS,2023-09-22,,,,157562,151614,467631,https://data.bs.ch/explore/dataset/100111/
 BS,2023-09-23,,,,157562,151614,467635,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-24,,,,157562,151614,467635,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-25,,,,157562,151614,467641,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-09-25,,,,161352,10731531,10892883,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-09-25,,,,163738,10961528,11125266,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-09-26,,,,157562,151614,467641,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-27,,,,157563,151614,467642,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-09-28,,,,157563,151614,467642,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8666,7 +8666,7 @@ BS,2023-09-29,,,,157563,151614,467644,https://data.bs.ch/explore/dataset/100111/
 BS,2023-09-30,,,,157563,151614,467645,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-01,,,,157563,151614,467645,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-02,,,,157563,151614,467647,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-10-02,,,,161363,10738528,10899891,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-10-02,,,,163749,10964359,11128108,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-10-03,,,,157563,151615,467651,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-04,,,,157563,151615,467656,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-05,,,,157563,151615,467660,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8674,7 +8674,7 @@ BS,2023-10-06,,,,157563,151615,467661,https://data.bs.ch/explore/dataset/100111/
 BS,2023-10-07,,,,157563,151615,467663,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-08,,,,157563,151615,467663,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-09,,,,157563,151615,467667,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-10-09,,,,161383,10745884,10907267,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-10-09,,,,163769,10969551,11133320,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-10-10,,,,157563,151615,467667,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-11,,,,157563,151616,467669,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-12,,,,157563,151616,467675,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8682,7 +8682,7 @@ BS,2023-10-13,,,,157563,151616,467678,https://data.bs.ch/explore/dataset/100111/
 BS,2023-10-14,,,,157563,151616,467679,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-15,,,,157563,151616,467679,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-16,,,,157563,151617,467778,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-10-16,,,,162072,10752796,10914868,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-10-16,,,,164458,10976548,11141006,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-10-17,,,,157563,151617,467897,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-18,,,,157563,151617,468001,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-19,,,,157563,151617,468107,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8690,7 +8690,7 @@ BS,2023-10-20,,,,157563,151617,468200,https://data.bs.ch/explore/dataset/100111/
 BS,2023-10-21,,,,157563,151617,468243,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-22,,,,157563,151617,468243,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-23,,,,157563,151618,468330,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-10-23,,,,162849,10757007,10919856,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-10-23,,,,165235,10983904,11149139,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-10-24,,,,157564,151618,468448,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-25,,,,157564,151618,468777,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-26,,,,157564,151618,469052,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8698,7 +8698,7 @@ BS,2023-10-27,,,,157564,151618,469325,https://data.bs.ch/explore/dataset/100111/
 BS,2023-10-28,,,,157564,151618,469364,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-29,,,,157564,151618,469364,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-10-30,,,,157564,151618,469454,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-10-30,,,,164132,10759810,10923942,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-10-30,,,,166518,10990816,11157334,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-10-31,,,,157564,151618,469516,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-01,,,,157564,151618,469528,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-02,,,,157564,151618,469541,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8706,7 +8706,7 @@ BS,2023-11-03,,,,157564,151618,469566,https://data.bs.ch/explore/dataset/100111/
 BS,2023-11-04,,,,157564,151618,469567,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-05,,,,157564,151618,469567,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-06,,,,157564,151618,469569,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-11-06,,,,165624,10761664,10927288,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-11-06,,,,168010,10995027,11163037,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-11-07,,,,157564,151618,469569,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-08,,,,157564,151618,469586,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-09,,,,157564,151618,469588,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8714,7 +8714,7 @@ BS,2023-11-10,,,,157564,151618,469589,https://data.bs.ch/explore/dataset/100111/
 BS,2023-11-11,,,,157564,151618,469591,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-12,,,,157564,151618,469591,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-13,,,,157564,151618,469591,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-11-13,,,,167211,10763674,10930885,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-11-13,,,,169597,10997830,11167427,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-11-14,,,,157564,151618,469592,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-15,,,,157564,151618,469598,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-16,,,,157564,151618,469600,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8722,7 +8722,7 @@ BS,2023-11-17,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/
 BS,2023-11-18,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-19,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-20,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-11-20,,,,168509,10765160,10933669,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-11-20,,,,170895,10999684,11170579,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-11-21,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-22,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-23,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -8730,15 +8730,16 @@ BS,2023-11-24,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/
 BS,2023-11-25,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-26,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-27,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-11-27,,,,169425,10766559,10935984,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-11-27,,,,171811,11001694,11173505,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
 BS,2023-11-28,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-29,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BS,2023-11-30,,,,157564,151618,469607,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-NE,2023-12-04,,,,170161,10768032,10938193,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2023-12-11,,,,170726,10769439,10940165,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2023-12-18,,,,171187,10770775,10941962,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2023-12-25,,,,171271,10772472,10943743,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2024-01-01,,,,171278,10774753,10946031,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2024-01-08,,,,171300,10776745,10948045,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2024-01-15,,,,171312,10779036,10950348,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
-NE,2024-01-22,,,,171313,10781438,10952751,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-12-04,,,,172547,11003180,11175727,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-12-11,,,,173112,11004579,11177691,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-12-18,,,,173573,11006052,11179625,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2023-12-25,,,,173657,11007459,11181116,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2024-01-01,,,,173664,11008795,11182459,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2024-01-08,,,,173686,11010492,11184178,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2024-01-15,,,,173699,11012773,11186472,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2024-01-22,,,,173713,11014765,11188478,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
+NE,2024-01-29,,,,173715,11017056,11190771,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Covid-19-statistiques.aspx
